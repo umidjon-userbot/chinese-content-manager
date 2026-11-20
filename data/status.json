@@ -1,15 +1,17 @@
 {
-  "last_run": "2026-11-20T23:37:17+05:00",
+  "last_run": "2026-11-20T23:46:20+05:00",
   "ok": true,
-  "dry_run": true,
+  "dry_run": false,
   "secrets_ok": true,
   "bot_ok": true,
   "bot_username": "alreadytookbot",
   "channel_ok": true,
   "channel_title": "Daily Chinese",
-  "sent": [],
+  "sent": [
+    "2026-11-21-am-vocabulary"
+  ],
   "failed": [],
   "expired": [],
   "message": "",
-  "last_sent_at": null
+  "last_sent_at": "2026-11-20T23:46:21+05:00"
 }

@@ -97,6 +97,25 @@ Keyin dry_run'siz ishga tushirsangiz, vaqti kelgan postlar haqiqatan yuboriladi.
 
 ---
 
+## Kanal havolasi
+
+Har bir post oxiriga kanal havolasi avtomatik qo'shiladi. Uni `data/config.json` faylida o'zgartirasiz:
+
+```json
+{
+  "channel_link": "https://t.me/+WryvE8qgdH5kMTYy",
+  "footer_text": "Daily Chinese — kanalga obuna bo'ling"
+}
+```
+
+`channel_link` bo'sh qoldirilsa, havola qo'shilmaydi.
+
+## Rasm qo'shish
+
+1. Rasmni GitHub'da `assets/images/` papkasiga yuklang (**Add file → Upload files**).
+2. Editorda **Rasm** maydoniga yo'lini yozing: `assets/images/chunjie.jpg`. Internetdagi rasm manzilini (`https://...`) ham qo'yish mumkin.
+3. Preview'da rasm ko'rinadi. Matn 1024 belgigacha bo'lsa, rasm va matn bitta xabar bo'lib ketadi; uzunroq bo'lsa, avval rasm, keyin matn alohida yuboriladi.
+
 ## Muhim eslatmalar
 
 - **Cron kechikishi.** GitHub jadvaldagi ishlarni ba'zan 5–30 daqiqa, yuklama yuqori bo'lsa undan ko'p kechiktiradi. Shu sababli 09:30 va 19:30 da zaxira ishga tushish bor. Vaqti kelgan post 12 soat ichida baribir yuboriladi; 12 soatdan eskirganlari avtomatik yuborilmaydi va dashboardda "muddati o'tgan" deb ko'rinadi.

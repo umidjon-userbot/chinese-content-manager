@@ -142,6 +142,43 @@ function autoDistribute() {
   return count;
 }
 
+
+/** "Hozir yuborish": token brauzerda yo'q, shuning uchun GitHub Actions'ni post ID bilan qo'lda ishga tushirish yo'riqnomasi */
+async function sendNowDialog(id) {
+  const p = getPost(id);
+  if (!p) return;
+  const s = state.settings;
+  const onServer = state.server.posts.some((q) => q.id === id);
+  const localChanged = isDirty();
+  const url = s.owner && s.repo
+    ? `https://github.com/${encodeURIComponent(s.owner)}/${encodeURIComponent(s.repo)}/actions/workflows/publish.yml`
+    : '';
+  const copied = await U.copyText(id);
+  const m = $('#modal');
+  m.innerHTML = `<div class="modal-card send-now" role="dialog" aria-modal="true">
+    <h3>⚡ Hozir yuborish</h3>
+    <p class="muted">Bot tokeni xavfsizlik uchun faqat GitHub'da turadi, shuning uchun yuborishni GitHub Actions bajaradi (30–60 soniya).</p>
+    ${!onServer ? '<div class="msg err">❌ Bu post hali repo\'da yo\'q. Avval <a href="#export">Eksport</a> sahifasidan posts.json ni yuklang.</div>'
+    : (localChanged ? '<div class="msg warn">⚠️ Brauzerda saqlanmagan o\'zgarishlar bor — repo\'dagi (eski) matn yuboriladi. Avval eksport qiling.</div>' : '')}
+    <ol class="steps">
+      <li>Post ID: <code class="mono">${U.esc(id)}</code> ${copied ? '<span class="muted">— nusxa olindi ✓</span>' : ''}</li>
+      <li>${url ? `<a href="${url}" target="_blank" rel="noopener">GitHub → Publish to Telegram</a>` : 'GitHub → Actions → Publish to Telegram'} sahifasini oching.</li>
+      <li><b>Run workflow</b> → "Hozir yuboriladigan post ID" maydoniga ID ni qo'ying → yashil <b>Run workflow</b>.</li>
+      <li>Bir daqiqadan so'ng post kanalda bo'ladi; dashboardda ↻ bosing.</li>
+    </ol>
+    <div class="row end">
+      <button class="btn ghost" data-a="copy">📋 ID nusxa</button>
+      ${url && onServer ? `<a class="btn primary" href="${url}" target="_blank" rel="noopener" data-a="open">GitHub'ni ochish</a>` : ''}
+      <button class="btn" data-a="close">Yopish</button>
+    </div></div>`;
+  m.hidden = false;
+  m.onclick = async (e) => {
+    const a = e.target.closest('[data-a]')?.dataset.a;
+    if (a === 'copy') { toast(await U.copyText(id) ? 'ID nusxa olindi' : "Nusxa olib bo'lmadi"); return; }
+    if (e.target === m || a === 'close' || a === 'open') { m.hidden = true; m.innerHTML = ''; }
+  };
+}
+
 /* ---------- Dashboard ---------- */
 
 function renderDashboard(el) {
@@ -295,6 +332,7 @@ function renderPosts(el) {
       <td>${statusBadge(p.status)}${p.last_error ? `<div class="err small" title="${U.esc(p.last_error)}">${U.esc(p.last_error.slice(0, 60))}</div>` : ''}</td>
       <td class="nowrap actions">
         <a class="icon-btn" href="#editor/${encodeURIComponent(p.id)}" title="Tahrirlash">✎</a>
+        ${p.status !== 'Published' ? `<button class="icon-btn" data-send="${U.esc(p.id)}" title="Hozir yuborish">⚡</button>` : ''}
         <button class="icon-btn" data-dup="${U.esc(p.id)}" title="Nusxa ko'paytirish">⧉</button>
         ${p.status !== 'Published' ? `<button class="icon-btn danger" data-del="${U.esc(p.id)}" title="O'chirish">🗑</button>` : ''}
       </td></tr>`).join('') : '<tr><td colspan="8" class="empty">Post topilmadi. <a href="#import">Import</a> qiling yoki yangi post yarating.</td></tr>';
@@ -314,6 +352,8 @@ function renderPosts(el) {
   $('#selAll').addEventListener('change', (e) => { $$('.sel', el).forEach((c) => { c.checked = e.target.checked; }); syncBulk(); });
   el.addEventListener('change', (e) => { if (e.target.classList.contains('sel')) syncBulk(); });
   el.addEventListener('click', async (e) => {
+    const send = e.target.closest('[data-send]');
+    if (send) { sendNowDialog(send.dataset.send); return; }
     const dup = e.target.closest('[data-dup]');
     const del = e.target.closest('[data-del]');
     const bulk = e.target.closest('[data-bulk]');
@@ -456,7 +496,7 @@ function renderEditor(el, arg) {
         <button type="button" class="btn ghost" data-act="draft">💾 Qoralama</button>
         <button type="button" class="btn" data-act="approve">✓ Tasdiqlash</button>
         <button type="button" class="btn primary" data-act="schedule">📅 Rejalashtirish</button>
-        ${isNew ? '' : '<button type="button" class="btn ghost" data-act="dup">⧉ Nusxa</button><button type="button" class="btn danger ghost" data-act="delete">🗑 O\'chirish</button>'}`}
+        ${isNew ? '' : '<button type="button" class="btn ghost" data-act="sendnow">⚡ Hozir yuborish</button><button type="button" class="btn ghost" data-act="dup">⧉ Nusxa</button><button type="button" class="btn danger ghost" data-act="delete">🗑 O\'chirish</button>'}`}
       </div>
     </form>
 
@@ -595,6 +635,7 @@ function renderEditor(el, arg) {
 
   $$('[data-act]', el).forEach((b) => b.addEventListener('click', async () => {
     const act = b.dataset.act;
+    if (act === 'sendnow') { sendNowDialog(p.id); return; }
     if (act === 'dup') { collect(); duplicatePost(p.id); return; }
     if (act === 'delete') {
       if (await confirmBox("Post o'chirilsinmi?", "O'chirish", true)) {

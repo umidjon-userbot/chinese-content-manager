@@ -5,6 +5,7 @@ import { setConfig } from './formatter.js';
 const K_POSTS = 'ccm.posts.v1';
 const K_PRISTINE = 'ccm.pristine.v1';
 const K_SETTINGS = 'ccm.settings.v1';
+const K_DELETED = 'ccm.deleted.v1';
 
 const DEFAULT_SETTINGS = {
   owner: '',
@@ -128,9 +129,25 @@ function syncStatuses() {
   }
 }
 
+function deletedIds() {
+  try { return new Set(JSON.parse(lsGet(K_DELETED) || '[]')); } catch { return new Set(); }
+}
+
+/** Serverda bor, lekin brauzerda yo'q postlarni qo'shadi (foydalanuvchi o'zi o'chirganlaridan tashqari) */
+function addMissingFromServer() {
+  const have = new Set(state.posts.map((p) => p.id));
+  const del = deletedIds();
+  let n = 0;
+  for (const sp of state.server.posts) {
+    if (!have.has(sp.id) && !del.has(sp.id)) { state.posts.push(clone(sp)); n++; }
+  }
+  return n;
+}
+
 function adoptServer() {
   state.posts = serverView();
   lsSet(K_PRISTINE, norm(state.posts));
+  lsDel(K_DELETED);
 }
 
 export function initPosts() {
@@ -146,6 +163,7 @@ export function initPosts() {
       adoptServer();
     } else {
       syncStatuses();
+      addMissingFromServer();
       applyPublished();
     }
   }
@@ -182,6 +200,7 @@ export function clearLocal() {
   lsDel(K_POSTS);
   lsDel(K_PRISTINE);
   lsDel(K_SETTINGS);
+  lsDel(K_DELETED);
 }
 
 export function getPost(id) {
@@ -197,6 +216,9 @@ export function upsertPost(p) {
 
 export function deletePost(id) {
   state.posts = state.posts.filter((p) => p.id !== id);
+  if (state.server.posts.some((p) => p.id === id)) {
+    const del = deletedIds(); del.add(id); lsSet(K_DELETED, JSON.stringify([...del]));
+  }
   persist();
 }
 

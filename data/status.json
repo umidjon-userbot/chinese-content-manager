@@ -1,4 +1,15 @@
 {
-  "last_run": null,
-  "message": "Hali ishga tushmagan"
+  "last_run": "2026-11-20T23:32:17+05:00",
+  "ok": false,
+  "dry_run": true,
+  "secrets_ok": false,
+  "bot_ok": null,
+  "bot_username": null,
+  "channel_ok": null,
+  "channel_title": null,
+  "sent": [],
+  "failed": [],
+  "expired": [],
+  "message": "Secrets sozlanmagan: TELEGRAM_BOT_TOKEN va TELEGRAM_CHANNEL_ID qo'shing",
+  "last_sent_at": null
 }

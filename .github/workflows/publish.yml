@@ -8,6 +8,10 @@ on:
     - cron: '30 14 * * *'  # 19:30 zaxira
   workflow_dispatch:
     inputs:
+      post_id:
+        description: "Hozir yuboriladigan post ID (bo'sh qolsa — jadval bo'yicha)"
+        type: string
+        default: ""
       dry_run:
         description: "Sinov rejimi (hech narsa yuborilmaydi)"
         type: boolean
@@ -36,10 +40,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+          POST_ID: ${{ inputs.post_id }}
         run: |
           ARGS="--result-out /tmp/result.json"
           if [ "$DRY_RUN" = "1" ]; then ARGS="$ARGS --dry-run"; fi
-          python3 scripts/publish.py $ARGS
+          python3 scripts/publish.py $ARGS ${POST_ID:+--post-id "$POST_ID"}
 
       - name: Natijani commit qilish
         id: commit

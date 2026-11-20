@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T00:00:20+05:00",
+  "updated_at": "2026-11-21T00:10:36+05:00",
   "posts": [
     {
       "id": "2026-11-21-am-vocabulary",
@@ -68,9 +68,10 @@
         "grammatika"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-21T00:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:54:24+05:00"
     },
     {
       "id": "2026-11-22-am-hsk",
@@ -98,9 +99,10 @@
         "HSK3"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-20T23:56:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:55:19+05:00"
     },
     {
       "id": "2026-11-22-pm-chengyu",
@@ -128,9 +130,10 @@
         "成语"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-22T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-23-am-characters",
@@ -158,9 +161,10 @@
         "汉字"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-23T09:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-23-pm-culture",
@@ -188,9 +192,10 @@
         "madaniyat"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-23T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-24-am-conversation",
@@ -218,9 +223,10 @@
         "suhbat"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-24T09:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-24-pm-slang",
@@ -248,9 +254,10 @@
         "slang"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-24T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-25-am-vocabulary",
@@ -278,9 +285,10 @@
         "HSK3"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-25T09:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-25-pm-grammar",
@@ -309,9 +317,10 @@
         "grammatika"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-25T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-26-am-facts",
@@ -339,9 +348,10 @@
         "fakt"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-26T09:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-26-pm-chengyu",
@@ -369,9 +379,10 @@
         "成语"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-26T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-27-am-internet",
@@ -399,9 +410,10 @@
         "internet"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-27T09:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "2026-11-27-pm-culture",
@@ -430,9 +442,10 @@
         "odob"
       ],
       "text_override": null,
-      "scheduled_at": null,
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-27T19:00:00+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:53:58+05:00"
     },
     {
       "id": "hsk1-001",

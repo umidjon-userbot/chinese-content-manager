@@ -1,0 +1,3002 @@
+[
+{
+"id": "hsk1-001",
+"n": 1,
+"hanzi": "爱",
+"pinyin": "ài",
+"talaffuz": "ay",
+"uz": "SEVMOQ, YAXSHI KO'RMOQ",
+"en": "to love",
+"pos": "verb"
+},
+{
+"id": "hsk1-002",
+"n": 2,
+"hanzi": "八",
+"pinyin": "bā",
+"talaffuz": "ba",
+"uz": "SAKKIZ",
+"en": "eight",
+"pos": "number"
+},
+{
+"id": "hsk1-003",
+"n": 3,
+"hanzi": "爸爸",
+"pinyin": "bàba",
+"talaffuz": "ba-ba",
+"uz": "DADA, OTA",
+"en": "dad",
+"pos": "noun"
+},
+{
+"id": "hsk1-004",
+"n": 4,
+"hanzi": "吧",
+"pinyin": "ba",
+"talaffuz": "ba",
+"uz": "TAKLIF",
+"en": "particle indicating suggestion, confirmation, or hesitation",
+"pos": "auxiliary"
+},
+{
+"id": "hsk1-005",
+"n": 5,
+"hanzi": "白天",
+"pinyin": "báitiān",
+"talaffuz": "bay-tyen",
+"uz": "KUNDUZI, KUN VAQTI",
+"en": "daytime",
+"pos": "noun"
+},
+{
+"id": "hsk1-006",
+"n": 6,
+"hanzi": "百",
+"pinyin": "bǎi",
+"talaffuz": "bay",
+"uz": "YUZ",
+"en": "hundred",
+"pos": "number"
+},
+{
+"id": "hsk1-007",
+"n": 7,
+"hanzi": "半",
+"pinyin": "bàn",
+"talaffuz": "ban",
+"uz": "YARIM",
+"en": "half; half, semi-",
+"pos": "number / adverb"
+},
+{
+"id": "hsk1-008",
+"n": 8,
+"hanzi": "包子",
+"pinyin": "bāozi",
+"talaffuz": "bao-dzi",
+"uz": "BUG'DA PISHIRILGAN MANTI / BULOCHKA",
+"en": "steamed stuffed bun",
+"pos": "noun"
+},
+{
+"id": "hsk1-009",
+"n": 9,
+"hanzi": "杯子",
+"pinyin": "bēizi",
+"talaffuz": "bey-dzi",
+"uz": "PIYOLA, STAKAN, KRUJKA",
+"en": "cup, glass",
+"pos": "noun"
+},
+{
+"id": "hsk1-010",
+"n": 10,
+"hanzi": "本",
+"pinyin": "běn",
+"talaffuz": "ben",
+"uz": "KITOBLAR UCHUN HISOB SO'Z",
+"en": "measure word for books",
+"pos": "classifier"
+},
+{
+"id": "hsk1-011",
+"n": 11,
+"hanzi": "边",
+"pinyin": "biān",
+"talaffuz": "byen",
+"uz": "TOMON, TARAF, CHET",
+"en": "side; suffix indicating direction",
+"pos": "noun / suffix"
+},
+{
+"id": "hsk1-012",
+"n": 12,
+"hanzi": "病",
+"pinyin": "bìng",
+"talaffuz": "bing",
+"uz": "KASALLIK; KASAL BO'LMOQ",
+"en": "illness, disease; to be ill",
+"pos": "noun / verb"
+},
+{
+"id": "hsk1-013",
+"n": 13,
+"hanzi": "不",
+"pinyin": "bù",
+"talaffuz": "bu",
+"uz": "EMAS, YO'Q",
+"en": "not, no",
+"pos": "adverb"
+},
+{
+"id": "hsk1-014",
+"n": 14,
+"hanzi": "不客气",
+"pinyin": "bú kèqi",
+"talaffuz": "bu-ke-chi",
+"uz": "ARZIMAYDI",
+"en": "you're welcome",
+"pos": "phrase"
+},
+{
+"id": "hsk1-015",
+"n": 15,
+"hanzi": "不要",
+"pinyin": "búyào",
+"talaffuz": "bu-yao",
+"uz": "KERAK EMAS",
+"en": "don't, not want",
+"pos": "adverb"
+},
+{
+"id": "hsk1-016",
+"n": 16,
+"hanzi": "菜",
+"pinyin": "cài",
+"talaffuz": "tsay",
+"uz": "SABZAVOT, TAOM",
+"en": "vegetable, dish",
+"pos": "noun"
+},
+{
+"id": "hsk1-017",
+"n": 17,
+"hanzi": "茶",
+"pinyin": "chá",
+"talaffuz": "cha",
+"uz": "CHOY",
+"en": "tea",
+"pos": "noun"
+},
+{
+"id": "hsk1-018",
+"n": 18,
+"hanzi": "唱",
+"pinyin": "chàng",
+"talaffuz": "chang",
+"uz": "KUYLAMOQ, QO'SHIQ AYTMOQ",
+"en": "to sing",
+"pos": "verb"
+},
+{
+"id": "hsk1-019",
+"n": 19,
+"hanzi": "超市",
+"pinyin": "chāoshì",
+"talaffuz": "chao-shi",
+"uz": "SUPERMARKET",
+"en": "supermarket",
+"pos": "noun"
+},
+{
+"id": "hsk1-020",
+"n": 20,
+"hanzi": "车",
+"pinyin": "chē",
+"talaffuz": "che",
+"uz": "MASHINA",
+"en": "vehicle, car",
+"pos": "noun"
+},
+{
+"id": "hsk1-021",
+"n": 21,
+"hanzi": "吃",
+"pinyin": "chī",
+"talaffuz": "chi",
+"uz": "YEMOQ",
+"en": "to eat",
+"pos": "verb"
+},
+{
+"id": "hsk1-022",
+"n": 22,
+"hanzi": "出租车",
+"pinyin": "chūzūchē",
+"talaffuz": "chu-dzu-che",
+"uz": "TAKSI",
+"en": "taxi",
+"pos": "noun"
+},
+{
+"id": "hsk1-023",
+"n": 23,
+"hanzi": "穿",
+"pinyin": "chuān",
+"talaffuz": "chuan",
+"uz": "KIYMOQ",
+"en": "to wear",
+"pos": "verb"
+},
+{
+"id": "hsk1-024",
+"n": 24,
+"hanzi": "打电话",
+"pinyin": "dǎ diànhuà",
+"talaffuz": "da-dyen-xua",
+"uz": "QO'NG'IROQ QILMOQ",
+"en": "to make a phone call",
+"pos": "phrase"
+},
+{
+"id": "hsk1-025",
+"n": 25,
+"hanzi": "大",
+"pinyin": "dà",
+"talaffuz": "da",
+"uz": "KATTA",
+"en": "big",
+"pos": "adjective"
+},
+{
+"id": "hsk1-026",
+"n": 26,
+"hanzi": "大家",
+"pinyin": "dàjiā",
+"talaffuz": "da-djya",
+"uz": "HAMMA, BARCHA",
+"en": "everyone",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-027",
+"n": 27,
+"hanzi": "大学",
+"pinyin": "dàxué",
+"talaffuz": "da-shyue",
+"uz": "UNIVERSITET",
+"en": "university",
+"pos": "noun"
+},
+{
+"id": "hsk1-028",
+"n": 28,
+"hanzi": "大学生",
+"pinyin": "dàxuéshēng",
+"talaffuz": "da-shyue-sheng",
+"uz": "UNIVERSITET TALABASI",
+"en": "university student",
+"pos": "noun"
+},
+{
+"id": "hsk1-029",
+"n": 29,
+"hanzi": "到",
+"pinyin": "dào",
+"talaffuz": "dao",
+"uz": "YETIB KELMOQ, BORMOQ",
+"en": "to arrive",
+"pos": "verb"
+},
+{
+"id": "hsk1-030",
+"n": 30,
+"hanzi": "的",
+"pinyin": "de",
+"talaffuz": "de",
+"uz": "QARATQICH VA ANIQLOVCHI YUKLAMASI",
+"en": "possessive or modifying particle",
+"pos": "auxiliary"
+},
+{
+"id": "hsk1-031",
+"n": 31,
+"hanzi": "第",
+"pinyin": "dì",
+"talaffuz": "di",
+"uz": "TARTIB SON YASOVCHI OLD QO'SHIMCHA",
+"en": "prefix for ordinal numbers",
+"pos": "prefix"
+},
+{
+"id": "hsk1-032",
+"n": 32,
+"hanzi": "弟弟",
+"pinyin": "dìdi",
+"talaffuz": "di-di",
+"uz": "UKA",
+"en": "younger brother",
+"pos": "noun"
+},
+{
+"id": "hsk1-033",
+"n": 33,
+"hanzi": "点",
+"pinyin": "diǎn",
+"talaffuz": "dyen",
+"uz": "SOAT",
+"en": "measure word for small round things; point, dot",
+"pos": "classifier / noun"
+},
+{
+"id": "hsk1-034",
+"n": 34,
+"hanzi": "店",
+"pinyin": "diàn",
+"talaffuz": "dyen",
+"uz": "DO'KON",
+"en": "shop, store",
+"pos": "noun"
+},
+{
+"id": "hsk1-035",
+"n": 35,
+"hanzi": "电话",
+"pinyin": "diànhuà",
+"talaffuz": "dyen-xua",
+"uz": "TELEFON, QO'NG'IROQ",
+"en": "telephone, phone call",
+"pos": "noun"
+},
+{
+"id": "hsk1-036",
+"n": 36,
+"hanzi": "电脑",
+"pinyin": "diànnǎo",
+"talaffuz": "dyen-nao",
+"uz": "KOMPYUTER",
+"en": "computer",
+"pos": "noun"
+},
+{
+"id": "hsk1-037",
+"n": 37,
+"hanzi": "电视",
+"pinyin": "diànshì",
+"talaffuz": "dyen-shi",
+"uz": "TELEVIZOR",
+"en": "television",
+"pos": "noun"
+},
+{
+"id": "hsk1-038",
+"n": 38,
+"hanzi": "电影",
+"pinyin": "diànyǐng",
+"talaffuz": "dyen-ying",
+"uz": "KINO, FILM",
+"en": "movie, film",
+"pos": "noun"
+},
+{
+"id": "hsk1-039",
+"n": 39,
+"hanzi": "电影院",
+"pinyin": "diànyǐngyuàn",
+"talaffuz": "dyen-ying-yuan",
+"uz": "KINOTEATR",
+"en": "cinema",
+"pos": "noun"
+},
+{
+"id": "hsk1-040",
+"n": 40,
+"hanzi": "东西",
+"pinyin": "dōngxi",
+"talaffuz": "dung-shi",
+"uz": "NARSA, BUYUM",
+"en": "thing, object",
+"pos": "noun"
+},
+{
+"id": "hsk1-041",
+"n": 41,
+"hanzi": "都",
+"pinyin": "dōu",
+"talaffuz": "dou",
+"uz": "HAMMASI, HAR IKKISI",
+"en": "all, both",
+"pos": "adverb"
+},
+{
+"id": "hsk1-042",
+"n": 42,
+"hanzi": "读",
+"pinyin": "dú",
+"talaffuz": "du",
+"uz": "O'QIMOQ",
+"en": "to read",
+"pos": "verb"
+},
+{
+"id": "hsk1-043",
+"n": 43,
+"hanzi": "读书",
+"pinyin": "dúshū",
+"talaffuz": "du-shu",
+"uz": "KITOB O'QIMOQ, O'QIMOQ",
+"en": "to read a book",
+"pos": "verb"
+},
+{
+"id": "hsk1-044",
+"n": 44,
+"hanzi": "对",
+"pinyin": "duì",
+"talaffuz": "duey",
+"uz": "TO'G'RI",
+"en": "correct, right; to, toward, for; to treat; pair",
+"pos": "adjective / preposition / verb / classifier"
+},
+{
+"id": "hsk1-045",
+"n": 45,
+"hanzi": "对不起",
+"pinyin": "duìbuqǐ",
+"talaffuz": "duey-bu-chi",
+"uz": "KECHIRASIZ, UZR",
+"en": "sorry",
+"pos": "verb"
+},
+{
+"id": "hsk1-046",
+"n": 46,
+"hanzi": "多",
+"pinyin": "duō",
+"talaffuz": "duo",
+"uz": "KO'P; QANCHA; ORTIQ",
+"en": "many, much; to have more; how many, how much; more, over",
+"pos": "adjective / verb / pronoun / number / adverb"
+},
+{
+"id": "hsk1-047",
+"n": 47,
+"hanzi": "多少",
+"pinyin": "duōshao",
+"talaffuz": "duo-shao",
+"uz": "QANCHA, NECHTA",
+"en": "how many, how much",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-048",
+"n": 48,
+"hanzi": "儿子",
+"pinyin": "érzi",
+"talaffuz": "er-dzi",
+"uz": "O'G'IL",
+"en": "son",
+"pos": "noun"
+},
+{
+"id": "hsk1-049",
+"n": 49,
+"hanzi": "二",
+"pinyin": "èr",
+"talaffuz": "er",
+"uz": "IKKI",
+"en": "two",
+"pos": "number"
+},
+{
+"id": "hsk1-050",
+"n": 50,
+"hanzi": "饭",
+"pinyin": "fàn",
+"talaffuz": "fan",
+"uz": "OVQAT",
+"en": "cooked rice, meal",
+"pos": "noun"
+},
+{
+"id": "hsk1-051",
+"n": 51,
+"hanzi": "饭店",
+"pinyin": "fàndiàn",
+"talaffuz": "fan-dyen",
+"uz": "RESTORAN",
+"en": "restaurant",
+"pos": "noun"
+},
+{
+"id": "hsk1-052",
+"n": 52,
+"hanzi": "房间",
+"pinyin": "fángjiān",
+"talaffuz": "fang-djyen",
+"uz": "XONA",
+"en": "room",
+"pos": "noun"
+},
+{
+"id": "hsk1-053",
+"n": 53,
+"hanzi": "非常",
+"pinyin": "fēicháng",
+"talaffuz": "fey-chang",
+"uz": "JUDA, NIHOYATDA",
+"en": "very, extremely",
+"pos": "adverb"
+},
+{
+"id": "hsk1-054",
+"n": 54,
+"hanzi": "飞机",
+"pinyin": "fēijī",
+"talaffuz": "fey-dji",
+"uz": "SAMOLYOT",
+"en": "airplane",
+"pos": "noun"
+},
+{
+"id": "hsk1-055",
+"n": 55,
+"hanzi": "分",
+"pinyin": "fēn",
+"talaffuz": "fen",
+"uz": "DAQIQA",
+"en": "minute; to divide, to separate; component, part",
+"pos": "classifier / verb / noun"
+},
+{
+"id": "hsk1-056",
+"n": 56,
+"hanzi": "分钟",
+"pinyin": "fēnzhōng",
+"talaffuz": "fen-jung",
+"uz": "DAQIQA",
+"en": "minute",
+"pos": "classifier"
+},
+{
+"id": "hsk1-057",
+"n": 57,
+"hanzi": "高兴",
+"pinyin": "gāoxìng",
+"talaffuz": "gao-shing",
+"uz": "XURSAND, MAMNUN",
+"en": "happy, glad",
+"pos": "adjective"
+},
+{
+"id": "hsk1-058",
+"n": 58,
+"hanzi": "歌",
+"pinyin": "gē",
+"talaffuz": "ge",
+"uz": "QO'SHIQ",
+"en": "song",
+"pos": "noun"
+},
+{
+"id": "hsk1-059",
+"n": 59,
+"hanzi": "哥哥",
+"pinyin": "gēge",
+"talaffuz": "ge-ge",
+"uz": "AKA",
+"en": "older brother",
+"pos": "noun"
+},
+{
+"id": "hsk1-060",
+"n": 60,
+"hanzi": "个",
+"pinyin": "gè",
+"talaffuz": "ge",
+"uz": "UMUMIY NARSALAR UCHUN HISOB SO'Z",
+"en": "measure word for general objects",
+"pos": "classifier"
+},
+{
+"id": "hsk1-061",
+"n": 61,
+"hanzi": "给",
+"pinyin": "gěi",
+"talaffuz": "gey",
+"uz": "BERMOQ; -GA, UCHUN",
+"en": "to give; to, for",
+"pos": "verb / preposition"
+},
+{
+"id": "hsk1-062",
+"n": 62,
+"hanzi": "公司",
+"pinyin": "gōngsī",
+"talaffuz": "gung-si",
+"uz": "KOMPANIYA, FIRMA",
+"en": "company",
+"pos": "noun"
+},
+{
+"id": "hsk1-063",
+"n": 63,
+"hanzi": "工作",
+"pinyin": "gōngzuò",
+"talaffuz": "gung-dzuo",
+"uz": "ISH; ISHLAMOQ",
+"en": "work; to work",
+"pos": "verb / noun"
+},
+{
+"id": "hsk1-064",
+"n": 64,
+"hanzi": "狗",
+"pinyin": "gǒu",
+"talaffuz": "gou",
+"uz": "IT, KUCHUK",
+"en": "dog",
+"pos": "noun"
+},
+{
+"id": "hsk1-065",
+"n": 65,
+"hanzi": "贵",
+"pinyin": "guì",
+"talaffuz": "guey",
+"uz": "QIMMAT",
+"en": "expensive",
+"pos": "adjective"
+},
+{
+"id": "hsk1-066",
+"n": 66,
+"hanzi": "国",
+"pinyin": "guó",
+"talaffuz": "guo",
+"uz": "MAMLAKAT, DAVLAT",
+"en": "country",
+"pos": "noun"
+},
+{
+"id": "hsk1-067",
+"n": 67,
+"hanzi": "还",
+"pinyin": "hái",
+"talaffuz": "xay",
+"uz": "HALI HAM, YANA; ANCHA",
+"en": "still, also; quite",
+"pos": "adverb"
+},
+{
+"id": "hsk1-068",
+"n": 68,
+"hanzi": "孩子",
+"pinyin": "háizi",
+"talaffuz": "xay-dzi",
+"uz": "BOLA, FARZAND",
+"en": "child",
+"pos": "noun"
+},
+{
+"id": "hsk1-069",
+"n": 69,
+"hanzi": "汉语",
+"pinyin": "Hànyǔ",
+"talaffuz": "xan-yu",
+"uz": "XITOY TILI",
+"en": "Chinese language",
+"pos": "noun"
+},
+{
+"id": "hsk1-070",
+"n": 70,
+"hanzi": "汉字",
+"pinyin": "Hànzì",
+"talaffuz": "xan-dzi",
+"uz": "XITOY IYEROGLIFI",
+"en": "Chinese character",
+"pos": "noun"
+},
+{
+"id": "hsk1-071",
+"n": 71,
+"hanzi": "好",
+"pinyin": "hǎo",
+"talaffuz": "xao",
+"uz": "YAXSHI; XO'P",
+"en": "good; well; to be fond of",
+"pos": "adjective / adverb / verb"
+},
+{
+"id": "hsk1-072",
+"n": 72,
+"hanzi": "好吃",
+"pinyin": "hǎochī",
+"talaffuz": "xao-chi",
+"uz": "MAZALI, SHIRIN",
+"en": "delicious, tasty",
+"pos": "adjective"
+},
+{
+"id": "hsk1-073",
+"n": 73,
+"hanzi": "好看",
+"pinyin": "hǎokàn",
+"talaffuz": "xao-kan",
+"uz": "CHIROYLI, KO'RKAM",
+"en": "good-looking",
+"pos": "adjective"
+},
+{
+"id": "hsk1-074",
+"n": 74,
+"hanzi": "好听",
+"pinyin": "hǎotīng",
+"talaffuz": "xao-ting",
+"uz": "YOQIMLI",
+"en": "pleasant to listen to",
+"pos": "adjective"
+},
+{
+"id": "hsk1-075",
+"n": 75,
+"hanzi": "好玩儿",
+"pinyin": "hǎowánr",
+"talaffuz": "xao-vanr",
+"uz": "QIZIQARLI, MAROQLI",
+"en": "fun, amusing",
+"pos": "adjective"
+},
+{
+"id": "hsk1-076",
+"n": 76,
+"hanzi": "号",
+"pinyin": "hào",
+"talaffuz": "xao",
+"uz": "RAQAM; SANA",
+"en": "number; measure word for people, items",
+"pos": "noun / classifier"
+},
+{
+"id": "hsk1-077",
+"n": 77,
+"hanzi": "喝",
+"pinyin": "hē",
+"talaffuz": "xe",
+"uz": "ICHMOQ",
+"en": "to drink",
+"pos": "verb"
+},
+{
+"id": "hsk1-078",
+"n": 78,
+"hanzi": "和",
+"pinyin": "hé",
+"talaffuz": "xe",
+"uz": "VA, BILAN",
+"en": "and, with",
+"pos": "preposition / conjunction"
+},
+{
+"id": "hsk1-079",
+"n": 79,
+"hanzi": "很",
+"pinyin": "hěn",
+"talaffuz": "xen",
+"uz": "JUDA",
+"en": "very",
+"pos": "adverb"
+},
+{
+"id": "hsk1-080",
+"n": 80,
+"hanzi": "后",
+"pinyin": "hòu",
+"talaffuz": "xou",
+"uz": "ORQA, KEYIN",
+"en": "behind, later",
+"pos": "noun"
+},
+{
+"id": "hsk1-081",
+"n": 81,
+"hanzi": "回",
+"pinyin": "huí",
+"talaffuz": "xuey",
+"uz": "QAYTMOQ; MARTA",
+"en": "to return; measure word for times",
+"pos": "verb / classifier"
+},
+{
+"id": "hsk1-082",
+"n": 82,
+"hanzi": "会",
+"pinyin": "huì",
+"talaffuz": "xuey",
+"uz": "BILMOQ",
+"en": "can, to be able to",
+"pos": "verb"
+},
+{
+"id": "hsk1-083",
+"n": 83,
+"hanzi": "火车",
+"pinyin": "huǒchē",
+"talaffuz": "xuo-che",
+"uz": "POYEZD",
+"en": "train",
+"pos": "noun"
+},
+{
+"id": "hsk1-084",
+"n": 84,
+"hanzi": "鸡蛋",
+"pinyin": "jīdàn",
+"talaffuz": "dji-dan",
+"uz": "TUXUM",
+"en": "egg",
+"pos": "noun"
+},
+{
+"id": "hsk1-085",
+"n": 85,
+"hanzi": "几",
+"pinyin": "jǐ",
+"talaffuz": "dji",
+"uz": "NECHTA, BIR NECHA",
+"en": "how many, a few",
+"pos": "pronoun / number"
+},
+{
+"id": "hsk1-086",
+"n": 86,
+"hanzi": "家",
+"pinyin": "jiā",
+"talaffuz": "djya",
+"uz": "UY, OILA; -SHUNOS / -CHI",
+"en": "home, family; measure word for families; suffix indicating a person specializing in something",
+"pos": "noun / classifier / suffix"
+},
+{
+"id": "hsk1-087",
+"n": 87,
+"hanzi": "家人",
+"pinyin": "jiārén",
+"talaffuz": "djya-ren",
+"uz": "OILA A'ZOSI",
+"en": "family member",
+"pos": "noun"
+},
+{
+"id": "hsk1-088",
+"n": 88,
+"hanzi": "见",
+"pinyin": "jiàn",
+"talaffuz": "djyen",
+"uz": "KO'RMOQ, UCHRASHMOQ",
+"en": "to see",
+"pos": "verb"
+},
+{
+"id": "hsk1-089",
+"n": 89,
+"hanzi": "件",
+"pinyin": "jiàn",
+"talaffuz": "djyen",
+"uz": "KIYIM VA ISHLAR UCHUN HISOB SO'Z",
+"en": "measure word for items",
+"pos": "classifier"
+},
+{
+"id": "hsk1-090",
+"n": 90,
+"hanzi": "饺子",
+"pinyin": "jiǎozi",
+"talaffuz": "djyao-dzi",
+"uz": "CHUCHVARA",
+"en": "dumpling",
+"pos": "noun"
+},
+{
+"id": "hsk1-091",
+"n": 91,
+"hanzi": "叫",
+"pinyin": "jiào",
+"talaffuz": "djyao",
+"uz": "ATALMOQ, CHAQIRMOQ",
+"en": "to be called, to call; to make; by",
+"pos": "verb / preposition"
+},
+{
+"id": "hsk1-092",
+"n": 92,
+"hanzi": "姐姐",
+"pinyin": "jiějie",
+"talaffuz": "djye-djye",
+"uz": "OPA",
+"en": "older sister",
+"pos": "noun"
+},
+{
+"id": "hsk1-093",
+"n": 93,
+"hanzi": "今年",
+"pinyin": "jīnnián",
+"talaffuz": "djin-nyen",
+"uz": "BU YIL",
+"en": "this year",
+"pos": "noun"
+},
+{
+"id": "hsk1-094",
+"n": 94,
+"hanzi": "今天",
+"pinyin": "jīntiān",
+"talaffuz": "djin-tyen",
+"uz": "BUGUN",
+"en": "today",
+"pos": "noun"
+},
+{
+"id": "hsk1-095",
+"n": 95,
+"hanzi": "九",
+"pinyin": "jiǔ",
+"talaffuz": "djyu",
+"uz": "TO'QQIZ",
+"en": "nine",
+"pos": "number"
+},
+{
+"id": "hsk1-096",
+"n": 96,
+"hanzi": "觉得",
+"pinyin": "juéde",
+"talaffuz": "djyue-de",
+"uz": "HIS QILMOQ",
+"en": "to feel, to think",
+"pos": "verb"
+},
+{
+"id": "hsk1-097",
+"n": 97,
+"hanzi": "开",
+"pinyin": "kāi",
+"talaffuz": "kay",
+"uz": "OCHMOQ, HAYDAMOQ",
+"en": "to open",
+"pos": "verb"
+},
+{
+"id": "hsk1-098",
+"n": 98,
+"hanzi": "开车",
+"pinyin": "kāichē",
+"talaffuz": "kay-che",
+"uz": "MASHINA HAYDAMOQ",
+"en": "to drive",
+"pos": "verb"
+},
+{
+"id": "hsk1-099",
+"n": 99,
+"hanzi": "看",
+"pinyin": "kàn",
+"talaffuz": "kan",
+"uz": "QARAMOQ, KO'RMOQ, O'QIMOQ",
+"en": "to see, to look",
+"pos": "verb"
+},
+{
+"id": "hsk1-100",
+"n": 100,
+"hanzi": "看病",
+"pinyin": "kànbìng",
+"talaffuz": "kan-bing",
+"uz": "SHIFOKORGA KO'RINMOQ",
+"en": "to see a doctor",
+"pos": "verb"
+},
+{
+"id": "hsk1-101",
+"n": 101,
+"hanzi": "看见",
+"pinyin": "kànjiàn",
+"talaffuz": "kan-djyen",
+"uz": "KO'RIB QOLMOQ, KO'RMOQ",
+"en": "to see",
+"pos": "verb"
+},
+{
+"id": "hsk1-102",
+"n": 102,
+"hanzi": "可以",
+"pinyin": "kěyǐ",
+"talaffuz": "ke-i",
+"uz": "MUMKIN, BO'LADI; YAXSHI",
+"en": "can, may; okay, fine",
+"pos": "verb / adjective"
+},
+{
+"id": "hsk1-103",
+"n": 103,
+"hanzi": "课",
+"pinyin": "kè",
+"talaffuz": "ke",
+"uz": "DARS",
+"en": "class, lesson",
+"pos": "noun"
+},
+{
+"id": "hsk1-104",
+"n": 104,
+"hanzi": "口",
+"pinyin": "kǒu",
+"talaffuz": "kou",
+"uz": "OG'IZ",
+"en": "mouth; measure word for family members, bites",
+"pos": "noun / classifier"
+},
+{
+"id": "hsk1-105",
+"n": 105,
+"hanzi": "块",
+"pinyin": "kuài",
+"talaffuz": "kuay",
+"uz": "BO'LAK; YUAN",
+"en": "measure word for pieces, chunks, money",
+"pos": "classifier"
+},
+{
+"id": "hsk1-106",
+"n": 106,
+"hanzi": "来",
+"pinyin": "lái",
+"talaffuz": "lay",
+"uz": "KELMOQ",
+"en": "to come",
+"pos": "verb"
+},
+{
+"id": "hsk1-107",
+"n": 107,
+"hanzi": "老师",
+"pinyin": "lǎoshī",
+"talaffuz": "lao-shi",
+"uz": "O'QITUVCHI, USTOZ",
+"en": "teacher",
+"pos": "noun"
+},
+{
+"id": "hsk1-108",
+"n": 108,
+"hanzi": "了",
+"pinyin": "le",
+"talaffuz": "lyao",
+"uz": "TUGALLANGAN HARAKAT YOKI HOLAT O'ZGARISHINI BILDIRUVCHI YUKLAMA",
+"en": "particle indicating completed action or change of state",
+"pos": "auxiliary"
+},
+{
+"id": "hsk1-109",
+"n": 109,
+"hanzi": "冷",
+"pinyin": "lěng",
+"talaffuz": "leng",
+"uz": "SOVUQ",
+"en": "cold",
+"pos": "adjective"
+},
+{
+"id": "hsk1-110",
+"n": 110,
+"hanzi": "里",
+"pinyin": "lǐ",
+"talaffuz": "li",
+"uz": "ICHIDA, ICHKARI",
+"en": "inside, in, mile",
+"pos": "noun"
+},
+{
+"id": "hsk1-111",
+"n": 111,
+"hanzi": "两",
+"pinyin": "liǎng",
+"talaffuz": "lyang",
+"uz": "IKKI",
+"en": "two",
+"pos": "number"
+},
+{
+"id": "hsk1-112",
+"n": 112,
+"hanzi": "零",
+"pinyin": "líng",
+"talaffuz": "ling",
+"uz": "NOL",
+"en": "zero",
+"pos": "number"
+},
+{
+"id": "hsk1-113",
+"n": 113,
+"hanzi": "六",
+"pinyin": "liù",
+"talaffuz": "lyu",
+"uz": "OLTI",
+"en": "six",
+"pos": "number"
+},
+{
+"id": "hsk1-114",
+"n": 114,
+"hanzi": "妈妈",
+"pinyin": "māma",
+"talaffuz": "ma-ma",
+"uz": "ONA, OYI",
+"en": "mom",
+"pos": "noun"
+},
+{
+"id": "hsk1-115",
+"n": 115,
+"hanzi": "吗",
+"pinyin": "ma",
+"talaffuz": "ma",
+"uz": "SO'ROQ YUKLAMASI",
+"en": "question particle",
+"pos": "auxiliary"
+},
+{
+"id": "hsk1-116",
+"n": 116,
+"hanzi": "买",
+"pinyin": "mǎi",
+"talaffuz": "may",
+"uz": "SOTIB OLMOQ",
+"en": "to buy",
+"pos": "verb"
+},
+{
+"id": "hsk1-117",
+"n": 117,
+"hanzi": "卖",
+"pinyin": "mài",
+"talaffuz": "may",
+"uz": "SOTMOQ",
+"en": "to sell",
+"pos": "verb"
+},
+{
+"id": "hsk1-118",
+"n": 118,
+"hanzi": "忙",
+"pinyin": "máng",
+"talaffuz": "mang",
+"uz": "BAND; BAND BO'LMOQ",
+"en": "busy; to be busy",
+"pos": "adjective / verb"
+},
+{
+"id": "hsk1-119",
+"n": 119,
+"hanzi": "猫",
+"pinyin": "māo",
+"talaffuz": "mao",
+"uz": "MUSHUK",
+"en": "cat",
+"pos": "noun"
+},
+{
+"id": "hsk1-120",
+"n": 120,
+"hanzi": "没关系",
+"pinyin": "méi guānxi",
+"talaffuz": "mey-guan-shi",
+"uz": "HECHQISI YO'Q, ZARARI YO'Q",
+"en": "never mind, it's okay",
+"pos": "phrase"
+},
+{
+"id": "hsk1-121",
+"n": 121,
+"hanzi": "没事",
+"pinyin": "méishì",
+"talaffuz": "mey-shi",
+"uz": "HECH GAP EMAS; ISHI YO'Q",
+"en": "to have nothing to do; it doesn't matter",
+"pos": "verb"
+},
+{
+"id": "hsk1-122",
+"n": 122,
+"hanzi": "没有",
+"pinyin": "méiyǒu",
+"talaffuz": "mey-you",
+"uz": "YO'Q, EGA EMAS; -MAGAN",
+"en": "to not have; have not",
+"pos": "verb / adverb"
+},
+{
+"id": "hsk1-123",
+"n": 123,
+"hanzi": "妹妹",
+"pinyin": "mèimei",
+"talaffuz": "mey-mey",
+"uz": "SINGIL",
+"en": "younger sister",
+"pos": "noun"
+},
+{
+"id": "hsk1-124",
+"n": 124,
+"hanzi": "们",
+"pinyin": "men",
+"talaffuz": "men",
+"uz": "KO'PLIK QO'SHIMCHASI",
+"en": "plural suffix for pronouns and nouns",
+"pos": "suffix"
+},
+{
+"id": "hsk1-125",
+"n": 125,
+"hanzi": "米饭",
+"pinyin": "mǐfàn",
+"talaffuz": "mi-fan",
+"uz": "PISHIRILGAN GURUCH",
+"en": "cooked rice",
+"pos": "noun"
+},
+{
+"id": "hsk1-126",
+"n": 126,
+"hanzi": "面包",
+"pinyin": "miànbāo",
+"talaffuz": "myen-bao",
+"uz": "NON, BULOCHKA",
+"en": "bread",
+"pos": "noun"
+},
+{
+"id": "hsk1-127",
+"n": 127,
+"hanzi": "面条儿",
+"pinyin": "miàntiáor",
+"talaffuz": "myen-tyaor",
+"uz": "LAG'MON, UGRA",
+"en": "noodles",
+"pos": "noun"
+},
+{
+"id": "hsk1-128",
+"n": 128,
+"hanzi": "明年",
+"pinyin": "míngnián",
+"talaffuz": "ming-nyen",
+"uz": "KELASI YIL",
+"en": "next year",
+"pos": "noun"
+},
+{
+"id": "hsk1-129",
+"n": 129,
+"hanzi": "明天",
+"pinyin": "míngtiān",
+"talaffuz": "ming-tyen",
+"uz": "ERTAGA",
+"en": "tomorrow",
+"pos": "noun"
+},
+{
+"id": "hsk1-130",
+"n": 130,
+"hanzi": "名字",
+"pinyin": "míngzi",
+"talaffuz": "ming-dzi",
+"uz": "ISM, NOM",
+"en": "name",
+"pos": "noun"
+},
+{
+"id": "hsk1-131",
+"n": 131,
+"hanzi": "哪",
+"pinyin": "nǎ",
+"talaffuz": "na",
+"uz": "QAYSI",
+"en": "which",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-132",
+"n": 132,
+"hanzi": "哪个",
+"pinyin": "nǎge",
+"talaffuz": "na-ge",
+"uz": "QAYSI BIRI",
+"en": "which one",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-133",
+"n": 133,
+"hanzi": "哪里",
+"pinyin": "nǎli",
+"talaffuz": "na-li",
+"uz": "QAYER",
+"en": "where",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-134",
+"n": 134,
+"hanzi": "哪儿",
+"pinyin": "nǎr",
+"talaffuz": "nar",
+"uz": "QAYER",
+"en": "where",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-135",
+"n": 135,
+"hanzi": "哪些",
+"pinyin": "nǎxiē",
+"talaffuz": "na-shye",
+"uz": "QAYSILAR",
+"en": "which ones",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-136",
+"n": 136,
+"hanzi": "那",
+"pinyin": "nà",
+"talaffuz": "na",
+"uz": "U, O'SHA; UNDA",
+"en": "that; then",
+"pos": "pronoun / conjunction"
+},
+{
+"id": "hsk1-137",
+"n": 137,
+"hanzi": "那边",
+"pinyin": "nàbiān",
+"talaffuz": "na-byen",
+"uz": "U TOMON, U YERDA",
+"en": "over there",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-138",
+"n": 138,
+"hanzi": "那个",
+"pinyin": "nàge",
+"talaffuz": "na-ge",
+"uz": "O'SHA, UNISI",
+"en": "that one",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-139",
+"n": 139,
+"hanzi": "那里",
+"pinyin": "nàli",
+"talaffuz": "na-li",
+"uz": "U YER",
+"en": "there",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-140",
+"n": 140,
+"hanzi": "那儿",
+"pinyin": "nàr",
+"talaffuz": "nar",
+"uz": "U YER",
+"en": "there",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-141",
+"n": 141,
+"hanzi": "那些",
+"pinyin": "nàxiē",
+"talaffuz": "na-shye",
+"uz": "O'SHALAR, ULAR",
+"en": "those",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-142",
+"n": 142,
+"hanzi": "男",
+"pinyin": "nán",
+"talaffuz": "nan",
+"uz": "ERKAK",
+"en": "male",
+"pos": "adjective"
+},
+{
+"id": "hsk1-143",
+"n": 143,
+"hanzi": "男朋友",
+"pinyin": "nánpéngyou",
+"talaffuz": "nan-peng-you",
+"uz": "YIGIT",
+"en": "boyfriend",
+"pos": "noun"
+},
+{
+"id": "hsk1-144",
+"n": 144,
+"hanzi": "呢",
+"pinyin": "ne",
+"talaffuz": "ne",
+"uz": "SO'ROQ YOKI DAVOMIYLIK YUKLAMASI",
+"en": "question or continuation particle",
+"pos": "auxiliary"
+},
+{
+"id": "hsk1-145",
+"n": 145,
+"hanzi": "能",
+"pinyin": "néng",
+"talaffuz": "neng",
+"uz": "QILA OLMOQ, MUMKIN BO'LMOQ",
+"en": "can, be able to",
+"pos": "verb"
+},
+{
+"id": "hsk1-146",
+"n": 146,
+"hanzi": "你",
+"pinyin": "nǐ",
+"talaffuz": "ni",
+"uz": "SEN",
+"en": "you",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-147",
+"n": 147,
+"hanzi": "你好",
+"pinyin": "nǐ hǎo",
+"talaffuz": "ni-xao",
+"uz": "SALOM",
+"en": "hello",
+"pos": "phrase"
+},
+{
+"id": "hsk1-148",
+"n": 148,
+"hanzi": "你们",
+"pinyin": "nǐmen",
+"talaffuz": "ni-men",
+"uz": "SIZLAR",
+"en": "you plural",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-149",
+"n": 149,
+"hanzi": "年",
+"pinyin": "nián",
+"talaffuz": "nyen",
+"uz": "YIL",
+"en": "year; measure word for years",
+"pos": "noun / classifier"
+},
+{
+"id": "hsk1-150",
+"n": 150,
+"hanzi": "您",
+"pinyin": "nín",
+"talaffuz": "nin",
+"uz": "SIZ",
+"en": "you",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-151",
+"n": 151,
+"hanzi": "牛奶",
+"pinyin": "niúnǎi",
+"talaffuz": "nyu-nay",
+"uz": "SUT",
+"en": "milk",
+"pos": "noun"
+},
+{
+"id": "hsk1-152",
+"n": 152,
+"hanzi": "女",
+"pinyin": "nǚ",
+"talaffuz": "nyu",
+"uz": "AYOL, QIZ",
+"en": "female",
+"pos": "adjective"
+},
+{
+"id": "hsk1-153",
+"n": 153,
+"hanzi": "女儿",
+"pinyin": "nǚ'ér",
+"talaffuz": "nyu-er",
+"uz": "QIZ",
+"en": "daughter",
+"pos": "noun"
+},
+{
+"id": "hsk1-154",
+"n": 154,
+"hanzi": "女朋友",
+"pinyin": "nǚpéngyou",
+"talaffuz": "nyu-peng-you",
+"uz": "QIZ",
+"en": "girlfriend",
+"pos": "noun"
+},
+{
+"id": "hsk1-155",
+"n": 155,
+"hanzi": "女士",
+"pinyin": "nǚshì",
+"talaffuz": "nyu-shi",
+"uz": "XONIM",
+"en": "lady, Ms.",
+"pos": "noun"
+},
+{
+"id": "hsk1-156",
+"n": 156,
+"hanzi": "朋友",
+"pinyin": "péngyou",
+"talaffuz": "peng-you",
+"uz": "DO'ST",
+"en": "friend",
+"pos": "noun"
+},
+{
+"id": "hsk1-157",
+"n": 157,
+"hanzi": "便宜",
+"pinyin": "piányi",
+"talaffuz": "pyen-i",
+"uz": "ARZON",
+"en": "cheap",
+"pos": "adjective"
+},
+{
+"id": "hsk1-158",
+"n": 158,
+"hanzi": "漂亮",
+"pinyin": "piàoliang",
+"talaffuz": "pyao-lyang",
+"uz": "CHIROYLI, GO'ZAL",
+"en": "beautiful",
+"pos": "adjective"
+},
+{
+"id": "hsk1-159",
+"n": 159,
+"hanzi": "苹果",
+"pinyin": "píngguǒ",
+"talaffuz": "ping-guo",
+"uz": "OLMA",
+"en": "apple",
+"pos": "noun"
+},
+{
+"id": "hsk1-160",
+"n": 160,
+"hanzi": "七",
+"pinyin": "qī",
+"talaffuz": "chi",
+"uz": "YETTI",
+"en": "seven",
+"pos": "number"
+},
+{
+"id": "hsk1-161",
+"n": 161,
+"hanzi": "起床",
+"pinyin": "qǐchuáng",
+"talaffuz": "chi-chuang",
+"uz": "O'RINDAN TURMOQ, UYG'ONMOQ",
+"en": "to get up",
+"pos": "verb"
+},
+{
+"id": "hsk1-162",
+"n": 162,
+"hanzi": "千",
+"pinyin": "qiān",
+"talaffuz": "chyen",
+"uz": "MING",
+"en": "thousand",
+"pos": "number"
+},
+{
+"id": "hsk1-163",
+"n": 163,
+"hanzi": "前",
+"pinyin": "qián",
+"talaffuz": "chyen",
+"uz": "OLD, OLDIN, AVVAL",
+"en": "front, before",
+"pos": "noun"
+},
+{
+"id": "hsk1-164",
+"n": 164,
+"hanzi": "钱",
+"pinyin": "qián",
+"talaffuz": "chyen",
+"uz": "PUL",
+"en": "money",
+"pos": "noun"
+},
+{
+"id": "hsk1-165",
+"n": 165,
+"hanzi": "请",
+"pinyin": "qǐng",
+"talaffuz": "ching",
+"uz": "MARHAMAT",
+"en": "please",
+"pos": "verb"
+},
+{
+"id": "hsk1-166",
+"n": 166,
+"hanzi": "请问",
+"pinyin": "qǐngwèn",
+"talaffuz": "ching-ven",
+"uz": "KECHIRASIZ",
+"en": "may I ask",
+"pos": "verb"
+},
+{
+"id": "hsk1-167",
+"n": 167,
+"hanzi": "去",
+"pinyin": "qù",
+"talaffuz": "chyu",
+"uz": "BORMOQ, KETMOQ",
+"en": "to go",
+"pos": "verb"
+},
+{
+"id": "hsk1-168",
+"n": 168,
+"hanzi": "去年",
+"pinyin": "qùnián",
+"talaffuz": "chyu-nyen",
+"uz": "O'TGAN YIL",
+"en": "last year",
+"pos": "noun"
+},
+{
+"id": "hsk1-169",
+"n": 169,
+"hanzi": "热",
+"pinyin": "rè",
+"talaffuz": "re",
+"uz": "ISSIQ",
+"en": "hot",
+"pos": "adjective"
+},
+{
+"id": "hsk1-170",
+"n": 170,
+"hanzi": "人",
+"pinyin": "rén",
+"talaffuz": "ren",
+"uz": "ODAM, KISHI",
+"en": "person",
+"pos": "noun"
+},
+{
+"id": "hsk1-171",
+"n": 171,
+"hanzi": "认识",
+"pinyin": "rènshi",
+"talaffuz": "ren-shi",
+"uz": "TANIMOQ, TANISHMOQ",
+"en": "to know, to recognize",
+"pos": "verb"
+},
+{
+"id": "hsk1-172",
+"n": 172,
+"hanzi": "日",
+"pinyin": "rì",
+"talaffuz": "ri",
+"uz": "KUN, SANA; QUYOSH",
+"en": "measure word for days; sun",
+"pos": "classifier / noun"
+},
+{
+"id": "hsk1-173",
+"n": 173,
+"hanzi": "三",
+"pinyin": "sān",
+"talaffuz": "san",
+"uz": "UCH",
+"en": "three",
+"pos": "number"
+},
+{
+"id": "hsk1-174",
+"n": 174,
+"hanzi": "商店",
+"pinyin": "shāngdiàn",
+"talaffuz": "shang-dyen",
+"uz": "DO'KON, MAGAZIN",
+"en": "store, shop",
+"pos": "noun"
+},
+{
+"id": "hsk1-175",
+"n": 175,
+"hanzi": "上",
+"pinyin": "shàng",
+"talaffuz": "shang",
+"uz": "USTIDA, YUQORI; CHIQMOQ",
+"en": "up, above; to go up",
+"pos": "noun / verb"
+},
+{
+"id": "hsk1-176",
+"n": 176,
+"hanzi": "上班",
+"pinyin": "shàngbān",
+"talaffuz": "shang-ban",
+"uz": "ISHGA BORMOQ",
+"en": "to go to work",
+"pos": "verb"
+},
+{
+"id": "hsk1-177",
+"n": 177,
+"hanzi": "上课",
+"pinyin": "shàngkè",
+"talaffuz": "shang-ke",
+"uz": "DARSGA KIRMOQ, DARS O'TMOQ",
+"en": "to attend class",
+"pos": "verb"
+},
+{
+"id": "hsk1-178",
+"n": 178,
+"hanzi": "上午",
+"pinyin": "shàngwǔ",
+"talaffuz": "shang-u",
+"uz": "TUSHGACHA BO'LGAN VAQT",
+"en": "morning",
+"pos": "noun"
+},
+{
+"id": "hsk1-179",
+"n": 179,
+"hanzi": "上学",
+"pinyin": "shàngxué",
+"talaffuz": "shang-shyue",
+"uz": "MAKTABGA/O'QISHGA BORMOQ",
+"en": "to go to school",
+"pos": "verb"
+},
+{
+"id": "hsk1-180",
+"n": 180,
+"hanzi": "少",
+"pinyin": "shǎo",
+"talaffuz": "shao",
+"uz": "KAM, OZ; YETISHMASLIK",
+"en": "few, little; to lack",
+"pos": "adjective / verb"
+},
+{
+"id": "hsk1-181",
+"n": 181,
+"hanzi": "谁",
+"pinyin": "shéi",
+"talaffuz": "shuey",
+"uz": "KIM",
+"en": "who",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-182",
+"n": 182,
+"hanzi": "什么",
+"pinyin": "shénme",
+"talaffuz": "shen-me",
+"uz": "NIMA, QANDAY",
+"en": "what",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-183",
+"n": 183,
+"hanzi": "生病",
+"pinyin": "shēngbìng",
+"talaffuz": "sheng-bing",
+"uz": "KASAL BO'LIB QOLMOQ",
+"en": "to get sick",
+"pos": "verb"
+},
+{
+"id": "hsk1-184",
+"n": 184,
+"hanzi": "十",
+"pinyin": "shí",
+"talaffuz": "shi",
+"uz": "O'N",
+"en": "ten",
+"pos": "number"
+},
+{
+"id": "hsk1-185",
+"n": 185,
+"hanzi": "时候",
+"pinyin": "shíhou",
+"talaffuz": "shi-xou",
+"uz": "VAQT, PAYT",
+"en": "moment, time",
+"pos": "noun"
+},
+{
+"id": "hsk1-186",
+"n": 186,
+"hanzi": "时间",
+"pinyin": "shíjiān",
+"talaffuz": "shi-djyen",
+"uz": "VAQT",
+"en": "time",
+"pos": "noun"
+},
+{
+"id": "hsk1-187",
+"n": 187,
+"hanzi": "事",
+"pinyin": "shì",
+"talaffuz": "shi",
+"uz": "ISH, YUMUSH, VOQEA",
+"en": "matter, thing",
+"pos": "noun"
+},
+{
+"id": "hsk1-188",
+"n": 188,
+"hanzi": "是",
+"pinyin": "shì",
+"talaffuz": "shi",
+"uz": "BO'LMOQ, -DIR",
+"en": "to be",
+"pos": "verb"
+},
+{
+"id": "hsk1-189",
+"n": 189,
+"hanzi": "手机",
+"pinyin": "shǒujī",
+"talaffuz": "shou-dji",
+"uz": "MOBIL TELEFON",
+"en": "cell phone",
+"pos": "noun"
+},
+{
+"id": "hsk1-190",
+"n": 190,
+"hanzi": "书",
+"pinyin": "shū",
+"talaffuz": "shu",
+"uz": "KITOB",
+"en": "book",
+"pos": "noun"
+},
+{
+"id": "hsk1-191",
+"n": 191,
+"hanzi": "书店",
+"pinyin": "shūdiàn",
+"talaffuz": "shu-dyen",
+"uz": "KITOB DO'KONI",
+"en": "bookstore",
+"pos": "noun"
+},
+{
+"id": "hsk1-192",
+"n": 192,
+"hanzi": "水",
+"pinyin": "shuǐ",
+"talaffuz": "shuey",
+"uz": "SUV",
+"en": "water",
+"pos": "noun"
+},
+{
+"id": "hsk1-193",
+"n": 193,
+"hanzi": "水果",
+"pinyin": "shuǐguǒ",
+"talaffuz": "shuey-guo",
+"uz": "MEVA",
+"en": "fruit",
+"pos": "noun"
+},
+{
+"id": "hsk1-194",
+"n": 194,
+"hanzi": "睡",
+"pinyin": "shuì",
+"talaffuz": "shuey",
+"uz": "UXLAMOQ",
+"en": "to sleep",
+"pos": "verb"
+},
+{
+"id": "hsk1-195",
+"n": 195,
+"hanzi": "睡觉",
+"pinyin": "shuìjiào",
+"talaffuz": "shuey-djyao",
+"uz": "UXLAMOQ",
+"en": "to sleep",
+"pos": "verb"
+},
+{
+"id": "hsk1-196",
+"n": 196,
+"hanzi": "说",
+"pinyin": "shuō",
+"talaffuz": "shuo",
+"uz": "GAPIRMOQ, AYTMOQ",
+"en": "to speak, to say",
+"pos": "verb"
+},
+{
+"id": "hsk1-197",
+"n": 197,
+"hanzi": "说话",
+"pinyin": "shuōhuà",
+"talaffuz": "shuo-xua",
+"uz": "GAPLASHMOQ, SO'ZLASHMOQ",
+"en": "to talk",
+"pos": "verb"
+},
+{
+"id": "hsk1-198",
+"n": 198,
+"hanzi": "四",
+"pinyin": "sì",
+"talaffuz": "si",
+"uz": "TO'RT",
+"en": "four",
+"pos": "number"
+},
+{
+"id": "hsk1-199",
+"n": 199,
+"hanzi": "岁",
+"pinyin": "suì",
+"talaffuz": "suey",
+"uz": "YOSH",
+"en": "measure word for age",
+"pos": "classifier"
+},
+{
+"id": "hsk1-200",
+"n": 200,
+"hanzi": "他",
+"pinyin": "tā",
+"talaffuz": "ta",
+"uz": "U",
+"en": "he, him",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-201",
+"n": 201,
+"hanzi": "它",
+"pinyin": "tā",
+"talaffuz": "ta",
+"uz": "U",
+"en": "it",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-202",
+"n": 202,
+"hanzi": "她",
+"pinyin": "tā",
+"talaffuz": "ta",
+"uz": "U",
+"en": "she",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-203",
+"n": 203,
+"hanzi": "他们",
+"pinyin": "tāmen",
+"talaffuz": "ta-men",
+"uz": "ULAR",
+"en": "they",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-204",
+"n": 204,
+"hanzi": "它们",
+"pinyin": "tāmen",
+"talaffuz": "ta-men",
+"uz": "ULAR",
+"en": "they",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-205",
+"n": 205,
+"hanzi": "她们",
+"pinyin": "tāmen",
+"talaffuz": "ta-men",
+"uz": "ULAR",
+"en": "they",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-206",
+"n": 206,
+"hanzi": "太",
+"pinyin": "tài",
+"talaffuz": "tay",
+"uz": "JUDA HAM, HADDAN TASHQARI",
+"en": "too, extremely",
+"pos": "adverb"
+},
+{
+"id": "hsk1-207",
+"n": 207,
+"hanzi": "天",
+"pinyin": "tiān",
+"talaffuz": "tyen",
+"uz": "KUN; OSMON",
+"en": "day; measure word for days",
+"pos": "noun / classifier"
+},
+{
+"id": "hsk1-208",
+"n": 208,
+"hanzi": "天气",
+"pinyin": "tiānqì",
+"talaffuz": "tyen-chi",
+"uz": "OB-HAVO",
+"en": "weather",
+"pos": "noun"
+},
+{
+"id": "hsk1-209",
+"n": 209,
+"hanzi": "听",
+"pinyin": "tīng",
+"talaffuz": "ting",
+"uz": "TINGLAMOQ, ESHITMOQ",
+"en": "to listen",
+"pos": "verb"
+},
+{
+"id": "hsk1-210",
+"n": 210,
+"hanzi": "听见",
+"pinyin": "tīngjiàn",
+"talaffuz": "ting-djyen",
+"uz": "ESHITMOQ, ESHITIB QOLMOQ",
+"en": "to hear",
+"pos": "verb"
+},
+{
+"id": "hsk1-211",
+"n": 211,
+"hanzi": "同学",
+"pinyin": "tóngxué",
+"talaffuz": "tung-shyue",
+"uz": "SINFDOSH, KURSDOSH",
+"en": "classmate",
+"pos": "noun"
+},
+{
+"id": "hsk1-212",
+"n": 212,
+"hanzi": "外",
+"pinyin": "wài",
+"talaffuz": "vay",
+"uz": "TASHQARI",
+"en": "outside, exterior",
+"pos": "noun"
+},
+{
+"id": "hsk1-213",
+"n": 213,
+"hanzi": "外边",
+"pinyin": "wàibian",
+"talaffuz": "vay-byen",
+"uz": "TASHQARI, SIRT",
+"en": "outside",
+"pos": "noun"
+},
+{
+"id": "hsk1-214",
+"n": 214,
+"hanzi": "玩",
+"pinyin": "wán",
+"talaffuz": "van",
+"uz": "O'YNAMOQ, SAYR QILMOQ",
+"en": "to play",
+"pos": "verb"
+},
+{
+"id": "hsk1-215",
+"n": 215,
+"hanzi": "晚",
+"pinyin": "wǎn",
+"talaffuz": "van",
+"uz": "KECH",
+"en": "late",
+"pos": "adjective"
+},
+{
+"id": "hsk1-216",
+"n": 216,
+"hanzi": "晚饭",
+"pinyin": "wǎnfàn",
+"talaffuz": "van-fan",
+"uz": "KECHKI OVQAT",
+"en": "dinner",
+"pos": "noun"
+},
+{
+"id": "hsk1-217",
+"n": 217,
+"hanzi": "晚上",
+"pinyin": "wǎnshang",
+"talaffuz": "van-shang",
+"uz": "KECHQURUN, TUN",
+"en": "evening",
+"pos": "noun"
+},
+{
+"id": "hsk1-218",
+"n": 218,
+"hanzi": "喂",
+"pinyin": "wèi",
+"talaffuz": "vey",
+"uz": "ALLO; HOY",
+"en": "hello (used when answering the phone)",
+"pos": "interjection"
+},
+{
+"id": "hsk1-219",
+"n": 219,
+"hanzi": "问",
+"pinyin": "wèn",
+"talaffuz": "ven",
+"uz": "SO'RAMOQ",
+"en": "to ask",
+"pos": "verb"
+},
+{
+"id": "hsk1-220",
+"n": 220,
+"hanzi": "问题",
+"pinyin": "wèntí",
+"talaffuz": "ven-ti",
+"uz": "SAVOL, MUAMMO",
+"en": "question",
+"pos": "noun"
+},
+{
+"id": "hsk1-221",
+"n": 221,
+"hanzi": "我",
+"pinyin": "wǒ",
+"talaffuz": "vo",
+"uz": "MEN",
+"en": "I",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-222",
+"n": 222,
+"hanzi": "我们",
+"pinyin": "wǒmen",
+"talaffuz": "vo-men",
+"uz": "BIZ",
+"en": "we",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-223",
+"n": 223,
+"hanzi": "五",
+"pinyin": "wǔ",
+"talaffuz": "u",
+"uz": "BESH",
+"en": "five",
+"pos": "number"
+},
+{
+"id": "hsk1-224",
+"n": 224,
+"hanzi": "午饭",
+"pinyin": "wǔfàn",
+"talaffuz": "u-fan",
+"uz": "TUSHLIK",
+"en": "lunch",
+"pos": "noun"
+},
+{
+"id": "hsk1-225",
+"n": 225,
+"hanzi": "喜欢",
+"pinyin": "xǐhuan",
+"talaffuz": "shi-xuan",
+"uz": "YOQTIRMOQ, YAXSHI KO'RMOQ",
+"en": "to like",
+"pos": "verb"
+},
+{
+"id": "hsk1-226",
+"n": 226,
+"hanzi": "下",
+"pinyin": "xià",
+"talaffuz": "shya",
+"uz": "OSTIDA",
+"en": "down, below; to go down; measure word for times",
+"pos": "noun / verb / classifier"
+},
+{
+"id": "hsk1-227",
+"n": 227,
+"hanzi": "下雨",
+"pinyin": "xiàyǔ",
+"talaffuz": "shya-yu",
+"uz": "YOMG'IR YOG'MOQ",
+"en": "to rain",
+"pos": "verb"
+},
+{
+"id": "hsk1-228",
+"n": 228,
+"hanzi": "下班",
+"pinyin": "xiàbān",
+"talaffuz": "shya-ban",
+"uz": "ISHDAN CHIQMOQ/TUGAMOQ",
+"en": "to get off work",
+"pos": "verb"
+},
+{
+"id": "hsk1-229",
+"n": 229,
+"hanzi": "下课",
+"pinyin": "xiàkè",
+"talaffuz": "shya-ke",
+"uz": "DARS TUGAMOQ",
+"en": "to finish class",
+"pos": "verb"
+},
+{
+"id": "hsk1-230",
+"n": 230,
+"hanzi": "下午",
+"pinyin": "xiàwǔ",
+"talaffuz": "shya-u",
+"uz": "TUSHDAN KEYIN, PESHIN",
+"en": "afternoon",
+"pos": "noun"
+},
+{
+"id": "hsk1-231",
+"n": 231,
+"hanzi": "先生",
+"pinyin": "xiānsheng",
+"talaffuz": "shyen-sheng",
+"uz": "JANOB; ER",
+"en": "Mr., husband",
+"pos": "noun"
+},
+{
+"id": "hsk1-232",
+"n": 232,
+"hanzi": "现在",
+"pinyin": "xiànzài",
+"talaffuz": "shyen-dzay",
+"uz": "HOZIR",
+"en": "now",
+"pos": "noun"
+},
+{
+"id": "hsk1-233",
+"n": 233,
+"hanzi": "想",
+"pinyin": "xiǎng",
+"talaffuz": "shyang",
+"uz": "O'YLAMOQ",
+"en": "to think; to want",
+"pos": "verb"
+},
+{
+"id": "hsk1-234",
+"n": 234,
+"hanzi": "小",
+"pinyin": "xiǎo",
+"talaffuz": "shyao",
+"uz": "KICHIK, KICHKINA",
+"en": "small; prefix indicating small size or endearment",
+"pos": "adjective / prefix"
+},
+{
+"id": "hsk1-235",
+"n": 235,
+"hanzi": "小朋友",
+"pinyin": "xiǎopéngyou",
+"talaffuz": "shyao-peng-you",
+"uz": "BOLAKAY, KICHKINTOY",
+"en": "little friend, child",
+"pos": "noun"
+},
+{
+"id": "hsk1-236",
+"n": 236,
+"hanzi": "小时",
+"pinyin": "xiǎoshí",
+"talaffuz": "shyao-shi",
+"uz": "SOAT",
+"en": "hour",
+"pos": "noun"
+},
+{
+"id": "hsk1-237",
+"n": 237,
+"hanzi": "小学",
+"pinyin": "xiǎoxué",
+"talaffuz": "shyao-shyue",
+"uz": "BOSHLANG'ICH MAKTAB",
+"en": "primary school",
+"pos": "noun"
+},
+{
+"id": "hsk1-238",
+"n": 238,
+"hanzi": "小学生",
+"pinyin": "xiǎoxuéshēng",
+"talaffuz": "shyao-shyue-sheng",
+"uz": "BOSHLANG'ICH SINF O'QUVCHISI",
+"en": "primary school student",
+"pos": "noun"
+},
+{
+"id": "hsk1-239",
+"n": 239,
+"hanzi": "些",
+"pinyin": "xiē",
+"talaffuz": "shye",
+"uz": "BIR NECHA, BIROZ",
+"en": "measure word for an indefinite amount",
+"pos": "classifier"
+},
+{
+"id": "hsk1-240",
+"n": 240,
+"hanzi": "写",
+"pinyin": "xiě",
+"talaffuz": "shye",
+"uz": "YOZMOQ",
+"en": "to write",
+"pos": "verb"
+},
+{
+"id": "hsk1-241",
+"n": 241,
+"hanzi": "谢谢",
+"pinyin": "xièxie",
+"talaffuz": "shye-shye",
+"uz": "RAHMAT AYTMOQ, RAHMAT",
+"en": "to thank",
+"pos": "verb"
+},
+{
+"id": "hsk1-242",
+"n": 242,
+"hanzi": "新",
+"pinyin": "xīn",
+"talaffuz": "shin",
+"uz": "YANGI",
+"en": "new",
+"pos": "adjective"
+},
+{
+"id": "hsk1-243",
+"n": 243,
+"hanzi": "星期",
+"pinyin": "xīngqī",
+"talaffuz": "shing-chi",
+"uz": "HAFTA",
+"en": "week",
+"pos": "noun"
+},
+{
+"id": "hsk1-244",
+"n": 244,
+"hanzi": "星期日",
+"pinyin": "xīngqīrì",
+"talaffuz": "shing-chi-ri",
+"uz": "YAKSHANBA",
+"en": "Sunday",
+"pos": "noun"
+},
+{
+"id": "hsk1-245",
+"n": 245,
+"hanzi": "星期天",
+"pinyin": "xīngqītiān",
+"talaffuz": "shing-chi-tyen",
+"uz": "YAKSHANBA",
+"en": "Sunday",
+"pos": "noun"
+},
+{
+"id": "hsk1-246",
+"n": 246,
+"hanzi": "休息",
+"pinyin": "xiūxi",
+"talaffuz": "shyu-shi",
+"uz": "DAM OLMOQ",
+"en": "to rest",
+"pos": "verb"
+},
+{
+"id": "hsk1-247",
+"n": 247,
+"hanzi": "学",
+"pinyin": "xué",
+"talaffuz": "shyue",
+"uz": "O'RGANMOQ, O'QIMOQ",
+"en": "to learn, to study",
+"pos": "verb"
+},
+{
+"id": "hsk1-248",
+"n": 248,
+"hanzi": "学生",
+"pinyin": "xuésheng",
+"talaffuz": "shyue-sheng",
+"uz": "O'QUVCHI, TALABA",
+"en": "student",
+"pos": "noun"
+},
+{
+"id": "hsk1-249",
+"n": 249,
+"hanzi": "学习",
+"pinyin": "xuéxí",
+"talaffuz": "shyue-shi",
+"uz": "O'QIMOQ, O'RGANMOQ",
+"en": "to study",
+"pos": "verb"
+},
+{
+"id": "hsk1-250",
+"n": 250,
+"hanzi": "学校",
+"pinyin": "xuéxiào",
+"talaffuz": "shyue-shyao",
+"uz": "MAKTAB",
+"en": "school",
+"pos": "noun"
+},
+{
+"id": "hsk1-251",
+"n": 251,
+"hanzi": "雪",
+"pinyin": "xuě",
+"talaffuz": "shyue",
+"uz": "QOR",
+"en": "snow",
+"pos": "noun"
+},
+{
+"id": "hsk1-252",
+"n": 252,
+"hanzi": "要",
+"pinyin": "yào",
+"talaffuz": "yao",
+"uz": "XOHLAMOQ",
+"en": "to want, to need",
+"pos": "verb"
+},
+{
+"id": "hsk1-253",
+"n": 253,
+"hanzi": "也",
+"pinyin": "yě",
+"talaffuz": "ye",
+"uz": "HAM",
+"en": "also, too",
+"pos": "adverb"
+},
+{
+"id": "hsk1-254",
+"n": 254,
+"hanzi": "一",
+"pinyin": "yī",
+"talaffuz": "i",
+"uz": "BIR",
+"en": "one",
+"pos": "number"
+},
+{
+"id": "hsk1-255",
+"n": 255,
+"hanzi": "衣服",
+"pinyin": "yīfu",
+"talaffuz": "i-fu",
+"uz": "KIYIM",
+"en": "clothes",
+"pos": "noun"
+},
+{
+"id": "hsk1-256",
+"n": 256,
+"hanzi": "医生",
+"pinyin": "yīshēng",
+"talaffuz": "i-sheng",
+"uz": "SHIFOKOR, DOKTOR",
+"en": "doctor",
+"pos": "noun"
+},
+{
+"id": "hsk1-257",
+"n": 257,
+"hanzi": "医院",
+"pinyin": "yīyuàn",
+"talaffuz": "i-yuan",
+"uz": "KASALXONA, SHIFOXONA",
+"en": "hospital",
+"pos": "noun"
+},
+{
+"id": "hsk1-258",
+"n": 258,
+"hanzi": "一半",
+"pinyin": "yíbàn",
+"talaffuz": "i-ban",
+"uz": "YARMI",
+"en": "half",
+"pos": "number"
+},
+{
+"id": "hsk1-259",
+"n": 259,
+"hanzi": "一下",
+"pinyin": "yíxià",
+"talaffuz": "i-shya",
+"uz": "BIR MARTA, BIROZ",
+"en": "once, a little; in a short while",
+"pos": "number-classifier / adverb"
+},
+{
+"id": "hsk1-260",
+"n": 260,
+"hanzi": "椅子",
+"pinyin": "yǐzi",
+"talaffuz": "i-dzi",
+"uz": "STUL",
+"en": "chair",
+"pos": "noun"
+},
+{
+"id": "hsk1-261",
+"n": 261,
+"hanzi": "一点儿",
+"pinyin": "yìdiǎnr",
+"talaffuz": "i-dyenr",
+"uz": "BIROZ, OZGINA",
+"en": "a little, a bit",
+"pos": "number-classifier"
+},
+{
+"id": "hsk1-262",
+"n": 262,
+"hanzi": "一些",
+"pinyin": "yìxiē",
+"talaffuz": "i-shye",
+"uz": "BIR QANCHA, BA'ZI",
+"en": "some, a few",
+"pos": "number-classifier"
+},
+{
+"id": "hsk1-263",
+"n": 263,
+"hanzi": "有",
+"pinyin": "yǒu",
+"talaffuz": "you",
+"uz": "BOR, EGA BO'LMOQ",
+"en": "to have, to exist",
+"pos": "verb"
+},
+{
+"id": "hsk1-264",
+"n": 264,
+"hanzi": "有的",
+"pinyin": "yǒude",
+"talaffuz": "you-de",
+"uz": "BA'ZILARI, AYRIMLARI",
+"en": "some of them",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-265",
+"n": 265,
+"hanzi": "有点儿",
+"pinyin": "yǒudiǎnr",
+"talaffuz": "you-dyenr",
+"uz": "BIROZ, SAL",
+"en": "a little, slightly",
+"pos": "adverb"
+},
+{
+"id": "hsk1-266",
+"n": 266,
+"hanzi": "有些",
+"pinyin": "yǒuxiē",
+"talaffuz": "you-shye",
+"uz": "BA'ZI, AYRIM; BIROZ",
+"en": "some, some of; somewhat, rather",
+"pos": "pronoun / adverb"
+},
+{
+"id": "hsk1-267",
+"n": 267,
+"hanzi": "雨",
+"pinyin": "yǔ",
+"talaffuz": "yu",
+"uz": "YOMG'IR",
+"en": "rain",
+"pos": "noun"
+},
+{
+"id": "hsk1-268",
+"n": 268,
+"hanzi": "元",
+"pinyin": "yuán",
+"talaffuz": "yuan",
+"uz": "YUAN",
+"en": "yuan",
+"pos": "classifier"
+},
+{
+"id": "hsk1-269",
+"n": 269,
+"hanzi": "月",
+"pinyin": "yuè",
+"talaffuz": "yue",
+"uz": "OY",
+"en": "month; moon",
+"pos": "noun"
+},
+{
+"id": "hsk1-270",
+"n": 270,
+"hanzi": "再",
+"pinyin": "zài",
+"talaffuz": "dzay",
+"uz": "YANA, KEYIN",
+"en": "again, then",
+"pos": "adverb"
+},
+{
+"id": "hsk1-271",
+"n": 271,
+"hanzi": "在",
+"pinyin": "zài",
+"talaffuz": "dzay",
+"uz": "BO'LMOQ",
+"en": "to be at; at; in the middle of",
+"pos": "verb / preposition / adverb"
+},
+{
+"id": "hsk1-272",
+"n": 272,
+"hanzi": "再见",
+"pinyin": "zàijiàn",
+"talaffuz": "dzay-djyen",
+"uz": "XAYR, KO'RISHGUNCHA",
+"en": "goodbye",
+"pos": "verb"
+},
+{
+"id": "hsk1-273",
+"n": 273,
+"hanzi": "早",
+"pinyin": "zǎo",
+"talaffuz": "dzao",
+"uz": "ERTA, BARVAQT",
+"en": "early",
+"pos": "adjective"
+},
+{
+"id": "hsk1-274",
+"n": 274,
+"hanzi": "早饭",
+"pinyin": "zǎofàn",
+"talaffuz": "dzao-fan",
+"uz": "NONUSHTA",
+"en": "breakfast",
+"pos": "noun"
+},
+{
+"id": "hsk1-275",
+"n": 275,
+"hanzi": "早上",
+"pinyin": "zǎoshang",
+"talaffuz": "dzao-shang",
+"uz": "ERTALAB, TONG",
+"en": "morning",
+"pos": "noun"
+},
+{
+"id": "hsk1-276",
+"n": 276,
+"hanzi": "怎么",
+"pinyin": "zěnme",
+"talaffuz": "dzen-me",
+"uz": "QANDAY, QANAQA",
+"en": "how",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-277",
+"n": 277,
+"hanzi": "怎么样",
+"pinyin": "zěnmeyàng",
+"talaffuz": "dzen-me-yang",
+"uz": "QANDAY, QALAY",
+"en": "how about, what do you think",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-278",
+"n": 278,
+"hanzi": "找",
+"pinyin": "zhǎo",
+"talaffuz": "jao",
+"uz": "QIDIRMOQ, IZLAMOQ",
+"en": "to look for",
+"pos": "verb"
+},
+{
+"id": "hsk1-279",
+"n": 279,
+"hanzi": "这",
+"pinyin": "zhè",
+"talaffuz": "je",
+"uz": "BU",
+"en": "this",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-280",
+"n": 280,
+"hanzi": "这边",
+"pinyin": "zhèbiān",
+"talaffuz": "je-byen",
+"uz": "BU TOMON, BU YER",
+"en": "here",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-281",
+"n": 281,
+"hanzi": "这个",
+"pinyin": "zhège",
+"talaffuz": "je-ge",
+"uz": "BUNISI, MANA BU",
+"en": "this one",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-282",
+"n": 282,
+"hanzi": "这里",
+"pinyin": "zhèli",
+"talaffuz": "je-li",
+"uz": "BU YER",
+"en": "here",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-283",
+"n": 283,
+"hanzi": "这儿",
+"pinyin": "zhèr",
+"talaffuz": "jer",
+"uz": "BU YER",
+"en": "here",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-284",
+"n": 284,
+"hanzi": "这些",
+"pinyin": "zhèxiē",
+"talaffuz": "je-shye",
+"uz": "BULAR",
+"en": "these",
+"pos": "pronoun"
+},
+{
+"id": "hsk1-285",
+"n": 285,
+"hanzi": "真",
+"pinyin": "zhēn",
+"talaffuz": "jen",
+"uz": "ROSTDAN HAM, JUDA; HAQIQIY",
+"en": "really; true",
+"pos": "adverb / adjective"
+},
+{
+"id": "hsk1-286",
+"n": 286,
+"hanzi": "正在",
+"pinyin": "zhèngzài",
+"talaffuz": "jeng-dzay",
+"uz": "HOZIR",
+"en": "in the process of",
+"pos": "adverb"
+},
+{
+"id": "hsk1-287",
+"n": 287,
+"hanzi": "只",
+"pinyin": "zhī",
+"talaffuz": "ji",
+"uz": "HAYVONLAR VA JUFT NARSALARNING BIRI UCHUN HISOB SO'Z",
+"en": "measure word for animals, one of a pair",
+"pos": "classifier"
+},
+{
+"id": "hsk1-288",
+"n": 288,
+"hanzi": "知道",
+"pinyin": "zhīdào",
+"talaffuz": "ji-dao",
+"uz": "BILMOQ",
+"en": "to know",
+"pos": "verb"
+},
+{
+"id": "hsk1-289",
+"n": 289,
+"hanzi": "中国",
+"pinyin": "Zhōngguó",
+"talaffuz": "jung-guo",
+"uz": "XITOY",
+"en": "China",
+"pos": "noun"
+},
+{
+"id": "hsk1-290",
+"n": 290,
+"hanzi": "中文",
+"pinyin": "Zhōngwén",
+"talaffuz": "jung-ven",
+"uz": "XITOY TILI",
+"en": "Chinese language",
+"pos": "noun"
+},
+{
+"id": "hsk1-291",
+"n": 291,
+"hanzi": "中午",
+"pinyin": "zhōngwǔ",
+"talaffuz": "jung-u",
+"uz": "PESHIN, TUSH PAYTI",
+"en": "noon",
+"pos": "noun"
+},
+{
+"id": "hsk1-292",
+"n": 292,
+"hanzi": "中学",
+"pinyin": "zhōngxué",
+"talaffuz": "jung-shyue",
+"uz": "O'RTA MAKTAB",
+"en": "middle school",
+"pos": "noun"
+},
+{
+"id": "hsk1-293",
+"n": 293,
+"hanzi": "中学生",
+"pinyin": "zhōngxuéshēng",
+"talaffuz": "jung-shyue-sheng",
+"uz": "O'RTA MAKTAB O'QUVCHISI",
+"en": "middle school student",
+"pos": "noun"
+},
+{
+"id": "hsk1-294",
+"n": 294,
+"hanzi": "住",
+"pinyin": "zhù",
+"talaffuz": "ju",
+"uz": "YASHAMOQ, ISTIQOMAT QILMOQ",
+"en": "to live, to reside",
+"pos": "verb"
+},
+{
+"id": "hsk1-295",
+"n": 295,
+"hanzi": "桌子",
+"pinyin": "zhuōzi",
+"talaffuz": "juo-dzi",
+"uz": "STOL",
+"en": "table, desk",
+"pos": "noun"
+},
+{
+"id": "hsk1-296",
+"n": 296,
+"hanzi": "字",
+"pinyin": "zì",
+"talaffuz": "dzi",
+"uz": "XAT, HARF, IYEROGLIF",
+"en": "character, script",
+"pos": "noun"
+},
+{
+"id": "hsk1-297",
+"n": 297,
+"hanzi": "昨天",
+"pinyin": "zuótiān",
+"talaffuz": "dzuo-tyen",
+"uz": "KECHA",
+"en": "yesterday",
+"pos": "noun"
+},
+{
+"id": "hsk1-298",
+"n": 298,
+"hanzi": "坐",
+"pinyin": "zuò",
+"talaffuz": "dzuo",
+"uz": "O'TIRMOQ;",
+"en": "to sit",
+"pos": "verb"
+},
+{
+"id": "hsk1-299",
+"n": 299,
+"hanzi": "做",
+"pinyin": "zuò",
+"talaffuz": "dzuo",
+"uz": "QILMOQ, BAJARMOQ, YASAMOQ",
+"en": "to do, to make",
+"pos": "verb"
+},
+{
+"id": "hsk1-300",
+"n": 300,
+"hanzi": "做饭",
+"pinyin": "zuòfàn",
+"talaffuz": "dzuo-fan",
+"uz": "OVQAT PISHIRMOQ",
+"en": "to cook",
+"pos": "verb"
+}
+]

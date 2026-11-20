@@ -2,10 +2,8 @@ name: Publish to Telegram
 
 on:
   schedule:
-    - cron: '0 4 * * *'    # 09:00 Toshkent (UTC+5)
-    - cron: '30 4 * * *'   # 09:30 zaxira (asosiy ishga tushish kechiksa yoki o'tkazib yuborilsa)
-    - cron: '0 14 * * *'   # 19:00 Toshkent
-    - cron: '30 14 * * *'  # 19:30 zaxira
+    - cron: '0 4,6,8,10,12,14 * * *'  # 09:00, 11:00, 13:00, 15:00, 17:00, 19:00 Toshkent (UTC+5)
+    - cron: '30 14 * * *'              # 19:30 zaxira (kechikkan postlar uchun)
   workflow_dispatch:
     inputs:
       post_id:

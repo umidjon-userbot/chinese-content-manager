@@ -1,5 +1,6 @@
 // Ma'lumotlar: serverdagi JSON fayllar + brauzerdagi (localStorage) ishchi nusxa.
 import { clone, stableStringify, nowISO, parse, byTime } from './utils.js';
+import { setConfig } from './formatter.js';
 
 const K_POSTS = 'ccm.posts.v1';
 const K_PRISTINE = 'ccm.pristine.v1';
@@ -58,11 +59,13 @@ async function fetchJSON(path) {
 }
 
 export async function loadServer() {
-  const [posts, published, status] = await Promise.allSettled([
+  const [posts, published, status, config] = await Promise.allSettled([
     fetchJSON('data/posts.json'),
     fetchJSON('data/published.json'),
     fetchJSON('data/status.json'),
+    fetchJSON('data/config.json'),
   ]);
+  if (config.status === 'fulfilled' && config.value) setConfig(config.value);
   const s = state.server;
   if (posts.status === 'fulfilled' && posts.value && Array.isArray(posts.value.posts)) {
     s.posts = posts.value.posts;

@@ -4,7 +4,7 @@ import {
   resetToServer, clearLocal, getPost, upsertPost, deletePost, exportPayload, backupPayload,
   restoreBackup, applyPublished,
 } from './storage.js';
-import { TYPES, STATUSES, STATUS_UZ, formatPost, renderTgPreview, TG_LIMIT } from './formatter.js';
+import { TYPES, STATUSES, STATUS_UZ, formatPost, renderTgPreview, TG_LIMIT, CAPTION_LIMIT, imageUrl } from './formatter.js';
 import { normalizePost, validatePost, findDuplicates, parseImport, normalizeHanzi } from './validator.js';
 import { renderMonth, renderWeek } from './calendar.js';
 import * as U from './utils.js';
@@ -289,7 +289,7 @@ function renderPosts(el) {
       <td><input type="checkbox" class="sel" value="${U.esc(p.id)}" aria-label="Tanlash"></td>
       <td class="nowrap">${p.scheduled_at ? U.fmtDT(p.scheduled_at) : '<span class="muted">—</span>'}</td>
       <td>${typeBadge(p.type)}</td>
-      <td class="hanzi-cell">${U.esc(p.hanzi || '(matn)')}</td>
+      <td class="hanzi-cell">${U.esc(p.hanzi || '(matn)')}${p.image ? ' <span title="Rasm bor">🖼</span>' : ''}</td>
       <td class="hide-sm">${U.esc(p.pinyin)}</td>
       <td class="hide-sm">${U.esc(p.translation_uz)}</td>
       <td>${statusBadge(p.status)}${p.last_error ? `<div class="err small" title="${U.esc(p.last_error)}">${U.esc(p.last_error.slice(0, 60))}</div>` : ''}</td>
@@ -379,7 +379,7 @@ function blankPost(date, time) {
   return {
     id: U.uid('post'), type: 'vocabulary', title_zh: '', hanzi: '', pinyin: '', translation_uz: '',
     explanation_uz: '', examples: [{ zh: '', pinyin: '', uz: '' }, { zh: '', pinyin: '', uz: '' }],
-    emoji: '', hsk_level: null, tags: [], text_override: null,
+    emoji: '', hsk_level: null, tags: [], text_override: null, image: null,
     scheduled_at: date ? U.toISO(date, time || state.settings.slots[0]) : null,
     status: 'Draft', created_at: U.nowISO(),
   };
@@ -424,6 +424,8 @@ function renderEditor(el, arg) {
         <label>Emoji<input name="emoji" value="${U.esc(p.emoji)}" placeholder="${TYPES[p.type]?.emoji || ''}" ${dis}></label>
         <label>HSK darajasi<select name="hsk_level" ${dis}><option value="">—</option>${[1, 2, 3, 4, 5, 6].map((n) => `<option value="${n}" ${p.hsk_level === n ? 'selected' : ''}>HSK ${n}</option>`).join('')}</select></label>
         <label class="span-2">Teglar (vergul bilan)<input name="tags" value="${U.esc((p.tags || []).join(', '))}" placeholder="HSK3, so'zlar" ${dis}></label>
+        <label class="span-2">Rasm (ixtiyoriy)<input name="image" value="${U.esc(p.image || '')}" placeholder="assets/images/rasm.jpg yoki https://..." ${dis}>
+          <span class="muted small">Rasmni GitHub'dagi <code>assets/images</code> papkasiga yuklang va yo'lini yozing, yoki internetdagi rasm manzilini qo'ying.</span></label>
         <label>Sana<input type="date" name="date" value="${date}" ${dis}></label>
         <label>Vaqt<input type="time" name="time" value="${time}" list="slotTimes" ${dis}>
           <datalist id="slotTimes">${state.settings.slots.map((t) => `<option value="${t}">`).join('')}</datalist></label>
@@ -461,7 +463,7 @@ function renderEditor(el, arg) {
     <aside class="preview-col">
       <div class="card preview-card">
         <div class="tg-head"><span class="tg-avatar">中</span><div><b>Kanal</b><small>Telegram preview</small></div></div>
-        <div class="tg-bubble" id="preview"></div>
+        <img id="previewImg" class="tg-image" alt="" hidden><div class="tg-bubble" id="preview"></div>
         <div class="counter" id="counter"></div>
       </div>
     </aside>
@@ -491,6 +493,7 @@ function renderEditor(el, arg) {
     }
     if (fd.has('hsk_level')) p.hsk_level = fd.get('hsk_level') ? Number(fd.get('hsk_level')) : null;
     if (fd.has('tags')) p.tags = String(fd.get('tags')).split(',').map((t) => t.replace(/^#/, '').trim()).filter(Boolean);
+    if (fd.has('image')) p.image = String(fd.get('image')).trim() || null;
     const ov = fd.get('text_override');
     if (ov !== null) p.text_override = String(ov).trim() ? String(ov) : null;
     const d = fd.get('date');
@@ -504,13 +507,18 @@ function renderEditor(el, arg) {
     const text = formatPost(p);
     $('#preview').innerHTML = renderTgPreview(text);
     const v = validatePost(p);
+    const img = $('#previewImg');
+    const src = imageUrl(p.image);
+    if (src) { if (img.getAttribute('src') !== src) img.src = src; img.hidden = false; } else { img.hidden = true; img.removeAttribute('src'); }
     const c = $('#counter');
-    c.textContent = `${v.length} / ${TG_LIMIT} belgi`;
+    c.textContent = src
+      ? `${v.length} belgi · rasm bilan: ${v.length <= CAPTION_LIMIT ? 'bitta xabar' : 'rasm + alohida matn'}`
+      : `${v.length} / ${TG_LIMIT} belgi`;
     c.classList.toggle('over', v.length > TG_LIMIT);
     const dups = findDuplicates(p, state.posts, state.server.published.items);
     const sched = U.parse(p.scheduled_at);
     const past = sched && sched.getTime() < Date.now() && !ro;
-    const sameDay = p.scheduled_at ? state.posts.filter((q) => q.id !== p.id && U.postKey(q) === U.postKey(p) && q.type === p.type && q.status !== 'Failed') : [];
+    const sameDay = p.scheduled_at ? state.posts.filter((q) => q.id !== p.id && U.postKey(q) === U.postKey(p) && q.type === p.type && q.type !== 'hsk' && q.status !== 'Failed') : [];
     const sameSlot = p.scheduled_at ? state.posts.filter((q) => q.id !== p.id && q.scheduled_at && U.postKey(q) === U.postKey(p) && U.postTime(q) === U.postTime(p) && q.status !== 'Failed') : [];
     $('#validation').innerHTML = `
       ${v.errors.map((x) => `<div class="msg err">❌ ${U.esc(x)}</div>`).join('')}

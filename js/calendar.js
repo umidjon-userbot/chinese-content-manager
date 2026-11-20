@@ -17,7 +17,7 @@ function groupByDay(posts) {
 function typeClash(list) {
   const seen = new Set();
   for (const p of list) {
-    if (p.status === 'Failed') continue;
+    if (p.status === 'Failed' || p.type === 'hsk') continue; // HSK so'zlar seriyasi kuniga 2 tadan bo'lishi tabiiy
     if (seen.has(p.type)) return true;
     seen.add(p.type);
   }

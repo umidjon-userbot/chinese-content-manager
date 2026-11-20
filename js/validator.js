@@ -1,8 +1,10 @@
 // JSON sxema tekshiruvi, normallashtirish va takrorlanish tekshiruvi.
-import { TYPES, STATUSES, formatPost, tgLength, TG_LIMIT } from './formatter.js';
+import { TYPES, STATUSES, formatPost, tgLength, TG_LIMIT, CAPTION_LIMIT } from './formatter.js';
 import { parse, uid, nowISO } from './utils.js';
 
 const TONE = /[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙ]/;
+// Neytral tonli yuklamalar (吧 的 了 吗 们 呢 么 着 啊 呀 啦 得 地) — ton belgisisiz to'g'ri
+const NEUTRAL = /^(ba|de|le|ma|men|ne|me|zhe|a|ya|la|wa|na)$/i;
 const NUM_TONE = /[a-zü]+[1-5](?![0-9])/i;
 const ALLOWED_TAGS = /^\/?(b|strong|i|em|u|ins|s|strike|del|code|pre|blockquote|tg-spoiler|a)$/i;
 
@@ -28,6 +30,7 @@ export function normalizePost(raw) {
   if (typeof p.tags === 'string') p.tags = p.tags.split(/[,\s]+/).filter(Boolean);
   p.tags = Array.isArray(p.tags) ? p.tags.map((t) => String(t).replace(/^#/, '').trim()).filter(Boolean) : [];
   p.text_override = p.text_override && String(p.text_override).trim() ? String(p.text_override) : null;
+  p.image = p.image && String(p.image).trim() ? String(p.image).trim() : null;
   const lvl = Number(p.hsk_level);
   p.hsk_level = Number.isInteger(lvl) && lvl >= 1 && lvl <= 9 ? lvl : null;
   p.scheduled_at = p.scheduled_at ? String(p.scheduled_at).trim() : null;
@@ -49,7 +52,7 @@ export function validatePost(p) {
   }
   if (p.pinyin) {
     if (NUM_TONE.test(p.pinyin)) warnings.push('Pinyin raqamli tonda yozilgan (ni3) — ton belgilaridan foydalaning');
-    else if (!TONE.test(p.pinyin)) warnings.push('Pinyinda ton belgisi topilmadi');
+    else if (!TONE.test(p.pinyin) && !NEUTRAL.test(p.pinyin.trim())) warnings.push('Pinyinda ton belgisi topilmadi');
   }
   if (!override) {
     const n = (p.examples || []).length;
@@ -66,6 +69,13 @@ export function validatePost(p) {
   const length = tgLength(formatPost(p));
   if (length > TG_LIMIT) errors.push(`Matn juda uzun: ${length}/${TG_LIMIT} belgi`);
 
+  if (p.image) {
+    const img = String(p.image);
+    if (!/^https?:\/\//i.test(img) && !/^assets\/images\/[^\s]+\.(jpe?g|png|webp|gif)$/i.test(img)) {
+      errors.push("Rasm: https://... manzil yoki assets/images/fayl.jpg yo'li bo'lishi kerak");
+    }
+    if (length > CAPTION_LIMIT) warnings.push(`Rasm ostiga ${CAPTION_LIMIT} belgigacha sig'adi — rasm va matn alohida xabar bo'lib ketadi`);
+  }
   if (override) {
     const tags = [...String(p.text_override).matchAll(/<\s*(\/?[a-zA-Z][a-zA-Z0-9-]*)/g)].map((m) => m[1]);
     const bad = [...new Set(tags.filter((t) => !ALLOWED_TAGS.test(t)))];

@@ -2,6 +2,7 @@
 import { esc } from './utils.js';
 
 export const TG_LIMIT = 4096;
+export const CAPTION_LIMIT = 1024; // rasm ostidagi matn chegarasi
 
 export const TYPES = {
   vocabulary:   { emoji: '📚', zh: '今日词汇', uz: "Kun so'zi",          slot: 'am' },
@@ -34,7 +35,30 @@ export function hashtag(s) {
   return String(s ?? '').replace(/[^\p{L}\p{N}_]/gu, '');
 }
 
+/** data/config.json: { channel_link, footer_text } — har bir post ostiga havola qo'shiladi */
+let CONFIG = { channel_link: '', footer_text: '' };
+export function setConfig(cfg) {
+  CONFIG = { channel_link: '', footer_text: '', ...(cfg || {}) };
+}
+export function getConfig() {
+  return CONFIG;
+}
+
+function footerLine() {
+  const url = String(CONFIG.channel_link || '').trim();
+  if (!url) return '';
+  const text = String(CONFIG.footer_text || '').trim() || url;
+  const href = url.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+  return `👉 <a href="${href}">${tgEscape(text)}</a>`;
+}
+
 export function formatPost(p) {
+  const body = formatBody(p);
+  const foot = footerLine();
+  return foot ? `${body}\n\n${foot}` : body;
+}
+
+function formatBody(p) {
   if (p.text_override && String(p.text_override).trim()) return String(p.text_override).trim();
   const t = TYPES[p.type] || TYPES.vocabulary;
   const emoji = String(p.emoji || '').trim() || t.emoji;
@@ -91,6 +115,14 @@ export function tgLength(text) {
 }
 
 const ALLOWED = new Set(['b', 'strong', 'i', 'em', 'u', 'ins', 's', 'strike', 'del', 'code', 'pre', 'blockquote', 'tg-spoiler']);
+
+/** Rasm manzili: to'liq https URL yoki repo ichidagi yo'l (assets/images/...) */
+export function imageUrl(image) {
+  const s = String(image || '').trim();
+  if (!s) return '';
+  if (/^https?:\/\//i.test(s)) return s;
+  return s.replace(/^\/+/, '');
+}
 
 /** Telegram HTML matnini xavfsiz preview HTML'ga aylantiradi */
 export function renderTgPreview(text) {

@@ -4,7 +4,7 @@ Telegram kanal uchun xitoy tili kontentini tayyorlash, rejalashtirish va **avtom
 Hammasi bepul: **GitHub Pages** (dashboard) + **GitHub Actions** (avtomatik yuborish) + **Telegram Bot API**.
 
 - Dashboard: `https://<username>.github.io/<repo>/`
-- Postlar har kuni **09:00** va **19:00** (Asia/Tashkent) da kanalga chiqadi.
+- Postlar har kuni **09:00, 11:00, 13:00, 15:00, 17:00, 19:00** (Asia/Tashkent) da kanalga chiqadi — kuniga 6 ta.
 - Kontent Claude chatida tayyorlanadi va JSON qilib import qilinadi — pullik AI API kerak emas.
 
 ---
@@ -14,7 +14,7 @@ Hammasi bepul: **GitHub Pages** (dashboard) + **GitHub Actions** (avtomatik yubo
 ```
 Claude chat ──JSON──▶ Dashboard (brauzer) ──posts.json eksport──▶ GitHub repo
                                                                      │
-                                         GitHub Actions (09:00, 19:00)│
+                                         GitHub Actions (har 2 soatda)│
                                                                      ▼
                                                         Telegram kanal ✅
                                      published.json + status.json ◀──┘ (commit)
@@ -118,13 +118,14 @@ Har bir post oxiriga kanal havolasi avtomatik qo'shiladi. Uni `data/config.json`
 
 ## Muhim eslatmalar
 
-- **Cron kechikishi.** GitHub jadvaldagi ishlarni ba'zan 5–30 daqiqa, yuklama yuqori bo'lsa undan ko'p kechiktiradi. Shu sababli 09:30 va 19:30 da zaxira ishga tushish bor. Vaqti kelgan post 12 soat ichida baribir yuboriladi; 12 soatdan eskirganlari avtomatik yuborilmaydi va dashboardda "muddati o'tgan" deb ko'rinadi.
+- **Cron kechikishi.** GitHub jadvaldagi ishlarni ba'zan 5–30 daqiqa, yuklama yuqori bo'lsa undan ko'p kechiktiradi. Har 2 soatlik ishga tushish oldingisidan qolgan postni ham yuboradi, 19:30 da esa kunlik zaxira ishga tushish bor. Vaqti kelgan post 12 soat ichida baribir yuboriladi; 12 soatdan eskirganlari avtomatik yuborilmaydi va dashboardda "muddati o'tgan" deb ko'rinadi.
 - **Qayta yuborishdan himoya.** Har bir yuborilgan post ID'si `published.json` ga yoziladi. Eski `posts.json` ni qayta yuklasangiz ham, yuborilgan post ikkinchi marta ketmaydi. Workflow'da `concurrency` ham bor — ikki nusxa bir vaqtda ishlamaydi.
 - **Bir ishga tushishda ko'pi bilan 2 ta post** yuboriladi (eng eskisidan boshlab).
 - **Failed post.** Xato matni postda va dashboardda ko'rinadi. Matnni tuzating va qayta rejalashtiring.
 - **Telegram limiti.** Bitta xabar 4096 belgidan oshmasligi kerak — editor hisoblagichi buni ko'rsatadi.
 - **60 kunlik qoida.** Public repo'da 60 kun hech qanday faollik bo'lmasa, GitHub jadvalni o'chiradi. Workflow har ishga tushishda `status.json` ni commit qiladi, shuning uchun bu odatda muammo bo'lmaydi. O'chib qolsa: Actions → Publish to Telegram → **Enable workflow**.
-- **Vaqtni o'zgartirish.** Slotlarni Sozlamalarda o'zgartirsangiz, `.github/workflows/publish.yml` dagi `cron` qatorlarini ham yangilang: Toshkent vaqti − 5 soat = UTC (09:00 → `0 4 * * *`).
+- **Vaqtni o'zgartirish.** Vaqtlar `data/config.json` dagi `slots` ro'yxatida. O'zgartirsangiz, `.github/workflows/publish.yml` dagi `cron` qatorini ham yangilang: Toshkent vaqti − 5 soat = UTC (09:00 → 4, 11:00 → 6 ...).
+- **Hozir yuborish.** Postlar ro'yxatida yoki editorda ⚡ tugmasi → GitHub'da Publish to Telegram → Run workflow → post ID → Run.
 
 ## Muammolar va yechimlar
 

@@ -20,6 +20,13 @@
       "type": "grammar",
       "sent_at": "2026-11-21T00:11:48+05:00",
       "message_id": 4
+    },
+    {
+      "id": "hsk1-001",
+      "hanzi": "爱",
+      "type": "hsk",
+      "sent_at": "2026-11-21T00:14:24+05:00",
+      "message_id": 5
     }
   ]
 }

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uz" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>AI Chinese Content Manager · 中文内容管理</title>
+  <meta name="description" content="Telegram kanal uchun xitoy tili kontentini rejalashtirish va avtomatik nashr qilish paneli">
+  <meta name="theme-color" content="#C8102E">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app" class="app loading">
+    <aside class="sidebar" aria-label="Asosiy menyu">
+      <a class="brand" href="#dashboard">
+        <span class="seal">中</span>
+        <span class="brand-text"><b>Content Manager</b><small>中文内容管理</small></span>
+      </a>
+      <nav class="nav">
+        <a href="#dashboard" data-view="dashboard"><span class="ni">◉</span><span>Dashboard</span></a>
+        <a href="#posts" data-view="posts"><span class="ni">☰</span><span>Postlar</span></a>
+        <a href="#editor/new" data-view="editor"><span class="ni">✎</span><span>Editor</span></a>
+        <a href="#calendar" data-view="calendar"><span class="ni">▦</span><span>Kalendar</span></a>
+        <a href="#import" data-view="import"><span class="ni">⇣</span><span>Import / Prompt</span></a>
+        <a href="#export" data-view="export"><span class="ni">⇡</span><span>Eksport</span></a>
+        <a href="#settings" data-view="settings"><span class="ni">⚙</span><span>Sozlamalar</span></a>
+      </nav>
+      <div class="sidebar-foot">
+        <span class="pattern" aria-hidden="true">福 · 学 · 知</span>
+        <small>Asia/Tashkent · bepul</small>
+      </div>
+    </aside>
+    <div class="scrim" id="scrim"></div>
+
+    <div class="content">
+      <header class="topbar">
+        <button class="icon-btn menu-btn" id="menuBtn" aria-label="Menyu">☰</button>
+        <div class="topbar-title"><span class="seal small">中</span><b>Content Manager</b></div>
+        <div class="topbar-actions">
+          <a class="pill warn" id="dirtyPill" href="#export" hidden title="Saqlanmagan o'zgarishlar bor">● Eksport kerak</a>
+          <button class="icon-btn" id="refreshBtn" title="Serverdan yangilash" aria-label="Serverdan yangilash">↻</button>
+          <button class="icon-btn" id="themeBtn" title="Yorug' / qorong'i" aria-label="Mavzuni almashtirish">◐</button>
+        </div>
+      </header>
+      <div id="banner" class="banner" hidden></div>
+      <main id="main" class="main">
+        <div class="card empty">Yuklanmoqda…</div>
+      </main>
+    </div>
+  </div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <div id="modal" class="modal" hidden></div>
+  <noscript>Bu ilova ishlashi uchun JavaScript yoqilgan bo'lishi kerak.</noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

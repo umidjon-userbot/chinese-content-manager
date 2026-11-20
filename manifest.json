@@ -1,0 +1,17 @@
+{
+  "name": "AI Chinese Content Manager",
+  "short_name": "中文 Manager",
+  "description": "Telegram kanal uchun xitoy tili kontentini rejalashtirish paneli",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111114",
+  "theme_color": "#C8102E",
+  "lang": "uz",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

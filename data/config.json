@@ -1,4 +1,12 @@
 {
   "channel_link": "https://t.me/+WryvE8qgdH5kMTYy",
-  "footer_text": "Daily Chinese — kanalga obuna bo'ling"
+  "footer_text": "Daily Chinese — kanalga obuna bo'ling",
+  "slots": [
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00"
+  ]
 }

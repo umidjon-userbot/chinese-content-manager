@@ -1,0 +1,77 @@
+name: Publish to Telegram
+
+on:
+  schedule:
+    - cron: '0 4 * * *'    # 09:00 Toshkent (UTC+5)
+    - cron: '30 4 * * *'   # 09:30 zaxira (asosiy ishga tushish kechiksa yoki o'tkazib yuborilsa)
+    - cron: '0 14 * * *'   # 19:00 Toshkent
+    - cron: '30 14 * * *'  # 19:30 zaxira
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Sinov rejimi (hech narsa yuborilmaydi)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Postlarni yuborish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: |
+          ARGS="--result-out /tmp/result.json"
+          if [ "$DRY_RUN" = "1" ]; then ARGS="$ARGS --dry-run"; fi
+          python3 scripts/publish.py $ARGS
+
+      - name: Natijani commit qilish
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          BRANCH="${GITHUB_REF_NAME}"
+          for i in 1 2 3 4; do
+            git add data/posts.json data/published.json data/status.json
+            if git diff --cached --quiet; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -q -m "chore: publish natijasi $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            if git push -q origin "HEAD:${BRANCH}"; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push rad etildi (repo o'zgargan), qayta urinish $i..."
+            sleep $((i * 3))
+            git fetch -q origin "${BRANCH}"
+            git reset -q --hard "origin/${BRANCH}"
+            python3 scripts/publish.py --apply-result /tmp/result.json
+          done
+          echo "::error::Natijani commit qilib bo'lmadi"
+          exit 1
+
+  deploy:
+    needs: publish
+    if: needs.publish.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

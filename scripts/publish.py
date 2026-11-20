@@ -262,7 +262,7 @@ def send_with_retry(token, method, payload, attempts=3):
 
 # ---------- Asosiy mantiq ----------
 
-def run(dry_run):
+def run(dry_run, post_id=None):
     global _TOKEN
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHANNEL_ID", "").strip()
@@ -279,7 +279,19 @@ def run(dry_run):
     }
 
     due = []
-    for p in posts:
+    if post_id:
+        # Qo'lda "hozir yuborish": vaqt va statusdan qat'i nazar (faqat hali yuborilmagan bo'lsa)
+        match = [p for p in posts if p.get("id") == post_id]
+        if not match:
+            result["message"] = f"Post topilmadi: {post_id} — avval posts.json ni repo'ga yuklang"
+            log(f"::error::{result['message']}")
+            return result
+        if post_id in pub_ids:
+            result["message"] = f"{post_id} allaqachon yuborilgan"
+            log(f"::warning::{result['message']}")
+            return result
+        due.append((t, match[0]))
+    for p in ([] if post_id else posts):
         if p.get("status") not in SENDABLE or p.get("id") in pub_ids:
             continue
         dt = parse_dt(p.get("scheduled_at"))
@@ -404,6 +416,7 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="hech narsa yubormaydi")
     ap.add_argument("--result-out", help="natijani shu faylga yozadi")
     ap.add_argument("--apply-result", help="avvalgi natijani qayta qo'llaydi (yuborishsiz)")
+    ap.add_argument("--post-id", help="shu postni vaqtidan qat'i nazar hozir yuboradi")
     args = ap.parse_args()
 
     if args.apply_result:
@@ -413,7 +426,11 @@ def main():
         log("Natija qayta qo'llandi")
         return 0
 
-    result = run(args.dry_run)
+    pid = (args.post_id or '').strip() or None
+    if pid and not re.fullmatch(r"[A-Za-z0-9._:-]{1,80}", pid):
+        log('::error::Post ID noto\'g\'ri formatda')
+        return 1
+    result = run(args.dry_run, pid)
     if args.result_out:
         with open(args.result_out, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False)

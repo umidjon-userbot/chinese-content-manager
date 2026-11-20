@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T23:30:00+05:00",
+  "updated_at": "2026-11-20T23:43:54+05:00",
   "posts": [
     {
       "id": "2026-11-21-am-vocabulary",
@@ -11,16 +11,27 @@
       "translation_uz": "harakat qilmoq, tirishmoq; tirishqoq",
       "explanation_uz": "Biror maqsad uchun bor kuch bilan harakat qilishni bildiradi. Fe'l ham, sifat ham bo'lib keladi.",
       "examples": [
-        { "zh": "他学习很努力。", "pinyin": "Tā xuéxí hěn nǔlì.", "uz": "U juda tirishqoqlik bilan o'qiydi." },
-        { "zh": "我们要努力工作。", "pinyin": "Wǒmen yào nǔlì gōngzuò.", "uz": "Biz astoydil ishlashimiz kerak." }
+        {
+          "zh": "他学习很努力。",
+          "pinyin": "Tā xuéxí hěn nǔlì.",
+          "uz": "U juda tirishqoqlik bilan o'qiydi."
+        },
+        {
+          "zh": "我们要努力工作。",
+          "pinyin": "Wǒmen yào nǔlì gōngzuò.",
+          "uz": "Biz astoydil ishlashimiz kerak."
+        }
       ],
       "emoji": "💪",
       "hsk_level": 3,
-      "tags": ["HSK3"],
+      "tags": [
+        "HSK3"
+      ],
       "text_override": null,
-      "scheduled_at": "2026-11-21T09:00:00+05:00",
-      "status": "Draft",
-      "created_at": "2026-11-20T23:30:00+05:00"
+      "scheduled_at": "2026-11-20T23:43:54+05:00",
+      "status": "Scheduled",
+      "created_at": "2026-11-20T23:30:00+05:00",
+      "updated_at": "2026-11-20T23:43:54+05:00"
     },
     {
       "id": "2026-11-21-pm-grammar",
@@ -31,13 +42,28 @@
       "translation_uz": "把 qurilishi — harakat ob'ektga qanday ta'sir qilganini ko'rsatadi",
       "explanation_uz": "把 dan keyin ob'ekt, so'ng fe'l va uning natijasi keladi. Fe'l yolg'iz turmaydi: orqasidan 了, natija yoki yo'nalish qo'shimchasi keladi.",
       "examples": [
-        { "zh": "请把门关上。", "pinyin": "Qǐng bǎ mén guānshang.", "uz": "Iltimos, eshikni yopib qo'ying." },
-        { "zh": "我把作业写完了。", "pinyin": "Wǒ bǎ zuòyè xiěwán le.", "uz": "Men uy vazifasini yozib tugatdim." },
-        { "zh": "你把手机放在哪儿了？", "pinyin": "Nǐ bǎ shǒujī fàng zài nǎr le?", "uz": "Telefonni qayerga qo'yding?" }
+        {
+          "zh": "请把门关上。",
+          "pinyin": "Qǐng bǎ mén guānshang.",
+          "uz": "Iltimos, eshikni yopib qo'ying."
+        },
+        {
+          "zh": "我把作业写完了。",
+          "pinyin": "Wǒ bǎ zuòyè xiěwán le.",
+          "uz": "Men uy vazifasini yozib tugatdim."
+        },
+        {
+          "zh": "你把手机放在哪儿了？",
+          "pinyin": "Nǐ bǎ shǒujī fàng zài nǎr le?",
+          "uz": "Telefonni qayerga qo'yding?"
+        }
       ],
       "emoji": "",
       "hsk_level": 3,
-      "tags": ["HSK3", "grammatika"],
+      "tags": [
+        "HSK3",
+        "grammatika"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-21T19:00:00+05:00",
       "status": "Draft",
@@ -52,12 +78,22 @@
       "translation_uz": "imkoniyat, fursat",
       "explanation_uz": "Biror ishni qilish uchun qulay vaziyat. Ko'pincha 有机会 (imkoniyat bor) shaklida ishlatiladi.",
       "examples": [
-        { "zh": "这是一个好机会。", "pinyin": "Zhè shì yí ge hǎo jīhuì.", "uz": "Bu yaxshi imkoniyat." },
-        { "zh": "有机会我想去中国。", "pinyin": "Yǒu jīhuì wǒ xiǎng qù Zhōngguó.", "uz": "Imkoniyat bo'lsa, Xitoyga borgim keladi." }
+        {
+          "zh": "这是一个好机会。",
+          "pinyin": "Zhè shì yí ge hǎo jīhuì.",
+          "uz": "Bu yaxshi imkoniyat."
+        },
+        {
+          "zh": "有机会我想去中国。",
+          "pinyin": "Yǒu jīhuì wǒ xiǎng qù Zhōngguó.",
+          "uz": "Imkoniyat bo'lsa, Xitoyga borgim keladi."
+        }
       ],
       "emoji": "",
       "hsk_level": 3,
-      "tags": ["HSK3"],
+      "tags": [
+        "HSK3"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-22T09:00:00+05:00",
       "status": "Draft",
@@ -72,12 +108,22 @@
       "translation_uz": "ilonga oyoq chizmoq — ortiqcha ish bilan hammasini buzmoq",
       "explanation_uz": "Qadimda bir necha kishi musobaqa qilibdi: kim ilonni birinchi chizsa, sharobni o'sha ichadi. Birinchi bo'lib chizib bo'lgan odam maqtanib, ilonga oyoq ham chizibdi. Shu payt boshqasi chizib bo'lib: \"Ilonning oyog'i bo'lmaydi-ku!\" deb sharobni olib qo'yibdi. Bu ibora keraksiz qo'shimcha ish natijani buzishini bildiradi.",
       "examples": [
-        { "zh": "这篇文章已经很好了，再加这句话就是画蛇添足。", "pinyin": "Zhè piān wénzhāng yǐjīng hěn hǎo le, zài jiā zhè jù huà jiù shì huà shé tiān zú.", "uz": "Bu maqola allaqachon yaxshi, bu gapni qo'shish ortiqcha bo'ladi." },
-        { "zh": "你别画蛇添足了。", "pinyin": "Nǐ bié huà shé tiān zú le.", "uz": "Keraksiz narsa qo'shib, ishni buzma." }
+        {
+          "zh": "这篇文章已经很好了，再加这句话就是画蛇添足。",
+          "pinyin": "Zhè piān wénzhāng yǐjīng hěn hǎo le, zài jiā zhè jù huà jiù shì huà shé tiān zú.",
+          "uz": "Bu maqola allaqachon yaxshi, bu gapni qo'shish ortiqcha bo'ladi."
+        },
+        {
+          "zh": "你别画蛇添足了。",
+          "pinyin": "Nǐ bié huà shé tiān zú le.",
+          "uz": "Keraksiz narsa qo'shib, ishni buzma."
+        }
       ],
       "emoji": "",
       "hsk_level": null,
-      "tags": ["成语"],
+      "tags": [
+        "成语"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-22T19:00:00+05:00",
       "status": "Draft",
@@ -92,12 +138,22 @@
       "translation_uz": "dam olmoq",
       "explanation_uz": "休 ieroglifi ikki qismdan iborat: 亻(odam) va 木 (daraxt). Odam daraxtga suyanib dam olyapti — ma'nosi shundan.",
       "examples": [
-        { "zh": "你累了，休息一下吧。", "pinyin": "Nǐ lèi le, xiūxi yíxià ba.", "uz": "Charchading, biroz dam ol." },
-        { "zh": "周末我在家休息。", "pinyin": "Zhōumò wǒ zài jiā xiūxi.", "uz": "Dam olish kunlari uyda dam olaman." }
+        {
+          "zh": "你累了，休息一下吧。",
+          "pinyin": "Nǐ lèi le, xiūxi yíxià ba.",
+          "uz": "Charchading, biroz dam ol."
+        },
+        {
+          "zh": "周末我在家休息。",
+          "pinyin": "Zhōumò wǒ zài jiā xiūxi.",
+          "uz": "Dam olish kunlari uyda dam olaman."
+        }
       ],
       "emoji": "",
       "hsk_level": 2,
-      "tags": ["汉字"],
+      "tags": [
+        "汉字"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-23T09:00:00+05:00",
       "status": "Draft",
@@ -112,12 +168,22 @@
       "translation_uz": "Bahor bayrami (Xitoy Yangi yili)",
       "explanation_uz": "Xitoyning eng katta bayrami, oy kalendari bo'yicha nishonlanadi. Oila yig'iladi, chuchvara (饺子) tugiladi, bolalarga qizil konvertda pul (红包) beriladi.",
       "examples": [
-        { "zh": "春节快乐！", "pinyin": "Chūnjié kuàilè!", "uz": "Bahor bayramingiz muborak!" },
-        { "zh": "春节的时候，大家一起吃饺子。", "pinyin": "Chūnjié de shíhou, dàjiā yìqǐ chī jiǎozi.", "uz": "Bahor bayramida hamma birga chuchvara yeydi." }
+        {
+          "zh": "春节快乐！",
+          "pinyin": "Chūnjié kuàilè!",
+          "uz": "Bahor bayramingiz muborak!"
+        },
+        {
+          "zh": "春节的时候，大家一起吃饺子。",
+          "pinyin": "Chūnjié de shíhou, dàjiā yìqǐ chī jiǎozi.",
+          "uz": "Bahor bayramida hamma birga chuchvara yeydi."
+        }
       ],
       "emoji": "🧧",
       "hsk_level": null,
-      "tags": ["madaniyat"],
+      "tags": [
+        "madaniyat"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-23T19:00:00+05:00",
       "status": "Draft",
@@ -132,12 +198,22 @@
       "translation_uz": "Ovqatlandingmi? (salomlashish)",
       "explanation_uz": "Xitoyda bu savol ko'pincha \"qalaysan\" ma'nosidagi salomlashish. Javob qisqa bo'ladi, mehmonga taklif shart emas.",
       "examples": [
-        { "zh": "你吃了吗？——吃了，你呢？", "pinyin": "Nǐ chī le ma? — Chī le, nǐ ne?", "uz": "Ovqatlandingmi? — Ha, o'zing-chi?" },
-        { "zh": "还没吃呢，一起去吧！", "pinyin": "Hái méi chī ne, yìqǐ qù ba!", "uz": "Hali yemadim, birga boraylik!" }
+        {
+          "zh": "你吃了吗？——吃了，你呢？",
+          "pinyin": "Nǐ chī le ma? — Chī le, nǐ ne?",
+          "uz": "Ovqatlandingmi? — Ha, o'zing-chi?"
+        },
+        {
+          "zh": "还没吃呢，一起去吧！",
+          "pinyin": "Hái méi chī ne, yìqǐ qù ba!",
+          "uz": "Hali yemadim, birga boraylik!"
+        }
       ],
       "emoji": "",
       "hsk_level": 1,
-      "tags": ["suhbat"],
+      "tags": [
+        "suhbat"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-24T09:00:00+05:00",
       "status": "Draft",
@@ -152,12 +228,22 @@
       "translation_uz": "\"yotib olmoq\" — raqobat poygasidan voz kechmoq",
       "explanation_uz": "Yoshlar orasida mashhur so'z: ortiqcha kurashmasdan, oddiy va tinch hayot tanlashni bildiradi.",
       "examples": [
-        { "zh": "工作太累了，我想躺平。", "pinyin": "Gōngzuò tài lèi le, wǒ xiǎng tǎngpíng.", "uz": "Ish juda charchatdi, hammasidan voz kechib dam olgim keladi." },
-        { "zh": "年轻人不能总是躺平。", "pinyin": "Niánqīngrén bù néng zǒngshì tǎngpíng.", "uz": "Yoshlar doim qo'l qovushtirib o'tira olmaydi." }
+        {
+          "zh": "工作太累了，我想躺平。",
+          "pinyin": "Gōngzuò tài lèi le, wǒ xiǎng tǎngpíng.",
+          "uz": "Ish juda charchatdi, hammasidan voz kechib dam olgim keladi."
+        },
+        {
+          "zh": "年轻人不能总是躺平。",
+          "pinyin": "Niánqīngrén bù néng zǒngshì tǎngpíng.",
+          "uz": "Yoshlar doim qo'l qovushtirib o'tira olmaydi."
+        }
       ],
       "emoji": "",
       "hsk_level": null,
-      "tags": ["slang"],
+      "tags": [
+        "slang"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-24T19:00:00+05:00",
       "status": "Draft",
@@ -172,12 +258,22 @@
       "translation_uz": "odat; ko'nikmoq",
       "explanation_uz": "Ot sifatida \"odat\", fe'l sifatida \"ko'nikmoq\" ma'nosida keladi.",
       "examples": [
-        { "zh": "我习惯早上喝茶。", "pinyin": "Wǒ xíguàn zǎoshang hē chá.", "uz": "Men ertalab choy ichishga o'rganganman." },
-        { "zh": "这是一个好习惯。", "pinyin": "Zhè shì yí ge hǎo xíguàn.", "uz": "Bu yaxshi odat." }
+        {
+          "zh": "我习惯早上喝茶。",
+          "pinyin": "Wǒ xíguàn zǎoshang hē chá.",
+          "uz": "Men ertalab choy ichishga o'rganganman."
+        },
+        {
+          "zh": "这是一个好习惯。",
+          "pinyin": "Zhè shì yí ge hǎo xíguàn.",
+          "uz": "Bu yaxshi odat."
+        }
       ],
       "emoji": "",
       "hsk_level": 3,
-      "tags": ["HSK3"],
+      "tags": [
+        "HSK3"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-25T09:00:00+05:00",
       "status": "Draft",
@@ -192,12 +288,23 @@
       "translation_uz": "tobora, borgan sari",
       "explanation_uz": "Holat vaqt o'tishi bilan kuchayib borishini bildiradi. Ko'pincha gap oxirida 了 keladi.",
       "examples": [
-        { "zh": "天气越来越冷了。", "pinyin": "Tiānqì yuè lái yuè lěng le.", "uz": "Havo tobora sovib bormoqda." },
-        { "zh": "他的汉语越来越好。", "pinyin": "Tā de Hànyǔ yuè lái yuè hǎo.", "uz": "Uning xitoy tili borgan sari yaxshilanyapti." }
+        {
+          "zh": "天气越来越冷了。",
+          "pinyin": "Tiānqì yuè lái yuè lěng le.",
+          "uz": "Havo tobora sovib bormoqda."
+        },
+        {
+          "zh": "他的汉语越来越好。",
+          "pinyin": "Tā de Hànyǔ yuè lái yuè hǎo.",
+          "uz": "Uning xitoy tili borgan sari yaxshilanyapti."
+        }
       ],
       "emoji": "",
       "hsk_level": 3,
-      "tags": ["HSK3", "grammatika"],
+      "tags": [
+        "HSK3",
+        "grammatika"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-25T19:00:00+05:00",
       "status": "Draft",
@@ -212,12 +319,22 @@
       "translation_uz": "panda",
       "explanation_uz": "Qiziq fakt: 熊猫 so'zma-so'z \"ayiq-mushuk\" degani (熊 — ayiq, 猫 — mushuk). Panda kuniga 12–14 soat bambuk yeydi.",
       "examples": [
-        { "zh": "熊猫很可爱。", "pinyin": "Xióngmāo hěn kě'ài.", "uz": "Panda juda yoqimtoy." },
-        { "zh": "熊猫喜欢吃竹子。", "pinyin": "Xióngmāo xǐhuan chī zhúzi.", "uz": "Panda bambuk yeyishni yaxshi ko'radi." }
+        {
+          "zh": "熊猫很可爱。",
+          "pinyin": "Xióngmāo hěn kě'ài.",
+          "uz": "Panda juda yoqimtoy."
+        },
+        {
+          "zh": "熊猫喜欢吃竹子。",
+          "pinyin": "Xióngmāo xǐhuan chī zhúzi.",
+          "uz": "Panda bambuk yeyishni yaxshi ko'radi."
+        }
       ],
       "emoji": "🐼",
       "hsk_level": null,
-      "tags": ["fakt"],
+      "tags": [
+        "fakt"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-26T09:00:00+05:00",
       "status": "Draft",
@@ -232,12 +349,22 @@
       "translation_uz": "to'nka yonida quyon kutmoq — tasodifiy omadga suyanib o'tirmoq",
       "explanation_uz": "Bir dehqon dalada ishlayotganda quyon yugurib kelib to'nkaga urilib o'libdi. Dehqon ishni tashlab, har kuni to'nka yonida yana quyon kelishini kutib o'tiribdi, dalasi esa qarovsiz qolibdi.",
       "examples": [
-        { "zh": "学习不能守株待兔，要主动。", "pinyin": "Xuéxí bù néng shǒu zhū dài tù, yào zhǔdòng.", "uz": "O'qishda omad kutib o'tirib bo'lmaydi, faol bo'lish kerak." },
-        { "zh": "找工作不能守株待兔。", "pinyin": "Zhǎo gōngzuò bù néng shǒu zhū dài tù.", "uz": "Ish qidirishda qo'l qovushtirib kutib o'tirib bo'lmaydi." }
+        {
+          "zh": "学习不能守株待兔，要主动。",
+          "pinyin": "Xuéxí bù néng shǒu zhū dài tù, yào zhǔdòng.",
+          "uz": "O'qishda omad kutib o'tirib bo'lmaydi, faol bo'lish kerak."
+        },
+        {
+          "zh": "找工作不能守株待兔。",
+          "pinyin": "Zhǎo gōngzuò bù néng shǒu zhū dài tù.",
+          "uz": "Ish qidirishda qo'l qovushtirib kutib o'tirib bo'lmaydi."
+        }
       ],
       "emoji": "",
       "hsk_level": null,
-      "tags": ["成语"],
+      "tags": [
+        "成语"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-26T19:00:00+05:00",
       "status": "Draft",
@@ -252,12 +379,22 @@
       "translation_uz": "\"ichki o'ralish\" — keraksiz qattiq raqobat",
       "explanation_uz": "Hamma ko'proq kuch sarflaydi, lekin natija hech kimga yaxshilanmaydi. Ish va o'qishdagi ortiqcha raqobat haqida gapirganda ishlatiladi.",
       "examples": [
-        { "zh": "现在的学校太内卷了。", "pinyin": "Xiànzài de xuéxiào tài nèijuǎn le.", "uz": "Hozirgi maktablarda raqobat haddan oshib ketgan." },
-        { "zh": "我们别内卷了，按时下班吧。", "pinyin": "Wǒmen bié nèijuǎn le, ànshí xiàbān ba.", "uz": "Keling, bir-birimiz bilan poyga qilmaylik, vaqtida ishdan ketaylik." }
+        {
+          "zh": "现在的学校太内卷了。",
+          "pinyin": "Xiànzài de xuéxiào tài nèijuǎn le.",
+          "uz": "Hozirgi maktablarda raqobat haddan oshib ketgan."
+        },
+        {
+          "zh": "我们别内卷了，按时下班吧。",
+          "pinyin": "Wǒmen bié nèijuǎn le, ànshí xiàbān ba.",
+          "uz": "Keling, bir-birimiz bilan poyga qilmaylik, vaqtida ishdan ketaylik."
+        }
       ],
       "emoji": "",
       "hsk_level": null,
-      "tags": ["internet"],
+      "tags": [
+        "internet"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-27T09:00:00+05:00",
       "status": "Draft",
@@ -272,12 +409,23 @@
       "translation_uz": "cho'p tayoqchalar",
       "explanation_uz": "Xitoyda ovqat cho'p bilan yeyiladi. Odob qoidasi: cho'pni guruchga tik sanchib qo'ymang — bu marhumlarni xotirlash marosimini eslatadi.",
       "examples": [
-        { "zh": "你会用筷子吗？", "pinyin": "Nǐ huì yòng kuàizi ma?", "uz": "Cho'p ishlata olasanmi?" },
-        { "zh": "不要把筷子插在米饭里。", "pinyin": "Bú yào bǎ kuàizi chā zài mǐfàn li.", "uz": "Cho'pni guruchga sanchib qo'ymang." }
+        {
+          "zh": "你会用筷子吗？",
+          "pinyin": "Nǐ huì yòng kuàizi ma?",
+          "uz": "Cho'p ishlata olasanmi?"
+        },
+        {
+          "zh": "不要把筷子插在米饭里。",
+          "pinyin": "Bú yào bǎ kuàizi chā zài mǐfàn li.",
+          "uz": "Cho'pni guruchga sanchib qo'ymang."
+        }
       ],
       "emoji": "🥢",
       "hsk_level": null,
-      "tags": ["madaniyat", "odob"],
+      "tags": [
+        "madaniyat",
+        "odob"
+      ],
       "text_override": null,
       "scheduled_at": "2026-11-27T19:00:00+05:00",
       "status": "Draft",

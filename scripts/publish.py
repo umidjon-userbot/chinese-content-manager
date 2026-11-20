@@ -17,6 +17,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -26,11 +27,13 @@ DATA = os.path.join(ROOT, "data")
 POSTS_F = os.path.join(DATA, "posts.json")
 PUB_F = os.path.join(DATA, "published.json")
 STATUS_F = os.path.join(DATA, "status.json")
+CONFIG_F = os.path.join(DATA, "config.json")
 
 WINDOW = timedelta(hours=12)   # shu muddatdan eski postlar avtomatik yuborilmaydi
 MAX_PER_RUN = 2
 SENDABLE = {"Approved", "Scheduled"}
 TG_LIMIT = 4096
+CAPTION_LIMIT = 1024
 
 # js/formatter.js dagi TYPES bilan bir xil bo'lishi shart
 TYPES = {
@@ -109,7 +112,32 @@ def hashtag(s):
     return re.sub(r"[^\w]", "", "" if s is None else str(s))
 
 
+_CONFIG = None
+
+
+def config():
+    global _CONFIG
+    if _CONFIG is None:
+        _CONFIG = load_json(CONFIG_F, {}) or {}
+    return _CONFIG
+
+
+def footer_line():
+    url = str(config().get("channel_link") or "").strip()
+    if not url:
+        return ""
+    text = str(config().get("footer_text") or "").strip() or url
+    href = url.replace("&", "&amp;").replace('"', "&quot;")
+    return f'👉 <a href="{href}">{esc(text)}</a>'
+
+
 def format_post(p):
+    body = format_body(p)
+    foot = footer_line()
+    return f"{body}\n\n{foot}" if foot else body
+
+
+def format_body(p):
     override = p.get("text_override")
     if override and str(override).strip():
         return str(override).strip()
@@ -191,15 +219,38 @@ def tg_call(token, method, payload):
     return body.get("result")
 
 
-def send_with_retry(token, chat_id, text, attempts=3):
+def image_url(image):
+    s = str(image or "").strip()
+    if not s:
+        return ""
+    if re.match(r"^https?://", s, re.I):
+        return s
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    branch = os.environ.get("GITHUB_REF_NAME", "main")
+    if not repo:
+        raise TgError("Rasm yo'li uchun GITHUB_REPOSITORY topilmadi")
+    path = "/".join(urllib.parse.quote(part) for part in s.lstrip("/").split("/"))
+    return f"https://raw.githubusercontent.com/{repo}/{branch}/{path}"
+
+
+def send_post(token, chat_id, text, image=None):
+    """Rasm bo'lsa sendPhoto (matn sig'sa caption sifatida), aks holda sendMessage. Oxirgi xabarni qaytaradi."""
+    if image:
+        url = image_url(image)
+        if tg_length(text) <= CAPTION_LIMIT:
+            return send_with_retry(token, "sendPhoto", {
+                "chat_id": chat_id, "photo": url, "caption": text, "parse_mode": "HTML",
+            })
+        send_with_retry(token, "sendPhoto", {"chat_id": chat_id, "photo": url})
+    return send_with_retry(token, "sendMessage", {
+        "chat_id": chat_id, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True,
+    })
+
+
+def send_with_retry(token, method, payload, attempts=3):
     for i in range(attempts):
         try:
-            return tg_call(token, "sendMessage", {
-                "chat_id": chat_id,
-                "text": text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-            })
+            return tg_call(token, method, payload)
         except TgError as e:
             permanent = e.code in (400, 401, 403, 404)
             if permanent or i == attempts - 1:
@@ -278,7 +329,7 @@ def run(dry_run):
             log(f"[dry-run] {pid} yuborilardi ({length} belgi):\n{text}\n")
             continue
         try:
-            msg = send_with_retry(token, chat_id, text)
+            msg = send_post(token, chat_id, text, p.get("image"))
             result["sent"].append({
                 "id": pid, "hanzi": p.get("hanzi", ""), "type": p.get("type"),
                 "sent_at": iso(now()), "message_id": (msg or {}).get("message_id"),

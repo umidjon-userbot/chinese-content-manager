@@ -125,7 +125,7 @@ function autoDistribute() {
     slots.forEach((time, idx) => {
       if (!pool.length || o.times.has(time)) return;
       if (U.parse(U.toISO(dk, time)).getTime() <= Date.now() + 10 * 60000) return;
-      const want = slots.length === 1 ? null : (idx === 0 ? 'am' : 'pm');
+      const want = slots.length === 1 ? null : (idx < slots.length / 2 ? 'am' : 'pm');
       let i = pool.findIndex((p) => (!want || TYPES[p.type]?.slot === want) && !o.types.has(p.type));
       if (i < 0) i = pool.findIndex((p) => !o.types.has(p.type));
       if (i < 0) return;
@@ -762,7 +762,7 @@ function renderImport(el) {
       <div class="grid-form">
         <label>Boshlanish sanasi<input type="date" id="pStart" value="${tomorrow}"></label>
         <label>Necha kun<input type="number" id="pDays" value="7" min="1" max="31"></label>
-        <label>Kuniga<select id="pPer"><option value="1" ${state.settings.perDay === 1 ? 'selected' : ''}>1 ta</option><option value="2" ${state.settings.perDay === 2 ? 'selected' : ''}>2 ta</option></select></label>
+        <label>Kuniga<select id="pPer">${state.settings.slots.map((_, i) => `<option value="${i + 1}" ${state.settings.perDay === i + 1 ? 'selected' : ''}>${i + 1} ta</option>`).join('')}</select></label>
       </div>
       <div class="type-checks">${Object.entries(TYPES).map(([k, t]) => `<label class="check"><input type="checkbox" value="${k}" checked> ${t.emoji} ${t.uz}</label>`).join('')}</div>
       <label>Qo'shimcha talab (ixtiyoriy)<input id="pExtra" placeholder="Masalan: HSK 2–3 darajasi, mavzu — oila"></label>
@@ -789,7 +789,7 @@ function renderImport(el) {
     const tpl = await getPromptTemplate();
     const start = $('#pStart').value || tomorrow;
     const days = Math.max(1, Math.min(31, Number($('#pDays').value) || 7));
-    const per = Number($('#pPer').value) === 1 ? 1 : 2;
+    const per = Math.min(Math.max(Number($('#pPer').value) || 1, 1), state.settings.slots.length);
     const types = $$('.type-checks input:checked', el).map((c) => c.value);
     if (!types.length) { toast('Kamida bitta tur tanlang', 'warn'); return; }
     const slots = state.settings.slots.slice(0, per);
@@ -804,8 +804,8 @@ function renderImport(el) {
       PER_DAY: per,
       COUNT: days * per,
       SLOTS: slots.join(' va '),
-      AM: slots[0],
-      PM: slots[1] || slots[0],
+      AM: slots.slice(0, Math.ceil(slots.length / 2)).join(', '),
+      PM: slots.slice(Math.ceil(slots.length / 2)).join(', ') || slots[0],
       TYPES: types.map((k) => `${k} (${TYPES[k].uz})`).join(', '),
       TYPE_KEYS: Object.keys(TYPES).join(' | '),
       USED_HANZI: used.length ? used.join('、') : "(hali yo'q)",
@@ -973,12 +973,10 @@ function renderSettings(el) {
     <form class="card form" id="sform">
       <h3>Jadval</h3>
       <div class="grid-form">
-        <label>1-slot (ertalab)<input type="time" name="slot0" value="${s.slots[0]}"></label>
-        <label>2-slot (kechqurun)<input type="time" name="slot1" value="${s.slots[1]}"></label>
-        <label>Kuniga postlar<select name="perDay"><option value="1" ${s.perDay === 1 ? 'selected' : ''}>1 ta</option><option value="2" ${s.perDay === 2 ? 'selected' : ''}>2 ta</option></select></label>
+        <label class="span-2">Post vaqtlari (kuniga ${s.slots.length} ta)<input value="${U.esc(s.slots.join(', '))}" disabled></label>
         <label>Mavzu<select name="theme"><option value="auto" ${s.theme === 'auto' ? 'selected' : ''}>Tizimga mos</option><option value="light" ${s.theme === 'light' ? 'selected' : ''}>Yorug'</option><option value="dark" ${s.theme === 'dark' ? 'selected' : ''}>Qorong'i</option></select></label>
       </div>
-      <p class="muted small">Muhim: GitHub Actions jadvali (.github/workflows/publish.yml) 09:00 va 19:00 uchun sozlangan. Slot vaqtini o'zgartirsangiz, cron qatorlarini ham yangilang (Toshkent vaqti − 5 soat = UTC).</p>
+      <p class="muted small">Vaqtlar <code>data/config.json</code> dagi <code>slots</code> ro'yxatidan olinadi. O'zgartirsangiz, <code>.github/workflows/publish.yml</code> dagi cron qatorlarini ham yangilang (Toshkent vaqti − 5 soat = UTC).</p>
       <h3 class="mt">GitHub</h3>
       <div class="grid-form">
         <label>Foydalanuvchi<input name="owner" value="${U.esc(s.owner)}" placeholder="username"></label>
@@ -1000,13 +998,8 @@ function renderSettings(el) {
   $('#sform').addEventListener('submit', (e) => {
     e.preventDefault();
     const fd = new FormData(e.target);
-    const s0 = fd.get('slot0') || '09:00';
-    const s1 = fd.get('slot1') || '19:00';
-    if (s0 >= s1) { toast("1-slot 2-slotdan oldin bo'lishi kerak", 'bad'); return; }
     state.settings = {
       ...state.settings,
-      slots: [s0, s1],
-      perDay: Number(fd.get('perDay')) === 1 ? 1 : 2,
       theme: fd.get('theme'),
       owner: String(fd.get('owner')).trim(),
       repo: String(fd.get('repo')).trim(),

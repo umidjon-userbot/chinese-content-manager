@@ -11,8 +11,8 @@ const DEFAULT_SETTINGS = {
   owner: '',
   repo: '',
   branch: 'main',
-  slots: ['09:00', '19:00'],
-  perDay: 2,
+  slots: ['09:00', '11:00', '13:00', '15:00', '17:00', '19:00'],
+  perDay: 6,
   theme: 'auto',
 };
 
@@ -43,10 +43,24 @@ export function loadSettings() {
   state.settings = { ...DEFAULT_SETTINGS, ...saved };
   if (!state.settings.owner) state.settings.owner = det.owner;
   if (!state.settings.repo) state.settings.repo = det.repo;
-  if (!Array.isArray(state.settings.slots) || state.settings.slots.length < 2) {
+  if (!Array.isArray(state.settings.slots) || state.settings.slots.length < 1) {
     state.settings.slots = [...DEFAULT_SETTINGS.slots];
   }
-  state.settings.perDay = Number(state.settings.perDay) === 1 ? 1 : 2;
+  normalizePerDay();
+}
+
+function normalizePerDay() {
+  const n = state.settings.slots.length;
+  const v = Math.round(Number(state.settings.perDay)) || n;
+  state.settings.perDay = Math.min(Math.max(v, 1), n);
+}
+
+/** Vaqt slotlari data/config.json dan olinadi (GitHub Actions jadvali bilan bir xil bo'lishi uchun) */
+function applyConfigSlots(cfg) {
+  const ok = Array.isArray(cfg && cfg.slots) && cfg.slots.length && cfg.slots.every((t) => /^\d{2}:\d{2}$/.test(t));
+  if (!ok) return;
+  state.settings.slots = [...cfg.slots].sort();
+  state.settings.perDay = state.settings.slots.length;
 }
 
 export function saveSettings() {
@@ -66,7 +80,7 @@ export async function loadServer() {
     fetchJSON('data/status.json'),
     fetchJSON('data/config.json'),
   ]);
-  if (config.status === 'fulfilled' && config.value) setConfig(config.value);
+  if (config.status === 'fulfilled' && config.value) { setConfig(config.value); applyConfigSlots(config.value); }
   const s = state.server;
   if (posts.status === 'fulfilled' && posts.value && Array.isArray(posts.value.posts)) {
     s.posts = posts.value.posts;

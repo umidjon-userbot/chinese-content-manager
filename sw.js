@@ -1,5 +1,5 @@
-// Service worker: statik fayllar — stale-while-revalidate, data/*.json — network-first.
-const CACHE = 'ccm-v5';
+// Service worker: hamma narsa network-first (yangi versiya darhol ko'rinadi), oflaynda — kesh.
+const CACHE = 'ccm-v6';
 const ASSETS = [
   './',
   'index.html',
@@ -18,7 +18,7 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
+  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS.map((u) => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {
@@ -52,17 +52,14 @@ self.addEventListener('fetch', (event) => {
   }
 
   event.respondWith(
-    caches.match(req, { ignoreSearch: true }).then((cached) => {
-      const network = fetch(req)
-        .then((res) => {
-          if (res.ok) {
-            const copy = res.clone();
-            caches.open(CACHE).then((c) => c.put(req, copy));
-          }
-          return res;
-        })
-        .catch(() => cached);
-      return cached || network;
-    }),
+    fetch(req.url, { cache: 'no-cache', credentials: 'same-origin' })
+      .then((res) => {
+        if (res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE).then((c) => c.put(url.pathname, copy));
+        }
+        return res;
+      })
+      .catch(() => caches.match(req, { ignoreSearch: true }).then((m) => m || caches.match(url.pathname))),
   );
 });

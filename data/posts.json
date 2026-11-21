@@ -171,9 +171,12 @@
       ],
       "text_override": null,
       "scheduled_at": "2026-11-21T15:00:00+05:00",
-      "status": "Scheduled",
+      "status": "Published",
       "created_at": "2026-11-20T23:30:00+05:00",
-      "updated_at": "2026-11-21T00:16:40+05:00"
+      "updated_at": "2026-11-21T00:16:40+05:00",
+      "published_at": "2026-11-21T10:35:44+05:00",
+      "message_id": 15,
+      "status_updated_at": "2026-11-21T10:35:43+05:00"
     },
     {
       "id": "2026-11-23-pm-culture",

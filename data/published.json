@@ -62,6 +62,13 @@
       "type": "hsk",
       "sent_at": "2026-11-21T08:55:23+05:00",
       "message_id": 10
+    },
+    {
+      "id": "2026-11-23-am-characters",
+      "hanzi": "休",
+      "type": "characters",
+      "sent_at": "2026-11-21T10:35:44+05:00",
+      "message_id": 15
     }
   ]
 }

@@ -76,6 +76,13 @@
       "type": "hsk",
       "sent_at": "2026-11-21T10:36:21+05:00",
       "message_id": 16
+    },
+    {
+      "id": "2026-11-23-pm-culture",
+      "hanzi": "春节",
+      "type": "culture",
+      "sent_at": "2026-11-21T10:36:46+05:00",
+      "message_id": 17
     }
   ]
 }

@@ -1,3 +1,11 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "hsk1-001",
+      "hanzi": "爱",
+      "type": "hsk",
+      "sent_at": "2026-11-21T16:53:27+05:00",
+      "message_id": 22
+    }
+  ]
 }

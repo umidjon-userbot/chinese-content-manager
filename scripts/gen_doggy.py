@@ -14,7 +14,7 @@ MODEL = "@cf/black-forest-labs/flux-1-schnell"
 
 STYLE = ("Cute cartoon white Shiba Inu puppy mascot with a curled fluffy tail, small triangle ears and rosy red cheeks. "
          "Simple hand-drawn black ink doodle line art, thick clean confident outlines, flat white fill, "
-         "only a few small red accents, minimal, no shading, no gradients. "
+         "only a few small bright red accents (red cheeks, red details), no orange, no pink, no yellow, minimal, no shading, no gradients. "
          "Centered single character with props, lots of empty space, plain pure white background. "
          "Absolutely no text, no letters, no numbers written as text, no Chinese characters, no watermark, no frame. "
          "Scene: the puppy is {scene}.")

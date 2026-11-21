@@ -389,3 +389,13 @@ label.check { flex-direction: row; align-items: center; gap: 8px; color: var(--t
   .type-checks { grid-template-columns: 1fr; }
   .next-hanzi { font-size: 2rem; }
 }
+
+/* Quiz */
+.qchips { display: flex; flex-wrap: wrap; gap: 6px; }
+.qchip { display: inline-flex; gap: 6px; align-items: baseline; padding: 4px 10px; border-radius: 999px; background: var(--surface-2, rgba(128,128,128,.12)); cursor: pointer; font-size: 14px; }
+.qchip b { font-size: 16px; }
+.quiz-li { display: grid; grid-template-columns: 150px 1fr auto; gap: 10px; align-items: center; }
+.quiz-line { margin-top: 12px; }
+.quiz-line a { text-decoration: none; }
+.small { font-size: 12px; }
+@media (max-width: 700px) { .quiz-li { grid-template-columns: 1fr; } }

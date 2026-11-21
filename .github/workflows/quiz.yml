@@ -13,6 +13,10 @@ on:
         description: "Bugun yuborilgan bo'lsa ham qayta yuborish"
         type: boolean
         default: false
+      date:
+        description: "Sana (YYYY-MM-DD) — bo'sh qolsa bugun"
+        type: string
+        default: ""
       count:
         description: "Savollar soni"
         type: string
@@ -38,6 +42,7 @@ jobs:
           DRY: ${{ inputs.dry_run }}
           FORCE: ${{ inputs.force }}
           COUNT: ${{ inputs.count || '3' }}
+          QUIZ_DATE: ${{ inputs.date }}
         run: |
           ARGS="--count $COUNT"
           [ "$DRY" = "true" ] && ARGS="$ARGS --dry-run"

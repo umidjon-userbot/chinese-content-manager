@@ -148,6 +148,21 @@ function deletedIds() {
 }
 
 /** Serverda bor, lekin brauzerda yo'q postlarni qo'shadi (foydalanuvchi o'zi o'chirganlaridan tashqari) */
+/** Serverdagi post mahalliydan yangiroq (updated_at) bo'lsa — server versiyasini olamiz */
+function adoptNewerFromServer() {
+  const byId = new Map(state.server.posts.map((p) => [p.id, p]));
+  let n = 0;
+  state.posts = state.posts.map((p) => {
+    const s = byId.get(p.id);
+    if (!s) return p;
+    const st = parse(s.updated_at)?.getTime() || 0;
+    const lt = parse(p.updated_at)?.getTime() || 0;
+    if (st > lt) { n++; return clone(s); }
+    return p;
+  });
+  return n;
+}
+
 function addMissingFromServer() {
   const have = new Set(state.posts.map((p) => p.id));
   const del = deletedIds();
@@ -176,6 +191,7 @@ export function initPosts() {
     if (localNorm === lsGet(K_PRISTINE) || localNorm === norm(serverView())) {
       adoptServer();
     } else {
+      adoptNewerFromServer();
       syncStatuses();
       addMissingFromServer();
       applyPublished();

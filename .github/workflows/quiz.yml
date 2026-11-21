@@ -2,7 +2,8 @@ name: Kunlik quiz
 
 on:
   schedule:
-    - cron: '0 15 * * *'   # har kuni 20:00 (Asia/Tashkent)
+    # 20:07–22:37 (Toshkent) orasida bir necha urinish; kuniga faqat bitta quiz ketadi (quiz_log.json)
+    - cron: '7,37 15,16,17 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -26,7 +27,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: publish
+  group: quiz
   cancel-in-progress: false
 
 jobs:

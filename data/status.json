@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-21T08:51:49+05:00",
+  "last_run": "2026-11-21T08:55:22+05:00",
   "ok": true,
   "dry_run": false,
   "secrets_ok": true,
@@ -8,10 +8,10 @@
   "channel_ok": true,
   "channel_title": "Daily Chinese",
   "sent": [
-    "2026-11-27-pm-culture"
+    "hsk1-004"
   ],
   "failed": [],
   "expired": [],
   "message": "",
-  "last_sent_at": "2026-11-21T08:51:50+05:00"
+  "last_sent_at": "2026-11-21T08:55:23+05:00"
 }

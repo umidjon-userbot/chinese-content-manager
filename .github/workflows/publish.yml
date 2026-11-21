@@ -2,8 +2,10 @@ name: Publish to Telegram
 
 on:
   schedule:
-    - cron: '0 4,6,8,10,12,14 * * *'  # 09:00, 11:00, 13:00, 15:00, 17:00, 19:00 Toshkent (UTC+5)
-    - cron: '30 14 * * *'              # 19:30 zaxira (kechikkan postlar uchun)
+    # GitHub soat boshidagi cron'larni ko'pincha kechiktiradi yoki tashlab yuboradi.
+    # Shuning uchun 08:00–21:00 (Toshkent) oralig'ida har 15 daqiqada, "toq" daqiqalarda tekshiramiz:
+    # vaqti kelgan post bo'lmasa — hech narsa qilinmaydi va commit ham bo'lmaydi.
+    - cron: '7,22,37,52 3-16 * * *'
   workflow_dispatch:
     inputs:
       post_id:
@@ -50,6 +52,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           BRANCH="${GITHUB_REF_NAME}"
+          # Hech narsa yuborilmagan bo'lsa (faqat last_run o'zgargan) — commit/deploy qilmaymiz
+          ACT=$(python3 -c "import json;r=json.load(open('/tmp/result.json'));print(len(r.get('sent',[]))+len(r.get('failed',[]))+len(r.get('expired',[])))" 2>/dev/null || echo 1)
+          if [ "$ACT" = "0" ] && git diff --quiet -- data/posts.json data/published.json; then
+            echo "Yangi natija yo'q — commit qilinmaydi"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           for i in 1 2 3 4; do
             git add data/posts.json data/published.json data/status.json
             if git diff --cached --quiet; then

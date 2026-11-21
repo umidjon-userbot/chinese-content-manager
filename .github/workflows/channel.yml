@@ -1,0 +1,25 @@
+name: Kanal sozlamalari
+
+on:
+  workflow_dispatch:
+    inputs:
+      actions:
+        description: "Nima qilinsin: title,description,photo,welcome (vergul bilan)"
+        type: string
+        default: "title,description,photo,welcome"
+
+permissions:
+  contents: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kanalni sozlash
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          ACTIONS: ${{ inputs.actions }}
+        run: python3 scripts/channel_setup.py --actions "$ACTIONS"

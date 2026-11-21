@@ -1,17 +1,15 @@
 {
-  "last_run": "2026-11-21T00:21:12+05:00",
-  "ok": true,
+  "last_run": "2026-11-21T08:44:59+05:00",
+  "ok": false,
   "dry_run": false,
   "secrets_ok": true,
-  "bot_ok": true,
-  "bot_username": "alreadytookbot",
-  "channel_ok": true,
-  "channel_title": "Daily Chinese",
-  "sent": [
-    "hsk1-003"
-  ],
+  "bot_ok": null,
+  "bot_username": null,
+  "channel_ok": null,
+  "channel_title": null,
+  "sent": [],
   "failed": [],
   "expired": [],
-  "message": "",
+  "message": "hsk1-003 allaqachon yuborilgan",
   "last_sent_at": "2026-11-21T00:21:13+05:00"
 }

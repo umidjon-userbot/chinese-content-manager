@@ -1,4 +1,8 @@
-# 中文 AI Chinese Content Manager
+# 🐶 Daily Chinese with Doggy · AI Chinese Content Manager
+
+> © 2026 Narzullaev Umidjon. **Barcha huquqlar himoyalangan** — kod, matnlar, kartalar va "Doggy" personaji ruxsatsiz nusxalanmasin. Batafsil: [LICENSE](LICENSE).
+>
+> 📘 Kundalik foydalanish bo'yicha qo'llanma: **[QOLLANMA.md](QOLLANMA.md)** · Kanal: https://t.me/+WryvE8qgdH5kMTYy
 
 Telegram kanal uchun xitoy tili kontentini tayyorlash, rejalashtirish va **avtomatik nashr qilish** tizimi.
 Hammasi bepul: **GitHub Pages** (dashboard) + **GitHub Actions** (avtomatik yuborish) + **Telegram Bot API**.
@@ -104,7 +108,7 @@ Har bir post oxiriga kanal havolasi avtomatik qo'shiladi. Uni `data/config.json`
 ```json
 {
   "channel_link": "https://t.me/+WryvE8qgdH5kMTYy",
-  "footer_text": "Daily Chinese — kanalga obuna bo'ling"
+  "footer_text": "Daily Chinese with Doggy 🐶 — obuna bo'ling"
 }
 ```
 
@@ -139,9 +143,25 @@ Har bir post oxiriga kanal havolasi avtomatik qo'shiladi. Uni `data/config.json`
 | Push xatosi (403) | 8-qadam: Workflow permissions → Read and write |
 | Sayt eski ma'lumotni ko'rsatyapti | Sahifadagi ↻ tugmasi yoki Eksport → "Serverdan yangilash" |
 
+## Kanal sozlamalari
+
+Kanal nomi, tavsifi, rasmi va pin qilingan salomlashish posti `data/channel.json` da saqlanadi va
+**Actions → Kanal sozlamalari → Run workflow** orqali bot yordamida o'rnatiladi (`scripts/channel_setup.py`).
+Bot kanalda "Change channel info" va "Pin messages" huquqlariga ega bo'lishi kerak. Batafsil — [QOLLANMA.md](QOLLANMA.md#7-kanal-sozlamalari-nom-tavsif-rasm-salomlashish-posti).
+
+## Mualliflik huquqi
+
+Repo faqat GitHub Pages va Telegram bot ishlashi uchun ochiq. Bu foydalanishga ruxsat emas:
+barcha materiallar muallifning yozma ruxsatisiz nusxalanishi, tarqatilishi yoki tijoratda ishlatilishi mumkin emas.
+To'liq shartlar — [LICENSE](LICENSE). Bog'lanish: narzullayevumidjon976@gmail.com
+
 ## Mahalliy sinov
 
 ```bash
 python3 -m http.server 8000         # http://localhost:8000
 python3 scripts/publish.py --dry-run --result-out /tmp/r.json
 ```
+
+---
+
+© 2026 Narzullaev Umidjon (吴敏俊). Barcha huquqlar himoyalangan.

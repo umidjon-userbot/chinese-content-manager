@@ -1,5 +1,5 @@
 // Service worker: statik fayllar — stale-while-revalidate, data/*.json — network-first.
-const CACHE = 'ccm-v4';
+const CACHE = 'ccm-v5';
 const ASSETS = [
   './',
   'index.html',

@@ -69,6 +69,13 @@
       "type": "characters",
       "sent_at": "2026-11-21T10:35:44+05:00",
       "message_id": 15
+    },
+    {
+      "id": "hsk1-005",
+      "hanzi": "白天",
+      "type": "hsk",
+      "sent_at": "2026-11-21T10:36:21+05:00",
+      "message_id": 16
     }
   ]
 }

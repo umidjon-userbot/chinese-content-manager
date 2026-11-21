@@ -222,6 +222,7 @@ function renderDashboard(el) {
     <div class="card">
       <h3>Telegram holati</h3>
       ${tgStatusHTML()}
+      <p class="quiz-line"><a href="#quiz">🧠 ${quizStatusLine()}</a></p>
     </div>
   </div>
 
@@ -1021,6 +1022,110 @@ function renderSettings(el) {
   });
 }
 
+
+/* ---------- Quiz ---------- */
+
+const QUIZ_TIME = '20:00';
+const QUIZ_COUNT = 3;
+
+function quizLog() { return (state.server.quiz && state.server.quiz.days) || {}; }
+
+function quizWorkflowUrl() {
+  const s = state.settings;
+  return s.owner && s.repo
+    ? `https://github.com/${encodeURIComponent(s.owner)}/${encodeURIComponent(s.repo)}/actions/workflows/quiz.yml` : '';
+}
+
+/** scripts/quiz.py bilan bir xil tanlov: shu kuni chiqqan HSK so'zlari, yetmasa — oxirgi chiqqanlar */
+function quizCandidates(day) {
+  const byId = new Map([...state.server.posts, ...state.posts].map((p) => [p.id, p]));
+  const items = (state.server.published.items || [])
+    .filter((i) => byId.get(i.id)?.type === 'hsk')
+    .sort((a, b) => String(a.sent_at).localeCompare(String(b.sent_at)));
+  const todays = items.filter((i) => String(i.sent_at || '').slice(0, 10) === day).map((i) => byId.get(i.id));
+  if (todays.length < QUIZ_COUNT) {
+    for (const i of [...items].reverse()) {
+      const p = byId.get(i.id);
+      if (!todays.includes(p)) todays.push(p);
+      if (todays.length >= QUIZ_COUNT) break;
+    }
+  }
+  return { list: todays, fromToday: items.filter((i) => String(i.sent_at || '').slice(0, 10) === day).length };
+}
+
+function quizStatusLine() {
+  const today = U.todayKey();
+  const t = quizLog()[today];
+  return t ? `✅ Bugun ${U.esc(String(t.sent_at || '').slice(11, 16))} da yuborildi (${(t.questions || []).length} ta savol)`
+    : `⏳ Bugungi quiz: ${QUIZ_TIME} da (${QUIZ_COUNT} ta savol)`;
+}
+
+function wordChip(p) {
+  if (!p) return '';
+  return `<span class="qchip" data-open="${U.esc(p.id)}"><b>${U.esc(p.hanzi || p.id)}</b> <span class="muted">${U.esc(p.pinyin || '')}</span></span>`;
+}
+
+function renderQuiz(el) {
+  const today = U.todayKey();
+  const log = quizLog();
+  const sentToday = log[today];
+  const cand = quizCandidates(today);
+  const url = quizWorkflowUrl();
+  const byId = new Map([...state.server.posts, ...state.posts].map((p) => [p.id, p]));
+  const days = Object.keys(log).sort().reverse();
+  const totalQ = days.reduce((n, d) => n + ((log[d].questions || []).length), 0);
+
+  el.innerHTML = `
+  <div class="page-head"><div><h1>Quiz <span class="zh">测验</span></h1>
+    <p class="sub">Har kuni ${QUIZ_TIME} da kanalga ${QUIZ_COUNT} ta Telegram quiz · 汉字→tarjima, tarjima→汉字, pinyin (ohang), gapdagi bo'sh joy</p></div>
+    <div class="row">${url ? `<button class="btn primary" id="quizNow">⚡ Hozir yuborish</button>` : ''}</div></div>
+
+  <div class="stats">
+    <div class="stat"><span class="stat-label">Bugun</span><b>${sentToday ? '✅' : QUIZ_TIME}</b><small>${sentToday ? 'yuborildi' : 'navbatda'}</small></div>
+    <div class="stat"><span class="stat-label">Jami quiz kunlari</span><b>${days.length}</b></div>
+    <div class="stat"><span class="stat-label">Jami savollar</span><b>${totalQ}</b></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>${sentToday ? 'Bugungi quiz' : `Bugungi quiz — ${QUIZ_TIME}`}</h3>
+      ${sentToday
+        ? `<p class="muted">${U.fmtDT(sentToday.sent_at)} da yuborildi.</p>
+           <div class="qchips">${(sentToday.questions || []).map((q) => wordChip(byId.get(q.id))).join('')}</div>`
+        : (cand.list.length
+          ? `<p class="muted">Savollar shu so'zlardan tanlanadi${cand.fromToday ? ` (bugun chiqqan ${cand.fromToday} ta so'z)` : ' (bugun hali HSK so\'z chiqmagan — oxirgilaridan)'}:</p>
+             <div class="qchips">${cand.list.map(wordChip).join('')}</div>
+             <p class="muted small">Aniq ${QUIZ_COUNT} tasi va savol turlari yuborish paytida tanlanadi. Kun davomida yangi postlar chiqsa, ro'yxat o'zgaradi.</p>`
+          : '<div class="empty">Hali HSK so\'zlari chiqmagan — quiz yuborilmaydi.</div>')}
+    </div>
+    <div class="card">
+      <h3>Qo'lda yuborish</h3>
+      <ol class="steps">
+        <li>${url ? `<a href="${url}" target="_blank" rel="noopener">GitHub → Kunlik quiz</a>` : 'GitHub → Actions → Kunlik quiz'} sahifasini oching.</li>
+        <li><b>Run workflow</b> → kerak bo'lsa <i>Sana</i> (YYYY-MM-DD) va <i>Savollar soni</i>ni kiriting.</li>
+        <li><i>Sinov rejimi</i> — hech narsa yubormaydi, savollarni faqat logda ko'rsatadi.</li>
+        <li>Bir kunga quiz bir marta ketadi; qayta yuborish uchun <i>Bugun yuborilgan bo'lsa ham…</i> belgisini qo'ying.</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Tarix</h3>
+    ${days.length ? `<ul class="list">${days.map((d) => {
+      const it = log[d];
+      return `<li class="li quiz-li">
+        <span class="li-time">${U.esc(U.fmtDate(d))}</span>
+        <span class="qchips">${(it.questions || []).map((q) => wordChip(byId.get(q.id))).join('')}</span>
+        <span class="li-meta">${U.esc(String(it.sent_at || '').slice(11, 16))} · ${(it.questions || []).length} savol</span></li>`;
+    }).join('')}</ul>` : '<div class="empty">Hali quiz yuborilmagan.</div>'}
+  </div>`;
+
+  $$('[data-open]', el).forEach((n) => n.addEventListener('click', () => {
+    if (getPost(n.dataset.open)) go(`#editor/${encodeURIComponent(n.dataset.open)}`);
+  }));
+  $('#quizNow', el)?.addEventListener('click', () => window.open(url, '_blank', 'noopener'));
+}
+
 /* ---------- Router va ishga tushirish ---------- */
 
 const VIEWS = {
@@ -1031,6 +1136,7 @@ const VIEWS = {
   import: renderImport,
   export: renderExport,
   settings: renderSettings,
+  quiz: renderQuiz,
 };
 
 function route() {

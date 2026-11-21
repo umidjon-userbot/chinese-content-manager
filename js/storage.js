@@ -74,12 +74,14 @@ async function fetchJSON(path) {
 }
 
 export async function loadServer() {
-  const [posts, published, status, config] = await Promise.allSettled([
+  const [posts, published, status, config, quiz] = await Promise.allSettled([
     fetchJSON('data/posts.json'),
     fetchJSON('data/published.json'),
     fetchJSON('data/status.json'),
     fetchJSON('data/config.json'),
+    fetchJSON('data/quiz_log.json'),
   ]);
+  state.server.quiz = quiz.status === 'fulfilled' && quiz.value && quiz.value.days ? quiz.value : { days: {} };
   if (config.status === 'fulfilled' && config.value) { setConfig(config.value); applyConfigSlots(config.value); }
   const s = state.server;
   if (posts.status === 'fulfilled' && posts.value && Array.isArray(posts.value.posts)) {

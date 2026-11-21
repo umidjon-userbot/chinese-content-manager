@@ -992,6 +992,7 @@ function renderSettings(el) {
       <button class="btn danger ghost" id="wipe">🧹 Brauzerdagi ma'lumotlarni tozalash</button>
       <h3 class="mt">Ilova haqida</h3>
       <p class="muted">AI Chinese Content Manager · GitHub Pages + GitHub Actions + Telegram Bot API. Hammasi bepul.</p>
+      <p class="muted">© 2026 Narzullaev Umidjon (吴敏俊). Barcha huquqlar himoyalangan · <a href="https://github.com/umidjon-userbot/chinese-content-manager/blob/main/QOLLANMA.md" target="_blank" rel="noopener">📘 Qo'llanma</a></p>
     </div>
   </div>`;
 

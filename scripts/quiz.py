@@ -118,11 +118,11 @@ def make_question(word, pool, qtype, rng):
 
 def pick_words(posts, published, today, count):
     by_id = {p["id"]: p for p in posts}
-    items = [i for i in published if str(i.get("id", "")).startswith("hsk")]
+    items = [i for i in published if i.get("id") in by_id and by_id[i["id"]].get("type") == "hsk"]
     items.sort(key=lambda i: i.get("sent_at") or "")
     todays = [by_id[i["id"]] for i in items if (i.get("sent_at") or "")[:10] == today and i["id"] in by_id]
     if len(todays) < count:  # yetmasa — oxirgi chiqqanlardan to'ldiramiz
-        recent = [by_id[i["id"]] for i in reversed(items) if i["id"] in by_id and by_id[i["id"]] not in todays]
+        recent = [by_id[i["id"]] for i in reversed(items) if by_id[i["id"]] not in todays]
         todays += recent[: count - len(todays)]
     return todays
 
@@ -133,10 +133,13 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--count", type=int, default=3)
     ap.add_argument("--force", action="store_true", help="bugun yuborilgan bo'lsa ham qayta yuborish")
+    ap.add_argument("--date", default=os.environ.get("QUIZ_DATE", "").strip(), help="YYYY-MM-DD — boshqa kun so'zlaridan quiz")
     a = ap.parse_args()
 
     now = datetime.now(TZ)
-    today = now.strftime("%Y-%m-%d")
+    today = a.date or now.strftime("%Y-%m-%d")
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", today):
+        log(f"::error::Sana noto'g'ri: {today}"); sys.exit(1)
     qlog = load("quiz_log.json", {"days": {}})
     if today in qlog["days"] and not a.force and not a.dry_run:
         log(f"Bugungi quiz allaqachon yuborilgan ({today})"); return

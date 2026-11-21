@@ -22,7 +22,7 @@ STYLE = ("Cute cartoon white Shiba Inu puppy mascot with a curled fluffy tail, s
 
 def run(prompt, seed):
     url = f"https://api.cloudflare.com/client/v4/accounts/{ACC}/ai/run/{MODEL}"
-    body = json.dumps({"prompt": prompt, "steps": 4, "seed": seed}).encode()
+    body = json.dumps({"prompt": prompt, "steps": 4}).encode()
     req = urllib.request.Request(url, data=body, headers={"Authorization": f"Bearer {TOK}", "Content-Type": "application/json"})
     for attempt in range(4):
         try:

@@ -1,0 +1,7008 @@
+{
+ "source": "https://hsk1.org/hsk/4/vocabulary",
+ "level": 4,
+ "word_range": "1001-2000",
+ "total_words": 1000,
+ "vocabulary": [
+  {
+   "id": 1001,
+   "chinese": "啊",
+   "pinyin": "ā",
+   "part_of_speech": "interj.",
+   "english": "ah; oh"
+  },
+  {
+   "id": 1002,
+   "chinese": "爱情",
+   "pinyin": "àiqíng",
+   "part_of_speech": "n.",
+   "english": "love; romantic love"
+  },
+  {
+   "id": 1003,
+   "chinese": "爱心",
+   "pinyin": "àixīn",
+   "part_of_speech": "n.",
+   "english": "love; compassion; caring heart"
+  },
+  {
+   "id": 1004,
+   "chinese": "安检",
+   "pinyin": "ānjiǎn",
+   "part_of_speech": "v.",
+   "english": "to conduct a security check; security screening"
+  },
+  {
+   "id": 1005,
+   "chinese": "安排",
+   "pinyin": "ānpái",
+   "part_of_speech": "v.",
+   "english": "to arrange; plan"
+  },
+  {
+   "id": 1006,
+   "chinese": "按",
+   "pinyin": "àn",
+   "part_of_speech": "v. / prep.",
+   "english": "to press; according to"
+  },
+  {
+   "id": 1007,
+   "chinese": "按时",
+   "pinyin": "ànshí",
+   "part_of_speech": "adv.",
+   "english": "on time"
+  },
+  {
+   "id": 1008,
+   "chinese": "按照",
+   "pinyin": "ànzhào",
+   "part_of_speech": "prep.",
+   "english": "according to"
+  },
+  {
+   "id": 1009,
+   "chinese": "白酒",
+   "pinyin": "báijiǔ",
+   "part_of_speech": "n.",
+   "english": "Chinese white liquor; baijiu"
+  },
+  {
+   "id": 1010,
+   "chinese": "办公",
+   "pinyin": "bàngōng",
+   "part_of_speech": "v.",
+   "english": "to work in an office"
+  },
+  {
+   "id": 1011,
+   "chinese": "办理",
+   "pinyin": "bànlǐ",
+   "part_of_speech": "v.",
+   "english": "to handle; process"
+  },
+  {
+   "id": 1012,
+   "chinese": "办事",
+   "pinyin": "bànshì",
+   "part_of_speech": "v.",
+   "english": "to handle matters; get things done"
+  },
+  {
+   "id": 1013,
+   "chinese": "棒",
+   "pinyin": "bàng",
+   "part_of_speech": "adj.",
+   "english": "great; excellent"
+  },
+  {
+   "id": 1014,
+   "chinese": "保护",
+   "pinyin": "bǎohù",
+   "part_of_speech": "v.",
+   "english": "to protect"
+  },
+  {
+   "id": 1015,
+   "chinese": "保证",
+   "pinyin": "bǎozhèng",
+   "part_of_speech": "v. / n.",
+   "english": "to guarantee; guarantee"
+  },
+  {
+   "id": 1016,
+   "chinese": "抱",
+   "pinyin": "bào",
+   "part_of_speech": "v.",
+   "english": "to hug; hold"
+  },
+  {
+   "id": 1017,
+   "chinese": "报考",
+   "pinyin": "bàokǎo",
+   "part_of_speech": "v.",
+   "english": "to apply for an exam or school"
+  },
+  {
+   "id": 1018,
+   "chinese": "报名",
+   "pinyin": "bàomíng",
+   "part_of_speech": "v.",
+   "english": "to sign up; register"
+  },
+  {
+   "id": 1019,
+   "chinese": "抱歉",
+   "pinyin": "bàoqiàn",
+   "part_of_speech": "adj.",
+   "english": "sorry; apologetic"
+  },
+  {
+   "id": 1020,
+   "chinese": "背",
+   "pinyin": "bēi",
+   "part_of_speech": "v.",
+   "english": "to carry on the back"
+  },
+  {
+   "id": 1021,
+   "chinese": "背包",
+   "pinyin": "bēibāo",
+   "part_of_speech": "n.",
+   "english": "backpack"
+  },
+  {
+   "id": 1022,
+   "chinese": "北部",
+   "pinyin": "běibù",
+   "part_of_speech": "n.",
+   "english": "northern part"
+  },
+  {
+   "id": 1023,
+   "chinese": "倍",
+   "pinyin": "bèi",
+   "part_of_speech": "mw.",
+   "english": "times; fold"
+  },
+  {
+   "id": 1024,
+   "chinese": "本科",
+   "pinyin": "běnkē",
+   "part_of_speech": "n.",
+   "english": "undergraduate; bachelor's degree"
+  },
+  {
+   "id": 1025,
+   "chinese": "本来",
+   "pinyin": "běnlái",
+   "part_of_speech": "adj. / adv.",
+   "english": "originally; at first"
+  },
+  {
+   "id": 1026,
+   "chinese": "笨",
+   "pinyin": "bèn",
+   "part_of_speech": "adj.",
+   "english": "stupid; clumsy"
+  },
+  {
+   "id": 1027,
+   "chinese": "鼻子",
+   "pinyin": "bízi",
+   "part_of_speech": "n.",
+   "english": "nose"
+  },
+  {
+   "id": 1028,
+   "chinese": "笔试",
+   "pinyin": "bǐshì",
+   "part_of_speech": "v.",
+   "english": "to test in writing; written exam"
+  },
+  {
+   "id": 1029,
+   "chinese": "毕业",
+   "pinyin": "bìyè",
+   "part_of_speech": "v.",
+   "english": "to graduate"
+  },
+  {
+   "id": 1030,
+   "chinese": "毕业生",
+   "pinyin": "bìyèshēng",
+   "part_of_speech": "n.",
+   "english": "graduate"
+  },
+  {
+   "id": 1031,
+   "chinese": "便于",
+   "pinyin": "biànyú",
+   "part_of_speech": "v.",
+   "english": "to be convenient for"
+  },
+  {
+   "id": 1032,
+   "chinese": "标准",
+   "pinyin": "biāozhǔn",
+   "part_of_speech": "n. / adj.",
+   "english": "standard; criterion"
+  },
+  {
+   "id": 1033,
+   "chinese": "表",
+   "pinyin": "biǎo",
+   "part_of_speech": "n.",
+   "english": "form; table; watch"
+  },
+  {
+   "id": 1034,
+   "chinese": "表格",
+   "pinyin": "biǎogé",
+   "part_of_speech": "n.",
+   "english": "form; table"
+  },
+  {
+   "id": 1035,
+   "chinese": "表示",
+   "pinyin": "biǎoshì",
+   "part_of_speech": "v.",
+   "english": "to express; indicate"
+  },
+  {
+   "id": 1036,
+   "chinese": "表现",
+   "pinyin": "biǎoxiàn",
+   "part_of_speech": "v.",
+   "english": "to perform; show"
+  },
+  {
+   "id": 1037,
+   "chinese": "表扬",
+   "pinyin": "biǎoyáng",
+   "part_of_speech": "v.",
+   "english": "to praise"
+  },
+  {
+   "id": 1038,
+   "chinese": "饼干",
+   "pinyin": "bǐnggān",
+   "part_of_speech": "n.",
+   "english": "biscuit; cookie"
+  },
+  {
+   "id": 1039,
+   "chinese": "并",
+   "pinyin": "bìng",
+   "part_of_speech": "v. / adv. / conj.",
+   "english": "and; also; moreover"
+  },
+  {
+   "id": 1040,
+   "chinese": "并且",
+   "pinyin": "bìngqiě",
+   "part_of_speech": "conj.",
+   "english": "and; moreover"
+  },
+  {
+   "id": 1041,
+   "chinese": "播放",
+   "pinyin": "bōfàng",
+   "part_of_speech": "v.",
+   "english": "to play; broadcast"
+  },
+  {
+   "id": 1042,
+   "chinese": "博士",
+   "pinyin": "bóshì",
+   "part_of_speech": "n.",
+   "english": "PhD; doctorate holder"
+  },
+  {
+   "id": 1043,
+   "chinese": "不必",
+   "pinyin": "búbì",
+   "part_of_speech": "adv.",
+   "english": "need not"
+  },
+  {
+   "id": 1044,
+   "chinese": "不便",
+   "pinyin": "búbiàn",
+   "part_of_speech": "adj. / v.",
+   "english": "inconvenient; to be inconvenient"
+  },
+  {
+   "id": 1045,
+   "chinese": "不断",
+   "pinyin": "búduàn",
+   "part_of_speech": "v. / adv.",
+   "english": "to continue without stopping; continuously"
+  },
+  {
+   "id": 1046,
+   "chinese": "不够",
+   "pinyin": "búgòu",
+   "part_of_speech": "v. / adv.",
+   "english": "to be insufficient; not enough"
+  },
+  {
+   "id": 1047,
+   "chinese": "不过",
+   "pinyin": "búguò",
+   "part_of_speech": "conj.",
+   "english": "however; only"
+  },
+  {
+   "id": 1048,
+   "chinese": "不论",
+   "pinyin": "búlùn",
+   "part_of_speech": "conj.",
+   "english": "regardless of; no matter"
+  },
+  {
+   "id": 1049,
+   "chinese": "步",
+   "pinyin": "bù",
+   "part_of_speech": "n.",
+   "english": "step; pace"
+  },
+  {
+   "id": 1050,
+   "chinese": "部",
+   "pinyin": "bù",
+   "part_of_speech": "n. / mw.",
+   "english": "part; department; measure word for books/films"
+  },
+  {
+   "id": 1051,
+   "chinese": "不得不",
+   "pinyin": "bùdébù",
+   "part_of_speech": "adv.",
+   "english": "have to; cannot but"
+  },
+  {
+   "id": 1052,
+   "chinese": "部分",
+   "pinyin": "bùfen",
+   "part_of_speech": "n.",
+   "english": "part; section"
+  },
+  {
+   "id": 1053,
+   "chinese": "不管",
+   "pinyin": "bùguǎn",
+   "part_of_speech": "conj.",
+   "english": "regardless of; no matter"
+  },
+  {
+   "id": 1054,
+   "chinese": "不光",
+   "pinyin": "bùguāng",
+   "part_of_speech": "adv. / conj.",
+   "english": "not only"
+  },
+  {
+   "id": 1055,
+   "chinese": "不仅",
+   "pinyin": "bùjǐn",
+   "part_of_speech": "conj.",
+   "english": "not only"
+  },
+  {
+   "id": 1056,
+   "chinese": "不满",
+   "pinyin": "bùmǎn",
+   "part_of_speech": "adj.",
+   "english": "dissatisfied"
+  },
+  {
+   "id": 1057,
+   "chinese": "部门",
+   "pinyin": "bùmén",
+   "part_of_speech": "n.",
+   "english": "department"
+  },
+  {
+   "id": 1058,
+   "chinese": "不如",
+   "pinyin": "bùrú",
+   "part_of_speech": "v.",
+   "english": "to be inferior to; not as good as"
+  },
+  {
+   "id": 1059,
+   "chinese": "擦",
+   "pinyin": "cā",
+   "part_of_speech": "v.",
+   "english": "to wipe; rub"
+  },
+  {
+   "id": 1060,
+   "chinese": "猜",
+   "pinyin": "cāi",
+   "part_of_speech": "v.",
+   "english": "to guess"
+  },
+  {
+   "id": 1061,
+   "chinese": "材料",
+   "pinyin": "cáiliào",
+   "part_of_speech": "n.",
+   "english": "material; data"
+  },
+  {
+   "id": 1062,
+   "chinese": "参观",
+   "pinyin": "cānguān",
+   "part_of_speech": "v.",
+   "english": "to visit; tour"
+  },
+  {
+   "id": 1063,
+   "chinese": "参赛",
+   "pinyin": "cānsài",
+   "part_of_speech": "v.",
+   "english": "to participate in a competition"
+  },
+  {
+   "id": 1064,
+   "chinese": "餐厅",
+   "pinyin": "cāntīng",
+   "part_of_speech": "n.",
+   "english": "restaurant; dining hall"
+  },
+  {
+   "id": 1065,
+   "chinese": "操场",
+   "pinyin": "cāochǎng",
+   "part_of_speech": "n.",
+   "english": "playground; sports field"
+  },
+  {
+   "id": 1066,
+   "chinese": "厕所",
+   "pinyin": "cèsuǒ",
+   "part_of_speech": "n.",
+   "english": "toilet; restroom"
+  },
+  {
+   "id": 1067,
+   "chinese": "查看",
+   "pinyin": "chákàn",
+   "part_of_speech": "v.",
+   "english": "to view; check"
+  },
+  {
+   "id": 1068,
+   "chinese": "茶叶",
+   "pinyin": "cháyè",
+   "part_of_speech": "n.",
+   "english": "tea leaves"
+  },
+  {
+   "id": 1069,
+   "chinese": "查找",
+   "pinyin": "cházhǎo",
+   "part_of_speech": "v.",
+   "english": "to search for; look up"
+  },
+  {
+   "id": 1070,
+   "chinese": "差点儿",
+   "pinyin": "chàdiǎnr",
+   "part_of_speech": "adj. / adv.",
+   "english": "almost; nearly"
+  },
+  {
+   "id": 1071,
+   "chinese": "产生",
+   "pinyin": "chǎnshēng",
+   "part_of_speech": "v.",
+   "english": "to produce; arise"
+  },
+  {
+   "id": 1072,
+   "chinese": "厂",
+   "pinyin": "chǎng",
+   "part_of_speech": "n.",
+   "english": "factory; plant"
+  },
+  {
+   "id": 1073,
+   "chinese": "场",
+   "pinyin": "chǎng",
+   "part_of_speech": "mw.",
+   "english": "measure word for events"
+  },
+  {
+   "id": 1074,
+   "chinese": "超过",
+   "pinyin": "chāoguò",
+   "part_of_speech": "v.",
+   "english": "to exceed; surpass"
+  },
+  {
+   "id": 1075,
+   "chinese": "车速",
+   "pinyin": "chēsù",
+   "part_of_speech": "n.",
+   "english": "vehicle speed"
+  },
+  {
+   "id": 1076,
+   "chinese": "车位",
+   "pinyin": "chēwèi",
+   "part_of_speech": "n.",
+   "english": "parking space"
+  },
+  {
+   "id": 1077,
+   "chinese": "城",
+   "pinyin": "chéng",
+   "part_of_speech": "n.",
+   "english": "city; town"
+  },
+  {
+   "id": 1078,
+   "chinese": "乘",
+   "pinyin": "chéng",
+   "part_of_speech": "v.",
+   "english": "to ride; take transport"
+  },
+  {
+   "id": 1079,
+   "chinese": "成功",
+   "pinyin": "chénggōng",
+   "part_of_speech": "v. / adj.",
+   "english": "to succeed; successful"
+  },
+  {
+   "id": 1080,
+   "chinese": "乘客",
+   "pinyin": "chéngkè",
+   "part_of_speech": "n.",
+   "english": "passenger"
+  },
+  {
+   "id": 1081,
+   "chinese": "诚实",
+   "pinyin": "chéngshí",
+   "part_of_speech": "adj.",
+   "english": "honest"
+  },
+  {
+   "id": 1082,
+   "chinese": "成为",
+   "pinyin": "chéngwéi",
+   "part_of_speech": "v.",
+   "english": "to become"
+  },
+  {
+   "id": 1083,
+   "chinese": "乘坐",
+   "pinyin": "chéngzuò",
+   "part_of_speech": "v.",
+   "english": "to ride; take transport"
+  },
+  {
+   "id": 1084,
+   "chinese": "吃惊",
+   "pinyin": "chījīng",
+   "part_of_speech": "v.",
+   "english": "to be surprised"
+  },
+  {
+   "id": 1085,
+   "chinese": "迟",
+   "pinyin": "chí",
+   "part_of_speech": "adj.",
+   "english": "late; delayed"
+  },
+  {
+   "id": 1086,
+   "chinese": "重",
+   "pinyin": "chóng",
+   "part_of_speech": "adv.",
+   "english": "again; once more"
+  },
+  {
+   "id": 1087,
+   "chinese": "重新",
+   "pinyin": "chóngxīn",
+   "part_of_speech": "adv.",
+   "english": "again; anew"
+  },
+  {
+   "id": 1088,
+   "chinese": "出差",
+   "pinyin": "chūchāi",
+   "part_of_speech": "v.",
+   "english": "to go on a business trip"
+  },
+  {
+   "id": 1089,
+   "chinese": "出口",
+   "pinyin": "chūkǒu",
+   "part_of_speech": "n.",
+   "english": "exit; export"
+  },
+  {
+   "id": 1090,
+   "chinese": "出现",
+   "pinyin": "chūxiàn",
+   "part_of_speech": "v.",
+   "english": "to appear; emerge"
+  },
+  {
+   "id": 1091,
+   "chinese": "出行",
+   "pinyin": "chūxíng",
+   "part_of_speech": "v.",
+   "english": "to travel; go out"
+  },
+  {
+   "id": 1092,
+   "chinese": "出租",
+   "pinyin": "chūzū",
+   "part_of_speech": "v.",
+   "english": "to rent out"
+  },
+  {
+   "id": 1093,
+   "chinese": "厨房",
+   "pinyin": "chúfáng",
+   "part_of_speech": "n.",
+   "english": "kitchen"
+  },
+  {
+   "id": 1094,
+   "chinese": "厨师",
+   "pinyin": "chúshī",
+   "part_of_speech": "n.",
+   "english": "cook; chef"
+  },
+  {
+   "id": 1095,
+   "chinese": "窗",
+   "pinyin": "chuāng",
+   "part_of_speech": "n.",
+   "english": "window"
+  },
+  {
+   "id": 1096,
+   "chinese": "窗户",
+   "pinyin": "chuānghu",
+   "part_of_speech": "n.",
+   "english": "window"
+  },
+  {
+   "id": 1097,
+   "chinese": "吹",
+   "pinyin": "chuī",
+   "part_of_speech": "v.",
+   "english": "to blow"
+  },
+  {
+   "id": 1098,
+   "chinese": "词语",
+   "pinyin": "cíyǔ",
+   "part_of_speech": "n.",
+   "english": "word; expression"
+  },
+  {
+   "id": 1099,
+   "chinese": "此",
+   "pinyin": "cǐ",
+   "part_of_speech": "pron.",
+   "english": "this"
+  },
+  {
+   "id": 1100,
+   "chinese": "此次",
+   "pinyin": "cǐ cì",
+   "part_of_speech": "phr.",
+   "english": "this time"
+  },
+  {
+   "id": 1101,
+   "chinese": "此外",
+   "pinyin": "cǐwài",
+   "part_of_speech": "conj.",
+   "english": "in addition; besides"
+  },
+  {
+   "id": 1102,
+   "chinese": "从此",
+   "pinyin": "cóngcǐ",
+   "part_of_speech": "adv.",
+   "english": "from then on"
+  },
+  {
+   "id": 1103,
+   "chinese": "从来",
+   "pinyin": "cónglái",
+   "part_of_speech": "adv.",
+   "english": "always; ever"
+  },
+  {
+   "id": 1104,
+   "chinese": "从中",
+   "pinyin": "cóngzhōng",
+   "part_of_speech": "adv.",
+   "english": "from among; from within"
+  },
+  {
+   "id": 1105,
+   "chinese": "粗",
+   "pinyin": "cū",
+   "part_of_speech": "adj.",
+   "english": "thick; coarse"
+  },
+  {
+   "id": 1106,
+   "chinese": "粗心",
+   "pinyin": "cūxīn",
+   "part_of_speech": "adj.",
+   "english": "careless"
+  },
+  {
+   "id": 1107,
+   "chinese": "村",
+   "pinyin": "cūn",
+   "part_of_speech": "n.",
+   "english": "village"
+  },
+  {
+   "id": 1108,
+   "chinese": "存",
+   "pinyin": "cún",
+   "part_of_speech": "v.",
+   "english": "to store; save"
+  },
+  {
+   "id": 1109,
+   "chinese": "错过",
+   "pinyin": "cuòguò",
+   "part_of_speech": "v.",
+   "english": "to miss; let slip"
+  },
+  {
+   "id": 1110,
+   "chinese": "错误",
+   "pinyin": "cuòwù",
+   "part_of_speech": "adj. / n.",
+   "english": "wrong; error"
+  },
+  {
+   "id": 1111,
+   "chinese": "答应",
+   "pinyin": "dāying",
+   "part_of_speech": "v.",
+   "english": "to agree; promise"
+  },
+  {
+   "id": 1112,
+   "chinese": "答",
+   "pinyin": "dá",
+   "part_of_speech": "v.",
+   "english": "to answer"
+  },
+  {
+   "id": 1113,
+   "chinese": "答案",
+   "pinyin": "dá'àn",
+   "part_of_speech": "n.",
+   "english": "answer; solution"
+  },
+  {
+   "id": 1114,
+   "chinese": "达到",
+   "pinyin": "dádào",
+   "part_of_speech": "v.",
+   "english": "to reach; attain"
+  },
+  {
+   "id": 1115,
+   "chinese": "打招呼",
+   "pinyin": "dǎ zhāohu",
+   "part_of_speech": "phr.",
+   "english": "to greet; say hello"
+  },
+  {
+   "id": 1116,
+   "chinese": "打败",
+   "pinyin": "dǎbài",
+   "part_of_speech": "v.",
+   "english": "to defeat"
+  },
+  {
+   "id": 1117,
+   "chinese": "打工",
+   "pinyin": "dǎgōng",
+   "part_of_speech": "v.",
+   "english": "to work a temporary job"
+  },
+  {
+   "id": 1118,
+   "chinese": "打扰",
+   "pinyin": "dǎrǎo",
+   "part_of_speech": "v.",
+   "english": "to disturb; bother"
+  },
+  {
+   "id": 1119,
+   "chinese": "打印",
+   "pinyin": "dǎyìn",
+   "part_of_speech": "v.",
+   "english": "to print"
+  },
+  {
+   "id": 1120,
+   "chinese": "打印机",
+   "pinyin": "dǎyìnjī",
+   "part_of_speech": "n.",
+   "english": "printer"
+  },
+  {
+   "id": 1121,
+   "chinese": "打折",
+   "pinyin": "dǎzhé",
+   "part_of_speech": "v.",
+   "english": "to discount; on sale"
+  },
+  {
+   "id": 1122,
+   "chinese": "打针",
+   "pinyin": "dǎzhēn",
+   "part_of_speech": "v.",
+   "english": "to get an injection"
+  },
+  {
+   "id": 1123,
+   "chinese": "大巴",
+   "pinyin": "dàbā",
+   "part_of_speech": "n.",
+   "english": "coach; bus"
+  },
+  {
+   "id": 1124,
+   "chinese": "大大",
+   "pinyin": "dàdà",
+   "part_of_speech": "adv.",
+   "english": "greatly; very much"
+  },
+  {
+   "id": 1125,
+   "chinese": "大夫",
+   "pinyin": "dàifu",
+   "part_of_speech": "n.",
+   "english": "doctor"
+  },
+  {
+   "id": 1126,
+   "chinese": "大量",
+   "pinyin": "dàliàng",
+   "part_of_speech": "adj.",
+   "english": "large amount; many"
+  },
+  {
+   "id": 1127,
+   "chinese": "大赛",
+   "pinyin": "dàsài",
+   "part_of_speech": "n.",
+   "english": "major competition"
+  },
+  {
+   "id": 1128,
+   "chinese": "大厅",
+   "pinyin": "dàtīng",
+   "part_of_speech": "n.",
+   "english": "lobby; hall"
+  },
+  {
+   "id": 1129,
+   "chinese": "大约",
+   "pinyin": "dàyuē",
+   "part_of_speech": "adv.",
+   "english": "approximately"
+  },
+  {
+   "id": 1130,
+   "chinese": "大自然",
+   "pinyin": "dàzìrán",
+   "part_of_speech": "n.",
+   "english": "nature"
+  },
+  {
+   "id": 1131,
+   "chinese": "待",
+   "pinyin": "dāi",
+   "part_of_speech": "v.",
+   "english": "to stay; remain"
+  },
+  {
+   "id": 1132,
+   "chinese": "戴",
+   "pinyin": "dài",
+   "part_of_speech": "v.",
+   "english": "to wear; put on"
+  },
+  {
+   "id": 1133,
+   "chinese": "袋子",
+   "pinyin": "dàizi",
+   "part_of_speech": "n.",
+   "english": "bag; sack"
+  },
+  {
+   "id": 1134,
+   "chinese": "单位",
+   "pinyin": "dānwèi",
+   "part_of_speech": "n.",
+   "english": "unit; organization"
+  },
+  {
+   "id": 1135,
+   "chinese": "当",
+   "pinyin": "dāng",
+   "part_of_speech": "v. / prep.",
+   "english": "to serve as; when"
+  },
+  {
+   "id": 1136,
+   "chinese": "当时",
+   "pinyin": "dāngshí",
+   "part_of_speech": "n.",
+   "english": "at that time"
+  },
+  {
+   "id": 1137,
+   "chinese": "刀",
+   "pinyin": "dāo",
+   "part_of_speech": "n.",
+   "english": "knife"
+  },
+  {
+   "id": 1138,
+   "chinese": "导游",
+   "pinyin": "dǎoyóu",
+   "part_of_speech": "v. / n.",
+   "english": "to guide; tour guide"
+  },
+  {
+   "id": 1139,
+   "chinese": "倒",
+   "pinyin": "dào",
+   "part_of_speech": "v.",
+   "english": "to pour; invert"
+  },
+  {
+   "id": 1140,
+   "chinese": "道",
+   "pinyin": "dào",
+   "part_of_speech": "n. / mw.",
+   "english": "way; measure word for courses/dishes"
+  },
+  {
+   "id": 1141,
+   "chinese": "到底",
+   "pinyin": "dàodǐ",
+   "part_of_speech": "adv.",
+   "english": "after all; exactly"
+  },
+  {
+   "id": 1142,
+   "chinese": "到来",
+   "pinyin": "dàolái",
+   "part_of_speech": "v.",
+   "english": "to arrive; come"
+  },
+  {
+   "id": 1143,
+   "chinese": "道路",
+   "pinyin": "dàolù",
+   "part_of_speech": "n.",
+   "english": "road; route"
+  },
+  {
+   "id": 1144,
+   "chinese": "道歉",
+   "pinyin": "dàoqiàn",
+   "part_of_speech": "v.",
+   "english": "to apologize"
+  },
+  {
+   "id": 1145,
+   "chinese": "得意",
+   "pinyin": "déyì",
+   "part_of_speech": "adj.",
+   "english": "proud of oneself; pleased"
+  },
+  {
+   "id": 1146,
+   "chinese": "登机",
+   "pinyin": "dēngjī",
+   "part_of_speech": "v.",
+   "english": "to board a plane"
+  },
+  {
+   "id": 1147,
+   "chinese": "等",
+   "pinyin": "děng",
+   "part_of_speech": "part.",
+   "english": "and so on"
+  },
+  {
+   "id": 1148,
+   "chinese": "等到",
+   "pinyin": "děngdào",
+   "part_of_speech": "prep.",
+   "english": "to wait until"
+  },
+  {
+   "id": 1149,
+   "chinese": "低",
+   "pinyin": "dī",
+   "part_of_speech": "adj. / v.",
+   "english": "low; to lower"
+  },
+  {
+   "id": 1150,
+   "chinese": "低价",
+   "pinyin": "dījià",
+   "part_of_speech": "n.",
+   "english": "low price"
+  },
+  {
+   "id": 1151,
+   "chinese": "低温",
+   "pinyin": "dīwēn",
+   "part_of_speech": "n.",
+   "english": "low temperature"
+  },
+  {
+   "id": 1152,
+   "chinese": "低于",
+   "pinyin": "dīyú",
+   "part_of_speech": "v.",
+   "english": "to be lower than"
+  },
+  {
+   "id": 1153,
+   "chinese": "底",
+   "pinyin": "dǐ",
+   "part_of_speech": "n.",
+   "english": "bottom; base"
+  },
+  {
+   "id": 1154,
+   "chinese": "底下",
+   "pinyin": "dǐxia",
+   "part_of_speech": "n.",
+   "english": "under; beneath"
+  },
+  {
+   "id": 1155,
+   "chinese": "地球",
+   "pinyin": "dìqiú",
+   "part_of_speech": "n.",
+   "english": "Earth; globe"
+  },
+  {
+   "id": 1156,
+   "chinese": "地址",
+   "pinyin": "dìzhǐ",
+   "part_of_speech": "n.",
+   "english": "address"
+  },
+  {
+   "id": 1157,
+   "chinese": "点名",
+   "pinyin": "diǎnmíng",
+   "part_of_speech": "v.",
+   "english": "to call the roll"
+  },
+  {
+   "id": 1158,
+   "chinese": "点头",
+   "pinyin": "diǎntóu",
+   "part_of_speech": "v.",
+   "english": "to nod"
+  },
+  {
+   "id": 1159,
+   "chinese": "电动车",
+   "pinyin": "diàndòngchē",
+   "part_of_speech": "n.",
+   "english": "electric vehicle; e-bike"
+  },
+  {
+   "id": 1160,
+   "chinese": "电视剧",
+   "pinyin": "diànshìjù",
+   "part_of_speech": "n.",
+   "english": "TV drama; television series"
+  },
+  {
+   "id": 1161,
+   "chinese": "掉",
+   "pinyin": "diào",
+   "part_of_speech": "v.",
+   "english": "to fall; drop; lose"
+  },
+  {
+   "id": 1162,
+   "chinese": "调查",
+   "pinyin": "diàochá",
+   "part_of_speech": "v.",
+   "english": "to investigate; survey"
+  },
+  {
+   "id": 1163,
+   "chinese": "订",
+   "pinyin": "dìng",
+   "part_of_speech": "v.",
+   "english": "to book; order"
+  },
+  {
+   "id": 1164,
+   "chinese": "定",
+   "pinyin": "dìng",
+   "part_of_speech": "v.",
+   "english": "to set; determine"
+  },
+  {
+   "id": 1165,
+   "chinese": "东部",
+   "pinyin": "dōngbù",
+   "part_of_speech": "n.",
+   "english": "eastern part"
+  },
+  {
+   "id": 1166,
+   "chinese": "动车",
+   "pinyin": "dòngchē",
+   "part_of_speech": "n.",
+   "english": "high-speed train; EMU train"
+  },
+  {
+   "id": 1167,
+   "chinese": "动作",
+   "pinyin": "dòngzuò",
+   "part_of_speech": "n.",
+   "english": "action; movement"
+  },
+  {
+   "id": 1168,
+   "chinese": "读者",
+   "pinyin": "dúzhě",
+   "part_of_speech": "n.",
+   "english": "reader"
+  },
+  {
+   "id": 1169,
+   "chinese": "堵车",
+   "pinyin": "dǔchē",
+   "part_of_speech": "v.",
+   "english": "to be stuck in traffic; traffic jam"
+  },
+  {
+   "id": 1170,
+   "chinese": "度假",
+   "pinyin": "dùjià",
+   "part_of_speech": "v.",
+   "english": "to vacation"
+  },
+  {
+   "id": 1171,
+   "chinese": "肚子",
+   "pinyin": "dùzi",
+   "part_of_speech": "n.",
+   "english": "belly; stomach"
+  },
+  {
+   "id": 1172,
+   "chinese": "短信",
+   "pinyin": "duǎnxìn",
+   "part_of_speech": "n.",
+   "english": "text message; SMS"
+  },
+  {
+   "id": 1173,
+   "chinese": "队",
+   "pinyin": "duì",
+   "part_of_speech": "n.",
+   "english": "team; group"
+  },
+  {
+   "id": 1174,
+   "chinese": "对方",
+   "pinyin": "duìfāng",
+   "part_of_speech": "n.",
+   "english": "the other party; other side"
+  },
+  {
+   "id": 1175,
+   "chinese": "对面",
+   "pinyin": "duìmiàn",
+   "part_of_speech": "n.",
+   "english": "opposite; across from"
+  },
+  {
+   "id": 1176,
+   "chinese": "对于",
+   "pinyin": "duìyú",
+   "part_of_speech": "prep.",
+   "english": "regarding; as for"
+  },
+  {
+   "id": 1177,
+   "chinese": "队员",
+   "pinyin": "duìyuán",
+   "part_of_speech": "n.",
+   "english": "team member"
+  },
+  {
+   "id": 1178,
+   "chinese": "队长",
+   "pinyin": "duìzhǎng",
+   "part_of_speech": "n.",
+   "english": "team leader; captain"
+  },
+  {
+   "id": 1179,
+   "chinese": "顿",
+   "pinyin": "dùn",
+   "part_of_speech": "mw.",
+   "english": "meal; measure word for meals"
+  },
+  {
+   "id": 1180,
+   "chinese": "多么",
+   "pinyin": "duōme",
+   "part_of_speech": "adv.",
+   "english": "how; so"
+  },
+  {
+   "id": 1181,
+   "chinese": "多数",
+   "pinyin": "duōshù",
+   "part_of_speech": "n.",
+   "english": "majority; most"
+  },
+  {
+   "id": 1182,
+   "chinese": "多样",
+   "pinyin": "duōyàng",
+   "part_of_speech": "adj.",
+   "english": "diverse; varied"
+  },
+  {
+   "id": 1183,
+   "chinese": "而",
+   "pinyin": "ér",
+   "part_of_speech": "conj.",
+   "english": "and; while; but"
+  },
+  {
+   "id": 1184,
+   "chinese": "儿童",
+   "pinyin": "értóng",
+   "part_of_speech": "n.",
+   "english": "child; children"
+  },
+  {
+   "id": 1185,
+   "chinese": "发出",
+   "pinyin": "fāchū",
+   "part_of_speech": "v.",
+   "english": "to send out; issue"
+  },
+  {
+   "id": 1186,
+   "chinese": "发送",
+   "pinyin": "fāsòng",
+   "part_of_speech": "v.",
+   "english": "to send; transmit"
+  },
+  {
+   "id": 1187,
+   "chinese": "法",
+   "pinyin": "fǎ",
+   "part_of_speech": "n.",
+   "english": "law; method"
+  },
+  {
+   "id": 1188,
+   "chinese": "法律",
+   "pinyin": "fǎlǜ",
+   "part_of_speech": "n.",
+   "english": "law"
+  },
+  {
+   "id": 1189,
+   "chinese": "翻译",
+   "pinyin": "fānyì",
+   "part_of_speech": "v. / n.",
+   "english": "to translate; translation"
+  },
+  {
+   "id": 1190,
+   "chinese": "烦",
+   "pinyin": "fán",
+   "part_of_speech": "adj. / v.",
+   "english": "annoyed; troublesome; to be annoyed"
+  },
+  {
+   "id": 1191,
+   "chinese": "烦恼",
+   "pinyin": "fánnǎo",
+   "part_of_speech": "adj.",
+   "english": "worried; troubled"
+  },
+  {
+   "id": 1192,
+   "chinese": "反对",
+   "pinyin": "fǎnduì",
+   "part_of_speech": "v.",
+   "english": "to oppose"
+  },
+  {
+   "id": 1193,
+   "chinese": "方面",
+   "pinyin": "fāngmiàn",
+   "part_of_speech": "n.",
+   "english": "aspect; side"
+  },
+  {
+   "id": 1194,
+   "chinese": "方式",
+   "pinyin": "fāngshì",
+   "part_of_speech": "n.",
+   "english": "way; method"
+  },
+  {
+   "id": 1195,
+   "chinese": "房东",
+   "pinyin": "fángdōng",
+   "part_of_speech": "n.",
+   "english": "landlord"
+  },
+  {
+   "id": 1196,
+   "chinese": "房租",
+   "pinyin": "fángzū",
+   "part_of_speech": "n.",
+   "english": "rent; house rent"
+  },
+  {
+   "id": 1197,
+   "chinese": "放弃",
+   "pinyin": "fàngqì",
+   "part_of_speech": "v.",
+   "english": "to give up"
+  },
+  {
+   "id": 1198,
+   "chinese": "放松",
+   "pinyin": "fàngsōng",
+   "part_of_speech": "v.",
+   "english": "to relax"
+  },
+  {
+   "id": 1199,
+   "chinese": "费",
+   "pinyin": "fèi",
+   "part_of_speech": "n. / v.",
+   "english": "fee; to cost"
+  },
+  {
+   "id": 1200,
+   "chinese": "费用",
+   "pinyin": "fèiyòng",
+   "part_of_speech": "n.",
+   "english": "fee; expense"
+  },
+  {
+   "id": 1201,
+   "chinese": "分数",
+   "pinyin": "fēnshù",
+   "part_of_speech": "n.",
+   "english": "score; grade"
+  },
+  {
+   "id": 1202,
+   "chinese": "分为",
+   "pinyin": "fēnwéi",
+   "part_of_speech": "v.",
+   "english": "to divide into"
+  },
+  {
+   "id": 1203,
+   "chinese": "份",
+   "pinyin": "fèn",
+   "part_of_speech": "mw.",
+   "english": "share; portion; copy"
+  },
+  {
+   "id": 1204,
+   "chinese": "丰富",
+   "pinyin": "fēngfù",
+   "part_of_speech": "adj.",
+   "english": "rich; abundant"
+  },
+  {
+   "id": 1205,
+   "chinese": "风景",
+   "pinyin": "fēngjǐng",
+   "part_of_speech": "n.",
+   "english": "scenery; landscape"
+  },
+  {
+   "id": 1206,
+   "chinese": "否则",
+   "pinyin": "fǒuzé",
+   "part_of_speech": "conj.",
+   "english": "otherwise"
+  },
+  {
+   "id": 1207,
+   "chinese": "幅",
+   "pinyin": "fú",
+   "part_of_speech": "mw.",
+   "english": "measure word for pictures"
+  },
+  {
+   "id": 1208,
+   "chinese": "符合",
+   "pinyin": "fúhé",
+   "part_of_speech": "v.",
+   "english": "to conform to; meet"
+  },
+  {
+   "id": 1209,
+   "chinese": "付",
+   "pinyin": "fù",
+   "part_of_speech": "v.",
+   "english": "to pay"
+  },
+  {
+   "id": 1210,
+   "chinese": "父母",
+   "pinyin": "fùmǔ",
+   "part_of_speech": "n.",
+   "english": "parents"
+  },
+  {
+   "id": 1211,
+   "chinese": "父女",
+   "pinyin": "fùnǚ",
+   "part_of_speech": "n.",
+   "english": "father and daughter"
+  },
+  {
+   "id": 1212,
+   "chinese": "父亲",
+   "pinyin": "fùqīn",
+   "part_of_speech": "n.",
+   "english": "father"
+  },
+  {
+   "id": 1213,
+   "chinese": "复印",
+   "pinyin": "fùyìn",
+   "part_of_speech": "v.",
+   "english": "to photocopy"
+  },
+  {
+   "id": 1214,
+   "chinese": "复杂",
+   "pinyin": "fùzá",
+   "part_of_speech": "adj.",
+   "english": "complex; complicated"
+  },
+  {
+   "id": 1215,
+   "chinese": "负责",
+   "pinyin": "fùzé",
+   "part_of_speech": "v. / adj.",
+   "english": "to be responsible for; responsible"
+  },
+  {
+   "id": 1216,
+   "chinese": "负责人",
+   "pinyin": "fùzérén",
+   "part_of_speech": "n.",
+   "english": "person in charge"
+  },
+  {
+   "id": 1217,
+   "chinese": "父子",
+   "pinyin": "fùzǐ",
+   "part_of_speech": "n.",
+   "english": "father and son"
+  },
+  {
+   "id": 1218,
+   "chinese": "改",
+   "pinyin": "gǎi",
+   "part_of_speech": "v.",
+   "english": "to change; correct"
+  },
+  {
+   "id": 1219,
+   "chinese": "改变",
+   "pinyin": "gǎibiàn",
+   "part_of_speech": "v.",
+   "english": "to change; alter"
+  },
+  {
+   "id": 1220,
+   "chinese": "干",
+   "pinyin": "gān",
+   "part_of_speech": "adj.",
+   "english": "dry"
+  },
+  {
+   "id": 1221,
+   "chinese": "干杯",
+   "pinyin": "gānbēi",
+   "part_of_speech": "v.",
+   "english": "to toast; cheers"
+  },
+  {
+   "id": 1222,
+   "chinese": "赶",
+   "pinyin": "gǎn",
+   "part_of_speech": "v.",
+   "english": "to hurry; catch up"
+  },
+  {
+   "id": 1223,
+   "chinese": "敢",
+   "pinyin": "gǎn",
+   "part_of_speech": "v.",
+   "english": "to dare"
+  },
+  {
+   "id": 1224,
+   "chinese": "感",
+   "pinyin": "gǎn",
+   "part_of_speech": "suffix",
+   "english": "-feeling; sense suffix"
+  },
+  {
+   "id": 1225,
+   "chinese": "感动",
+   "pinyin": "gǎndòng",
+   "part_of_speech": "adj. / v.",
+   "english": "moved; touched; to move emotionally"
+  },
+  {
+   "id": 1226,
+   "chinese": "赶紧",
+   "pinyin": "gǎnjǐn",
+   "part_of_speech": "adv.",
+   "english": "hurry up; promptly"
+  },
+  {
+   "id": 1227,
+   "chinese": "感觉",
+   "pinyin": "gǎnjué",
+   "part_of_speech": "n. / v.",
+   "english": "feeling; to feel"
+  },
+  {
+   "id": 1228,
+   "chinese": "赶快",
+   "pinyin": "gǎnkuài",
+   "part_of_speech": "adv.",
+   "english": "hurry up; quickly"
+  },
+  {
+   "id": 1229,
+   "chinese": "感情",
+   "pinyin": "gǎnqíng",
+   "part_of_speech": "n.",
+   "english": "feeling; affection"
+  },
+  {
+   "id": 1230,
+   "chinese": "感人",
+   "pinyin": "gǎnrén",
+   "part_of_speech": "adj.",
+   "english": "moving; touching"
+  },
+  {
+   "id": 1231,
+   "chinese": "赶上",
+   "pinyin": "gǎnshàng",
+   "part_of_speech": "v.",
+   "english": "to catch up with"
+  },
+  {
+   "id": 1232,
+   "chinese": "感受",
+   "pinyin": "gǎnshòu",
+   "part_of_speech": "v. / n.",
+   "english": "to feel; feeling; experience"
+  },
+  {
+   "id": 1233,
+   "chinese": "感谢",
+   "pinyin": "gǎnxiè",
+   "part_of_speech": "v.",
+   "english": "to thank; appreciate"
+  },
+  {
+   "id": 1234,
+   "chinese": "干活儿",
+   "pinyin": "gànhuór",
+   "part_of_speech": "v.",
+   "english": "to work; do manual work"
+  },
+  {
+   "id": 1235,
+   "chinese": "钢琴",
+   "pinyin": "gāngqín",
+   "part_of_speech": "n.",
+   "english": "piano"
+  },
+  {
+   "id": 1236,
+   "chinese": "高价",
+   "pinyin": "gāojià",
+   "part_of_speech": "n.",
+   "english": "high price"
+  },
+  {
+   "id": 1237,
+   "chinese": "高考",
+   "pinyin": "gāokǎo",
+   "part_of_speech": "n.",
+   "english": "college entrance exam"
+  },
+  {
+   "id": 1238,
+   "chinese": "高速",
+   "pinyin": "gāosù",
+   "part_of_speech": "adj.",
+   "english": "high-speed; express"
+  },
+  {
+   "id": 1239,
+   "chinese": "高温",
+   "pinyin": "gāowēn",
+   "part_of_speech": "n.",
+   "english": "high temperature"
+  },
+  {
+   "id": 1240,
+   "chinese": "高于",
+   "pinyin": "gāoyú",
+   "part_of_speech": "v.",
+   "english": "to be higher than"
+  },
+  {
+   "id": 1241,
+   "chinese": "胳膊",
+   "pinyin": "gēbo",
+   "part_of_speech": "n.",
+   "english": "arm"
+  },
+  {
+   "id": 1242,
+   "chinese": "歌声",
+   "pinyin": "gēshēng",
+   "part_of_speech": "n.",
+   "english": "singing voice"
+  },
+  {
+   "id": 1243,
+   "chinese": "歌手",
+   "pinyin": "gēshǒu",
+   "part_of_speech": "n.",
+   "english": "singer"
+  },
+  {
+   "id": 1244,
+   "chinese": "各",
+   "pinyin": "gè",
+   "part_of_speech": "pron. / adv.",
+   "english": "each; various"
+  },
+  {
+   "id": 1245,
+   "chinese": "各地",
+   "pinyin": "gèdì",
+   "part_of_speech": "n.",
+   "english": "various places"
+  },
+  {
+   "id": 1246,
+   "chinese": "各个",
+   "pinyin": "gègè",
+   "part_of_speech": "pron. / adv.",
+   "english": "each; every"
+  },
+  {
+   "id": 1247,
+   "chinese": "各位",
+   "pinyin": "gèwèi",
+   "part_of_speech": "pron.",
+   "english": "everyone; all of you"
+  },
+  {
+   "id": 1248,
+   "chinese": "各种",
+   "pinyin": "gèzhǒng",
+   "part_of_speech": "pron.",
+   "english": "various kinds"
+  },
+  {
+   "id": 1249,
+   "chinese": "更加",
+   "pinyin": "gèngjiā",
+   "part_of_speech": "adv.",
+   "english": "even more"
+  },
+  {
+   "id": 1250,
+   "chinese": "工厂",
+   "pinyin": "gōngchǎng",
+   "part_of_speech": "n.",
+   "english": "factory"
+  },
+  {
+   "id": 1251,
+   "chinese": "功夫",
+   "pinyin": "gōngfu",
+   "part_of_speech": "n.",
+   "english": "skill; kung fu"
+  },
+  {
+   "id": 1252,
+   "chinese": "公共",
+   "pinyin": "gōnggòng",
+   "part_of_speech": "adj.",
+   "english": "public; common"
+  },
+  {
+   "id": 1253,
+   "chinese": "功课",
+   "pinyin": "gōngkè",
+   "part_of_speech": "n.",
+   "english": "schoolwork; lessons"
+  },
+  {
+   "id": 1254,
+   "chinese": "公里",
+   "pinyin": "gōnglǐ",
+   "part_of_speech": "mw.",
+   "english": "kilometer"
+  },
+  {
+   "id": 1255,
+   "chinese": "公路",
+   "pinyin": "gōnglù",
+   "part_of_speech": "n.",
+   "english": "highway; road"
+  },
+  {
+   "id": 1256,
+   "chinese": "工人",
+   "pinyin": "gōngrén",
+   "part_of_speech": "n.",
+   "english": "worker"
+  },
+  {
+   "id": 1257,
+   "chinese": "工资",
+   "pinyin": "gōngzī",
+   "part_of_speech": "n.",
+   "english": "salary; wages"
+  },
+  {
+   "id": 1258,
+   "chinese": "共",
+   "pinyin": "gòng",
+   "part_of_speech": "adv.",
+   "english": "in total; altogether"
+  },
+  {
+   "id": 1259,
+   "chinese": "共同",
+   "pinyin": "gòngtóng",
+   "part_of_speech": "adj.",
+   "english": "common; joint; together"
+  },
+  {
+   "id": 1260,
+   "chinese": "够",
+   "pinyin": "gòu",
+   "part_of_speech": "v. / adv.",
+   "english": "to be enough; enough"
+  },
+  {
+   "id": 1261,
+   "chinese": "购买",
+   "pinyin": "gòumǎi",
+   "part_of_speech": "v.",
+   "english": "to purchase"
+  },
+  {
+   "id": 1262,
+   "chinese": "购物",
+   "pinyin": "gòuwù",
+   "part_of_speech": "v.",
+   "english": "to shop; shopping"
+  },
+  {
+   "id": 1263,
+   "chinese": "估计",
+   "pinyin": "gūjì",
+   "part_of_speech": "v.",
+   "english": "to estimate; guess"
+  },
+  {
+   "id": 1264,
+   "chinese": "姑娘",
+   "pinyin": "gūniang",
+   "part_of_speech": "n.",
+   "english": "young woman; girl"
+  },
+  {
+   "id": 1265,
+   "chinese": "鼓励",
+   "pinyin": "gǔlì",
+   "part_of_speech": "v.",
+   "english": "to encourage"
+  },
+  {
+   "id": 1266,
+   "chinese": "顾客",
+   "pinyin": "gùkè",
+   "part_of_speech": "n.",
+   "english": "customer"
+  },
+  {
+   "id": 1267,
+   "chinese": "故意",
+   "pinyin": "gùyì",
+   "part_of_speech": "adv.",
+   "english": "deliberately; on purpose"
+  },
+  {
+   "id": 1268,
+   "chinese": "挂",
+   "pinyin": "guà",
+   "part_of_speech": "v.",
+   "english": "to hang; hang up"
+  },
+  {
+   "id": 1269,
+   "chinese": "关键",
+   "pinyin": "guānjiàn",
+   "part_of_speech": "n. / adj.",
+   "english": "key; crucial"
+  },
+  {
+   "id": 1270,
+   "chinese": "观看",
+   "pinyin": "guānkàn",
+   "part_of_speech": "v.",
+   "english": "to watch; view"
+  },
+  {
+   "id": 1271,
+   "chinese": "观众",
+   "pinyin": "guānzhòng",
+   "part_of_speech": "n.",
+   "english": "audience; spectator"
+  },
+  {
+   "id": 1272,
+   "chinese": "管",
+   "pinyin": "guǎn",
+   "part_of_speech": "v.",
+   "english": "to manage; be in charge of"
+  },
+  {
+   "id": 1273,
+   "chinese": "管理",
+   "pinyin": "guǎnlǐ",
+   "part_of_speech": "v.",
+   "english": "to manage"
+  },
+  {
+   "id": 1274,
+   "chinese": "光",
+   "pinyin": "guāng",
+   "part_of_speech": "n. / adj. / v. / adv.",
+   "english": "light; bare; only"
+  },
+  {
+   "id": 1275,
+   "chinese": "广播",
+   "pinyin": "guǎngbō",
+   "part_of_speech": "v. / n.",
+   "english": "to broadcast; broadcast"
+  },
+  {
+   "id": 1276,
+   "chinese": "广告",
+   "pinyin": "guǎnggào",
+   "part_of_speech": "n.",
+   "english": "advertisement; ad"
+  },
+  {
+   "id": 1277,
+   "chinese": "逛",
+   "pinyin": "guàng",
+   "part_of_speech": "v.",
+   "english": "to stroll; browse shops"
+  },
+  {
+   "id": 1278,
+   "chinese": "规定",
+   "pinyin": "guīdìng",
+   "part_of_speech": "v. / n.",
+   "english": "to stipulate; rule"
+  },
+  {
+   "id": 1279,
+   "chinese": "国籍",
+   "pinyin": "guójí",
+   "part_of_speech": "n.",
+   "english": "nationality"
+  },
+  {
+   "id": 1280,
+   "chinese": "国际",
+   "pinyin": "guójì",
+   "part_of_speech": "adj. / n.",
+   "english": "international"
+  },
+  {
+   "id": 1281,
+   "chinese": "果汁",
+   "pinyin": "guǒzhī",
+   "part_of_speech": "n.",
+   "english": "fruit juice"
+  },
+  {
+   "id": 1282,
+   "chinese": "过程",
+   "pinyin": "guòchéng",
+   "part_of_speech": "n.",
+   "english": "process; course"
+  },
+  {
+   "id": 1283,
+   "chinese": "海洋",
+   "pinyin": "hǎiyáng",
+   "part_of_speech": "n.",
+   "english": "ocean"
+  },
+  {
+   "id": 1284,
+   "chinese": "害羞",
+   "pinyin": "hàixiū",
+   "part_of_speech": "adj.",
+   "english": "shy"
+  },
+  {
+   "id": 1285,
+   "chinese": "寒假",
+   "pinyin": "hánjià",
+   "part_of_speech": "n.",
+   "english": "winter vacation"
+  },
+  {
+   "id": 1286,
+   "chinese": "寒冷",
+   "pinyin": "hánlěng",
+   "part_of_speech": "adj.",
+   "english": "cold; chilly"
+  },
+  {
+   "id": 1287,
+   "chinese": "喊",
+   "pinyin": "hǎn",
+   "part_of_speech": "v.",
+   "english": "to shout; yell"
+  },
+  {
+   "id": 1288,
+   "chinese": "汗",
+   "pinyin": "hàn",
+   "part_of_speech": "n.",
+   "english": "sweat"
+  },
+  {
+   "id": 1289,
+   "chinese": "航班",
+   "pinyin": "hángbān",
+   "part_of_speech": "n.",
+   "english": "flight"
+  },
+  {
+   "id": 1290,
+   "chinese": "好处",
+   "pinyin": "hǎochù",
+   "part_of_speech": "n.",
+   "english": "benefit; advantage"
+  },
+  {
+   "id": 1291,
+   "chinese": "好好",
+   "pinyin": "hǎohǎo",
+   "part_of_speech": "adj. / adv.",
+   "english": "well; properly"
+  },
+  {
+   "id": 1292,
+   "chinese": "好笑",
+   "pinyin": "hǎoxiào",
+   "part_of_speech": "adj.",
+   "english": "funny; amusing"
+  },
+  {
+   "id": 1293,
+   "chinese": "合格",
+   "pinyin": "hégé",
+   "part_of_speech": "adj.",
+   "english": "qualified; up to standard"
+  },
+  {
+   "id": 1294,
+   "chinese": "盒子",
+   "pinyin": "hézi",
+   "part_of_speech": "n.",
+   "english": "box"
+  },
+  {
+   "id": 1295,
+   "chinese": "红包",
+   "pinyin": "hóngbāo",
+   "part_of_speech": "n.",
+   "english": "red envelope"
+  },
+  {
+   "id": 1296,
+   "chinese": "厚",
+   "pinyin": "hòu",
+   "part_of_speech": "adj.",
+   "english": "thick"
+  },
+  {
+   "id": 1297,
+   "chinese": "后悔",
+   "pinyin": "hòuhuǐ",
+   "part_of_speech": "v.",
+   "english": "to regret"
+  },
+  {
+   "id": 1298,
+   "chinese": "忽然",
+   "pinyin": "hūrán",
+   "part_of_speech": "adv.",
+   "english": "suddenly"
+  },
+  {
+   "id": 1299,
+   "chinese": "互联网",
+   "pinyin": "hùliánwǎng",
+   "part_of_speech": "n.",
+   "english": "Internet"
+  },
+  {
+   "id": 1300,
+   "chinese": "护士",
+   "pinyin": "hùshi",
+   "part_of_speech": "n.",
+   "english": "nurse"
+  },
+  {
+   "id": 1301,
+   "chinese": "互相",
+   "pinyin": "hùxiāng",
+   "part_of_speech": "adv.",
+   "english": "mutually; each other"
+  },
+  {
+   "id": 1302,
+   "chinese": "话剧",
+   "pinyin": "huàjù",
+   "part_of_speech": "n.",
+   "english": "stage play; drama"
+  },
+  {
+   "id": 1303,
+   "chinese": "怀疑",
+   "pinyin": "huáiyí",
+   "part_of_speech": "v.",
+   "english": "to doubt; suspect"
+  },
+  {
+   "id": 1304,
+   "chinese": "坏处",
+   "pinyin": "huàichù",
+   "part_of_speech": "n.",
+   "english": "disadvantage; harm"
+  },
+  {
+   "id": 1305,
+   "chinese": "环保",
+   "pinyin": "huánbǎo",
+   "part_of_speech": "n. / adj.",
+   "english": "environmental protection; eco-friendly"
+  },
+  {
+   "id": 1306,
+   "chinese": "换乘",
+   "pinyin": "huànchéng",
+   "part_of_speech": "v.",
+   "english": "to transfer; change transport"
+  },
+  {
+   "id": 1307,
+   "chinese": "回复",
+   "pinyin": "huífù",
+   "part_of_speech": "v.",
+   "english": "to reply; respond"
+  },
+  {
+   "id": 1308,
+   "chinese": "回信",
+   "pinyin": "huíxìn",
+   "part_of_speech": "v. / n.",
+   "english": "to reply to a letter; reply letter"
+  },
+  {
+   "id": 1309,
+   "chinese": "回忆",
+   "pinyin": "huíyì",
+   "part_of_speech": "v.",
+   "english": "to recall; memory"
+  },
+  {
+   "id": 1310,
+   "chinese": "会员",
+   "pinyin": "huìyuán",
+   "part_of_speech": "n.",
+   "english": "member"
+  },
+  {
+   "id": 1311,
+   "chinese": "活",
+   "pinyin": "huó",
+   "part_of_speech": "v. / adj. / n.",
+   "english": "to live; alive; work"
+  },
+  {
+   "id": 1312,
+   "chinese": "活动",
+   "pinyin": "huódòng",
+   "part_of_speech": "v. / n.",
+   "english": "activity; to move about"
+  },
+  {
+   "id": 1313,
+   "chinese": "活泼",
+   "pinyin": "huópō",
+   "part_of_speech": "adj.",
+   "english": "lively; vivacious"
+  },
+  {
+   "id": 1314,
+   "chinese": "火",
+   "pinyin": "huǒ",
+   "part_of_speech": "n. / adj.",
+   "english": "fire; hot-tempered"
+  },
+  {
+   "id": 1315,
+   "chinese": "货",
+   "pinyin": "huò",
+   "part_of_speech": "n.",
+   "english": "goods; merchandise"
+  },
+  {
+   "id": 1316,
+   "chinese": "获得",
+   "pinyin": "huòdé",
+   "part_of_speech": "v.",
+   "english": "to obtain; gain"
+  },
+  {
+   "id": 1317,
+   "chinese": "获奖",
+   "pinyin": "huòjiǎng",
+   "part_of_speech": "v.",
+   "english": "to win an award"
+  },
+  {
+   "id": 1318,
+   "chinese": "获取",
+   "pinyin": "huòqǔ",
+   "part_of_speech": "v.",
+   "english": "to obtain; acquire"
+  },
+  {
+   "id": 1319,
+   "chinese": "基本",
+   "pinyin": "jīběn",
+   "part_of_speech": "adj. / adv.",
+   "english": "basic; basically"
+  },
+  {
+   "id": 1320,
+   "chinese": "基本上",
+   "pinyin": "jīběnshàng",
+   "part_of_speech": "adv.",
+   "english": "basically"
+  },
+  {
+   "id": 1321,
+   "chinese": "基础",
+   "pinyin": "jīchǔ",
+   "part_of_speech": "n.",
+   "english": "foundation; basis"
+  },
+  {
+   "id": 1322,
+   "chinese": "激动",
+   "pinyin": "jīdòng",
+   "part_of_speech": "adj. / v.",
+   "english": "excited; moved"
+  },
+  {
+   "id": 1323,
+   "chinese": "积极",
+   "pinyin": "jījí",
+   "part_of_speech": "adj.",
+   "english": "positive; active"
+  },
+  {
+   "id": 1324,
+   "chinese": "积累",
+   "pinyin": "jīlěi",
+   "part_of_speech": "v.",
+   "english": "to accumulate"
+  },
+  {
+   "id": 1325,
+   "chinese": "及时",
+   "pinyin": "jíshí",
+   "part_of_speech": "adj. / adv.",
+   "english": "timely; in time"
+  },
+  {
+   "id": 1326,
+   "chinese": "即使",
+   "pinyin": "jíshǐ",
+   "part_of_speech": "conj.",
+   "english": "even if; even though"
+  },
+  {
+   "id": 1327,
+   "chinese": "既",
+   "pinyin": "jì",
+   "part_of_speech": "adv. / conj.",
+   "english": "both...and; already"
+  },
+  {
+   "id": 1328,
+   "chinese": "寄",
+   "pinyin": "jì",
+   "part_of_speech": "v.",
+   "english": "to mail; send"
+  },
+  {
+   "id": 1329,
+   "chinese": "计划",
+   "pinyin": "jìhuà",
+   "part_of_speech": "n. / v.",
+   "english": "plan; to plan"
+  },
+  {
+   "id": 1330,
+   "chinese": "既然",
+   "pinyin": "jìrán",
+   "part_of_speech": "conj.",
+   "english": "since; now that"
+  },
+  {
+   "id": 1331,
+   "chinese": "技术",
+   "pinyin": "jìshù",
+   "part_of_speech": "n.",
+   "english": "technology; technique"
+  },
+  {
+   "id": 1332,
+   "chinese": "继续",
+   "pinyin": "jìxù",
+   "part_of_speech": "v.",
+   "english": "to continue"
+  },
+  {
+   "id": 1333,
+   "chinese": "记者",
+   "pinyin": "jìzhě",
+   "part_of_speech": "n.",
+   "english": "reporter; journalist"
+  },
+  {
+   "id": 1334,
+   "chinese": "加班",
+   "pinyin": "jiābān",
+   "part_of_speech": "v.",
+   "english": "to work overtime"
+  },
+  {
+   "id": 1335,
+   "chinese": "家具",
+   "pinyin": "jiājù",
+   "part_of_speech": "n.",
+   "english": "furniture"
+  },
+  {
+   "id": 1336,
+   "chinese": "加快",
+   "pinyin": "jiākuài",
+   "part_of_speech": "v.",
+   "english": "to speed up"
+  },
+  {
+   "id": 1337,
+   "chinese": "加强",
+   "pinyin": "jiāqiáng",
+   "part_of_speech": "v.",
+   "english": "to strengthen"
+  },
+  {
+   "id": 1338,
+   "chinese": "加入",
+   "pinyin": "jiārù",
+   "part_of_speech": "v.",
+   "english": "to join; add"
+  },
+  {
+   "id": 1339,
+   "chinese": "加上",
+   "pinyin": "jiāshàng",
+   "part_of_speech": "conj.",
+   "english": "plus; in addition"
+  },
+  {
+   "id": 1340,
+   "chinese": "家庭",
+   "pinyin": "jiātíng",
+   "part_of_speech": "n.",
+   "english": "family; household"
+  },
+  {
+   "id": 1341,
+   "chinese": "家乡",
+   "pinyin": "jiāxiāng",
+   "part_of_speech": "n.",
+   "english": "hometown"
+  },
+  {
+   "id": 1342,
+   "chinese": "加油",
+   "pinyin": "jiāyóu",
+   "part_of_speech": "v.",
+   "english": "to refuel; keep it up"
+  },
+  {
+   "id": 1343,
+   "chinese": "加油站",
+   "pinyin": "jiāyóuzhàn",
+   "part_of_speech": "n.",
+   "english": "gas station"
+  },
+  {
+   "id": 1344,
+   "chinese": "家长",
+   "pinyin": "jiāzhǎng",
+   "part_of_speech": "n.",
+   "english": "parent; guardian"
+  },
+  {
+   "id": 1345,
+   "chinese": "假",
+   "pinyin": "jiǎ",
+   "part_of_speech": "adj.",
+   "english": "fake; false"
+  },
+  {
+   "id": 1346,
+   "chinese": "价格",
+   "pinyin": "jiàgé",
+   "part_of_speech": "n.",
+   "english": "price"
+  },
+  {
+   "id": 1347,
+   "chinese": "价钱",
+   "pinyin": "jiàqián",
+   "part_of_speech": "n.",
+   "english": "price; cost"
+  },
+  {
+   "id": 1348,
+   "chinese": "假日",
+   "pinyin": "jiàrì",
+   "part_of_speech": "n.",
+   "english": "holiday"
+  },
+  {
+   "id": 1349,
+   "chinese": "减",
+   "pinyin": "jiǎn",
+   "part_of_speech": "v.",
+   "english": "to reduce; subtract"
+  },
+  {
+   "id": 1350,
+   "chinese": "减轻",
+   "pinyin": "jiǎnqīng",
+   "part_of_speech": "v.",
+   "english": "to reduce; ease"
+  },
+  {
+   "id": 1351,
+   "chinese": "减少",
+   "pinyin": "jiǎnshǎo",
+   "part_of_speech": "v.",
+   "english": "to reduce; decrease"
+  },
+  {
+   "id": 1352,
+   "chinese": "健身",
+   "pinyin": "jiànshēn",
+   "part_of_speech": "v.",
+   "english": "to work out; keep fit"
+  },
+  {
+   "id": 1353,
+   "chinese": "健身房",
+   "pinyin": "jiànshēnfáng",
+   "part_of_speech": "n.",
+   "english": "gym; fitness center"
+  },
+  {
+   "id": 1354,
+   "chinese": "建议",
+   "pinyin": "jiànyì",
+   "part_of_speech": "v. / n.",
+   "english": "to suggest; suggestion"
+  },
+  {
+   "id": 1355,
+   "chinese": "江",
+   "pinyin": "jiāng",
+   "part_of_speech": "n.",
+   "english": "river"
+  },
+  {
+   "id": 1356,
+   "chinese": "将",
+   "pinyin": "jiāng",
+   "part_of_speech": "prep. / adv.",
+   "english": "will; shall; to take"
+  },
+  {
+   "id": 1357,
+   "chinese": "将来",
+   "pinyin": "jiānglái",
+   "part_of_speech": "n.",
+   "english": "future"
+  },
+  {
+   "id": 1358,
+   "chinese": "将要",
+   "pinyin": "jiāngyào",
+   "part_of_speech": "adv.",
+   "english": "about to; will"
+  },
+  {
+   "id": 1359,
+   "chinese": "奖",
+   "pinyin": "jiǎng",
+   "part_of_speech": "n.",
+   "english": "award; prize"
+  },
+  {
+   "id": 1360,
+   "chinese": "奖金",
+   "pinyin": "jiǎngjīn",
+   "part_of_speech": "n.",
+   "english": "bonus; prize money"
+  },
+  {
+   "id": 1361,
+   "chinese": "奖学金",
+   "pinyin": "jiǎngxuéjīn",
+   "part_of_speech": "n.",
+   "english": "scholarship"
+  },
+  {
+   "id": 1362,
+   "chinese": "降",
+   "pinyin": "jiàng",
+   "part_of_speech": "v.",
+   "english": "to fall; drop"
+  },
+  {
+   "id": 1363,
+   "chinese": "降低",
+   "pinyin": "jiàngdī",
+   "part_of_speech": "v.",
+   "english": "to lower; reduce"
+  },
+  {
+   "id": 1364,
+   "chinese": "降价",
+   "pinyin": "jiàngjià",
+   "part_of_speech": "v.",
+   "english": "to cut prices"
+  },
+  {
+   "id": 1365,
+   "chinese": "降落",
+   "pinyin": "jiàngluò",
+   "part_of_speech": "v.",
+   "english": "to land; descend"
+  },
+  {
+   "id": 1366,
+   "chinese": "降温",
+   "pinyin": "jiàngwēn",
+   "part_of_speech": "v.",
+   "english": "to cool down; temperature drop"
+  },
+  {
+   "id": 1367,
+   "chinese": "交",
+   "pinyin": "jiāo",
+   "part_of_speech": "v.",
+   "english": "to hand over; make friends"
+  },
+  {
+   "id": 1368,
+   "chinese": "骄傲",
+   "pinyin": "jiāo'ào",
+   "part_of_speech": "adj. / n.",
+   "english": "proud; pride"
+  },
+  {
+   "id": 1369,
+   "chinese": "交警",
+   "pinyin": "jiāojǐng",
+   "part_of_speech": "n.",
+   "english": "traffic police"
+  },
+  {
+   "id": 1370,
+   "chinese": "交流",
+   "pinyin": "jiāoliú",
+   "part_of_speech": "v.",
+   "english": "to communicate; exchange"
+  },
+  {
+   "id": 1371,
+   "chinese": "郊区",
+   "pinyin": "jiāoqū",
+   "part_of_speech": "n.",
+   "english": "suburb"
+  },
+  {
+   "id": 1372,
+   "chinese": "交通",
+   "pinyin": "jiāotōng",
+   "part_of_speech": "n.",
+   "english": "transportation; traffic"
+  },
+  {
+   "id": 1373,
+   "chinese": "教练",
+   "pinyin": "jiàoliàn",
+   "part_of_speech": "n.",
+   "english": "coach; trainer"
+  },
+  {
+   "id": 1374,
+   "chinese": "教师",
+   "pinyin": "jiàoshī",
+   "part_of_speech": "n.",
+   "english": "teacher; educator"
+  },
+  {
+   "id": 1375,
+   "chinese": "教授",
+   "pinyin": "jiàoshòu",
+   "part_of_speech": "n.",
+   "english": "professor"
+  },
+  {
+   "id": 1376,
+   "chinese": "教学",
+   "pinyin": "jiàoxué",
+   "part_of_speech": "n.",
+   "english": "teaching; instruction"
+  },
+  {
+   "id": 1377,
+   "chinese": "教育",
+   "pinyin": "jiàoyù",
+   "part_of_speech": "n. / v.",
+   "english": "education; to educate"
+  },
+  {
+   "id": 1378,
+   "chinese": "叫作",
+   "pinyin": "jiàozuò",
+   "part_of_speech": "v.",
+   "english": "to be called; be named"
+  },
+  {
+   "id": 1379,
+   "chinese": "街道",
+   "pinyin": "jiēdào",
+   "part_of_speech": "n.",
+   "english": "street; subdistrict"
+  },
+  {
+   "id": 1380,
+   "chinese": "接受",
+   "pinyin": "jiēshòu",
+   "part_of_speech": "v.",
+   "english": "to accept"
+  },
+  {
+   "id": 1381,
+   "chinese": "接着",
+   "pinyin": "jiēzhe",
+   "part_of_speech": "v. / adv.",
+   "english": "to continue; next"
+  },
+  {
+   "id": 1382,
+   "chinese": "结果",
+   "pinyin": "jiéguǒ",
+   "part_of_speech": "n. / conj.",
+   "english": "result; consequently"
+  },
+  {
+   "id": 1383,
+   "chinese": "节假日",
+   "pinyin": "jiéjiàrì",
+   "part_of_speech": "n.",
+   "english": "public holiday"
+  },
+  {
+   "id": 1384,
+   "chinese": "节约",
+   "pinyin": "jiéyuē",
+   "part_of_speech": "v.",
+   "english": "to save; conserve"
+  },
+  {
+   "id": 1385,
+   "chinese": "结账",
+   "pinyin": "jiézhàng",
+   "part_of_speech": "v.",
+   "english": "to pay the bill; check out"
+  },
+  {
+   "id": 1386,
+   "chinese": "解释",
+   "pinyin": "jiěshì",
+   "part_of_speech": "v.",
+   "english": "to explain; interpret"
+  },
+  {
+   "id": 1387,
+   "chinese": "今后",
+   "pinyin": "jīnhòu",
+   "part_of_speech": "n.",
+   "english": "from now on; in the future"
+  },
+  {
+   "id": 1388,
+   "chinese": "仅",
+   "pinyin": "jǐn",
+   "part_of_speech": "adv.",
+   "english": "only; merely"
+  },
+  {
+   "id": 1389,
+   "chinese": "尽管",
+   "pinyin": "jǐnguǎn",
+   "part_of_speech": "adv. / conj.",
+   "english": "although; despite"
+  },
+  {
+   "id": 1390,
+   "chinese": "仅仅",
+   "pinyin": "jǐnjǐn",
+   "part_of_speech": "adv.",
+   "english": "only; merely"
+  },
+  {
+   "id": 1391,
+   "chinese": "紧张",
+   "pinyin": "jǐnzhāng",
+   "part_of_speech": "adj.",
+   "english": "nervous; tense"
+  },
+  {
+   "id": 1392,
+   "chinese": "进入",
+   "pinyin": "jìnrù",
+   "part_of_speech": "v.",
+   "english": "to enter; go into"
+  },
+  {
+   "id": 1393,
+   "chinese": "进行",
+   "pinyin": "jìnxíng",
+   "part_of_speech": "v.",
+   "english": "to carry out; conduct"
+  },
+  {
+   "id": 1394,
+   "chinese": "禁止",
+   "pinyin": "jìnzhǐ",
+   "part_of_speech": "v.",
+   "english": "to prohibit; forbid"
+  },
+  {
+   "id": 1395,
+   "chinese": "精彩",
+   "pinyin": "jīngcǎi",
+   "part_of_speech": "adj.",
+   "english": "wonderful; brilliant"
+  },
+  {
+   "id": 1396,
+   "chinese": "经济",
+   "pinyin": "jīngjì",
+   "part_of_speech": "n.",
+   "english": "economy; economic affairs"
+  },
+  {
+   "id": 1397,
+   "chinese": "京剧",
+   "pinyin": "jīngjù",
+   "part_of_speech": "n.",
+   "english": "Beijing opera"
+  },
+  {
+   "id": 1398,
+   "chinese": "经历",
+   "pinyin": "jīnglì",
+   "part_of_speech": "v. / n.",
+   "english": "to experience; experience"
+  },
+  {
+   "id": 1399,
+   "chinese": "经验",
+   "pinyin": "jīngyàn",
+   "part_of_speech": "n.",
+   "english": "experience; know-how"
+  },
+  {
+   "id": 1400,
+   "chinese": "警察",
+   "pinyin": "jǐngchá",
+   "part_of_speech": "n.",
+   "english": "police officer"
+  },
+  {
+   "id": 1401,
+   "chinese": "景点",
+   "pinyin": "jǐngdiǎn",
+   "part_of_speech": "n.",
+   "english": "tourist attraction"
+  },
+  {
+   "id": 1402,
+   "chinese": "景区",
+   "pinyin": "jǐngqū",
+   "part_of_speech": "n.",
+   "english": "scenic area"
+  },
+  {
+   "id": 1403,
+   "chinese": "景色",
+   "pinyin": "jǐngsè",
+   "part_of_speech": "n.",
+   "english": "scenery; view"
+  },
+  {
+   "id": 1404,
+   "chinese": "竟然",
+   "pinyin": "jìngrán",
+   "part_of_speech": "adv.",
+   "english": "unexpectedly; actually"
+  },
+  {
+   "id": 1405,
+   "chinese": "竞争",
+   "pinyin": "jìngzhēng",
+   "part_of_speech": "v.",
+   "english": "to compete; competition"
+  },
+  {
+   "id": 1406,
+   "chinese": "镜子",
+   "pinyin": "jìngzi",
+   "part_of_speech": "n.",
+   "english": "mirror"
+  },
+  {
+   "id": 1407,
+   "chinese": "究竟",
+   "pinyin": "jiūjìng",
+   "part_of_speech": "adv.",
+   "english": "after all; exactly"
+  },
+  {
+   "id": 1408,
+   "chinese": "就是",
+   "pinyin": "jiùshì",
+   "part_of_speech": "part. / adv. / conj.",
+   "english": "is precisely; simply; that is"
+  },
+  {
+   "id": 1409,
+   "chinese": "举",
+   "pinyin": "jǔ",
+   "part_of_speech": "v.",
+   "english": "to raise; lift; cite"
+  },
+  {
+   "id": 1410,
+   "chinese": "举办",
+   "pinyin": "jǔbàn",
+   "part_of_speech": "v.",
+   "english": "to hold; organize"
+  },
+  {
+   "id": 1411,
+   "chinese": "举例",
+   "pinyin": "jǔlì",
+   "part_of_speech": "v.",
+   "english": "to give an example"
+  },
+  {
+   "id": 1412,
+   "chinese": "举行",
+   "pinyin": "jǔxíng",
+   "part_of_speech": "v.",
+   "english": "to hold; take place"
+  },
+  {
+   "id": 1413,
+   "chinese": "聚",
+   "pinyin": "jù",
+   "part_of_speech": "v.",
+   "english": "to gather"
+  },
+  {
+   "id": 1414,
+   "chinese": "聚餐",
+   "pinyin": "jùcān",
+   "part_of_speech": "v.",
+   "english": "to dine together"
+  },
+  {
+   "id": 1415,
+   "chinese": "聚会",
+   "pinyin": "jùhuì",
+   "part_of_speech": "v. / n.",
+   "english": "to gather; gathering"
+  },
+  {
+   "id": 1416,
+   "chinese": "拒绝",
+   "pinyin": "jùjué",
+   "part_of_speech": "v.",
+   "english": "to refuse"
+  },
+  {
+   "id": 1417,
+   "chinese": "距离",
+   "pinyin": "jùlí",
+   "part_of_speech": "v. / n.",
+   "english": "distance; to be apart from"
+  },
+  {
+   "id": 1418,
+   "chinese": "剧院",
+   "pinyin": "jùyuàn",
+   "part_of_speech": "n.",
+   "english": "theater"
+  },
+  {
+   "id": 1419,
+   "chinese": "开玩笑",
+   "pinyin": "kāi wánxiào",
+   "part_of_speech": "phr.",
+   "english": "to joke; make fun"
+  },
+  {
+   "id": 1420,
+   "chinese": "看法",
+   "pinyin": "kànfǎ",
+   "part_of_speech": "n.",
+   "english": "view; opinion"
+  },
+  {
+   "id": 1421,
+   "chinese": "烤",
+   "pinyin": "kǎo",
+   "part_of_speech": "v.",
+   "english": "to roast; bake"
+  },
+  {
+   "id": 1422,
+   "chinese": "考虑",
+   "pinyin": "kǎolǜ",
+   "part_of_speech": "v.",
+   "english": "to consider"
+  },
+  {
+   "id": 1423,
+   "chinese": "考生",
+   "pinyin": "kǎoshēng",
+   "part_of_speech": "n.",
+   "english": "examinee; test taker"
+  },
+  {
+   "id": 1424,
+   "chinese": "棵",
+   "pinyin": "kē",
+   "part_of_speech": "mw.",
+   "english": "measure word for trees"
+  },
+  {
+   "id": 1425,
+   "chinese": "科技",
+   "pinyin": "kējì",
+   "part_of_speech": "n.",
+   "english": "technology; science and technology"
+  },
+  {
+   "id": 1426,
+   "chinese": "科学",
+   "pinyin": "kēxué",
+   "part_of_speech": "n. / adj.",
+   "english": "science; scientific"
+  },
+  {
+   "id": 1427,
+   "chinese": "咳",
+   "pinyin": "ké",
+   "part_of_speech": "v.",
+   "english": "to cough"
+  },
+  {
+   "id": 1428,
+   "chinese": "咳嗽",
+   "pinyin": "késou",
+   "part_of_speech": "v.",
+   "english": "to cough; cough"
+  },
+  {
+   "id": 1429,
+   "chinese": "可惜",
+   "pinyin": "kěxī",
+   "part_of_speech": "adj.",
+   "english": "unfortunately; a pity"
+  },
+  {
+   "id": 1430,
+   "chinese": "克",
+   "pinyin": "kè",
+   "part_of_speech": "mw.",
+   "english": "gram"
+  },
+  {
+   "id": 1431,
+   "chinese": "课程",
+   "pinyin": "kèchéng",
+   "part_of_speech": "n.",
+   "english": "course; curriculum"
+  },
+  {
+   "id": 1432,
+   "chinese": "客气",
+   "pinyin": "kèqi",
+   "part_of_speech": "adj. / v.",
+   "english": "polite; courteous"
+  },
+  {
+   "id": 1433,
+   "chinese": "课堂",
+   "pinyin": "kètáng",
+   "part_of_speech": "n.",
+   "english": "classroom; class"
+  },
+  {
+   "id": 1434,
+   "chinese": "客厅",
+   "pinyin": "kètīng",
+   "part_of_speech": "n.",
+   "english": "living room"
+  },
+  {
+   "id": 1435,
+   "chinese": "肯定",
+   "pinyin": "kěndìng",
+   "part_of_speech": "v. / adj. / adv.",
+   "english": "to affirm; certain; definitely"
+  },
+  {
+   "id": 1436,
+   "chinese": "空",
+   "pinyin": "kōng",
+   "part_of_speech": "adj.",
+   "english": "empty"
+  },
+  {
+   "id": 1437,
+   "chinese": "空气",
+   "pinyin": "kōngqì",
+   "part_of_speech": "n.",
+   "english": "air"
+  },
+  {
+   "id": 1438,
+   "chinese": "恐怕",
+   "pinyin": "kǒngpà",
+   "part_of_speech": "v. / adv.",
+   "english": "to fear; perhaps; I'm afraid"
+  },
+  {
+   "id": 1439,
+   "chinese": "空",
+   "pinyin": "kòng",
+   "part_of_speech": "v. / adj. / n.",
+   "english": "free; vacant; to make time"
+  },
+  {
+   "id": 1440,
+   "chinese": "口语",
+   "pinyin": "kǒuyǔ",
+   "part_of_speech": "n.",
+   "english": "spoken language; speaking"
+  },
+  {
+   "id": 1441,
+   "chinese": "苦",
+   "pinyin": "kǔ",
+   "part_of_speech": "adj.",
+   "english": "bitter; hardship"
+  },
+  {
+   "id": 1442,
+   "chinese": "快餐",
+   "pinyin": "kuàicān",
+   "part_of_speech": "n.",
+   "english": "fast food"
+  },
+  {
+   "id": 1443,
+   "chinese": "快递",
+   "pinyin": "kuàidì",
+   "part_of_speech": "n.",
+   "english": "express delivery; courier"
+  },
+  {
+   "id": 1444,
+   "chinese": "快速",
+   "pinyin": "kuàisù",
+   "part_of_speech": "adj.",
+   "english": "rapid; fast"
+  },
+  {
+   "id": 1445,
+   "chinese": "困",
+   "pinyin": "kùn",
+   "part_of_speech": "adj.",
+   "english": "sleepy; tired"
+  },
+  {
+   "id": 1446,
+   "chinese": "困难",
+   "pinyin": "kùnnan",
+   "part_of_speech": "adj. / n.",
+   "english": "difficult; difficulty"
+  },
+  {
+   "id": 1447,
+   "chinese": "拉",
+   "pinyin": "lā",
+   "part_of_speech": "v.",
+   "english": "to pull"
+  },
+  {
+   "id": 1448,
+   "chinese": "垃圾",
+   "pinyin": "lājī",
+   "part_of_speech": "n.",
+   "english": "garbage; trash"
+  },
+  {
+   "id": 1449,
+   "chinese": "辣",
+   "pinyin": "là",
+   "part_of_speech": "adj.",
+   "english": "spicy; hot"
+  },
+  {
+   "id": 1450,
+   "chinese": "来不及",
+   "pinyin": "láibují",
+   "part_of_speech": "v.",
+   "english": "to be too late; not have enough time"
+  },
+  {
+   "id": 1451,
+   "chinese": "来得及",
+   "pinyin": "láidejí",
+   "part_of_speech": "v.",
+   "english": "to have enough time; make it in time"
+  },
+  {
+   "id": 1452,
+   "chinese": "懒",
+   "pinyin": "lǎn",
+   "part_of_speech": "adj.",
+   "english": "lazy"
+  },
+  {
+   "id": 1453,
+   "chinese": "浪费",
+   "pinyin": "làngfèi",
+   "part_of_speech": "v.",
+   "english": "to waste; waste"
+  },
+  {
+   "id": 1454,
+   "chinese": "浪漫",
+   "pinyin": "làngmàn",
+   "part_of_speech": "adj.",
+   "english": "romantic"
+  },
+  {
+   "id": 1455,
+   "chinese": "老虎",
+   "pinyin": "lǎohǔ",
+   "part_of_speech": "n.",
+   "english": "tiger"
+  },
+  {
+   "id": 1456,
+   "chinese": "老家",
+   "pinyin": "lǎojiā",
+   "part_of_speech": "n.",
+   "english": "hometown; family home"
+  },
+  {
+   "id": 1457,
+   "chinese": "老年",
+   "pinyin": "lǎonián",
+   "part_of_speech": "n.",
+   "english": "old age; elderly years"
+  },
+  {
+   "id": 1458,
+   "chinese": "老是",
+   "pinyin": "lǎoshì",
+   "part_of_speech": "adv.",
+   "english": "always; constantly"
+  },
+  {
+   "id": 1459,
+   "chinese": "冷静",
+   "pinyin": "lěngjìng",
+   "part_of_speech": "adj.",
+   "english": "calm; cool-headed"
+  },
+  {
+   "id": 1460,
+   "chinese": "理发",
+   "pinyin": "lǐfà",
+   "part_of_speech": "v.",
+   "english": "to get a haircut"
+  },
+  {
+   "id": 1461,
+   "chinese": "理解",
+   "pinyin": "lǐjiě",
+   "part_of_speech": "v.",
+   "english": "to understand"
+  },
+  {
+   "id": 1462,
+   "chinese": "礼貌",
+   "pinyin": "lǐmào",
+   "part_of_speech": "n. / adj.",
+   "english": "manners; polite"
+  },
+  {
+   "id": 1463,
+   "chinese": "理想",
+   "pinyin": "lǐxiǎng",
+   "part_of_speech": "n. / adj.",
+   "english": "ideal; idealistic"
+  },
+  {
+   "id": 1464,
+   "chinese": "厉害",
+   "pinyin": "lìhai",
+   "part_of_speech": "adj.",
+   "english": "formidable; impressive; severe"
+  },
+  {
+   "id": 1465,
+   "chinese": "力气",
+   "pinyin": "lìqi",
+   "part_of_speech": "n.",
+   "english": "strength; physical power"
+  },
+  {
+   "id": 1466,
+   "chinese": "例如",
+   "pinyin": "lìrú",
+   "part_of_speech": "v.",
+   "english": "for example"
+  },
+  {
+   "id": 1467,
+   "chinese": "例子",
+   "pinyin": "lìzi",
+   "part_of_speech": "n.",
+   "english": "example"
+  },
+  {
+   "id": 1468,
+   "chinese": "俩",
+   "pinyin": "liǎ",
+   "part_of_speech": "num.-mw.",
+   "english": "two people; both"
+  },
+  {
+   "id": 1469,
+   "chinese": "连",
+   "pinyin": "lián",
+   "part_of_speech": "prep.",
+   "english": "even; including"
+  },
+  {
+   "id": 1470,
+   "chinese": "联系",
+   "pinyin": "liánxì",
+   "part_of_speech": "v.",
+   "english": "to contact; connection"
+  },
+  {
+   "id": 1471,
+   "chinese": "凉",
+   "pinyin": "liáng",
+   "part_of_speech": "adj.",
+   "english": "cool; chilly"
+  },
+  {
+   "id": 1472,
+   "chinese": "量",
+   "pinyin": "liáng",
+   "part_of_speech": "v.",
+   "english": "to measure"
+  },
+  {
+   "id": 1473,
+   "chinese": "两",
+   "pinyin": "liǎng",
+   "part_of_speech": "mw.",
+   "english": "liang; a traditional unit of weight (50 g in modern mainland China)"
+  },
+  {
+   "id": 1474,
+   "chinese": "亮",
+   "pinyin": "liàng",
+   "part_of_speech": "adj. / v.",
+   "english": "bright; to light up"
+  },
+  {
+   "id": 1475,
+   "chinese": "列",
+   "pinyin": "liè",
+   "part_of_speech": "v. / mw.",
+   "english": "to list; row; column"
+  },
+  {
+   "id": 1476,
+   "chinese": "零下",
+   "pinyin": "líng xià",
+   "part_of_speech": "phr.",
+   "english": "below zero"
+  },
+  {
+   "id": 1477,
+   "chinese": "零花钱",
+   "pinyin": "línghuāqián",
+   "part_of_speech": "n.",
+   "english": "pocket money"
+  },
+  {
+   "id": 1478,
+   "chinese": "零钱",
+   "pinyin": "língqián",
+   "part_of_speech": "n.",
+   "english": "change; small money"
+  },
+  {
+   "id": 1479,
+   "chinese": "零食",
+   "pinyin": "língshí",
+   "part_of_speech": "n.",
+   "english": "snack"
+  },
+  {
+   "id": 1480,
+   "chinese": "另",
+   "pinyin": "lìng",
+   "part_of_speech": "pron.",
+   "english": "other; another"
+  },
+  {
+   "id": 1481,
+   "chinese": "另外",
+   "pinyin": "lìngwài",
+   "part_of_speech": "pron. / adv. / conj.",
+   "english": "in addition; another"
+  },
+  {
+   "id": 1482,
+   "chinese": "留",
+   "pinyin": "liú",
+   "part_of_speech": "v.",
+   "english": "to keep; stay; leave behind"
+  },
+  {
+   "id": 1483,
+   "chinese": "流",
+   "pinyin": "liú",
+   "part_of_speech": "v.",
+   "english": "to flow"
+  },
+  {
+   "id": 1484,
+   "chinese": "流利",
+   "pinyin": "liúlì",
+   "part_of_speech": "adj.",
+   "english": "fluent"
+  },
+  {
+   "id": 1485,
+   "chinese": "留下",
+   "pinyin": "liúxia",
+   "part_of_speech": "v.",
+   "english": "to leave behind"
+  },
+  {
+   "id": 1486,
+   "chinese": "流行",
+   "pinyin": "liúxíng",
+   "part_of_speech": "v.",
+   "english": "to be popular; fashionable"
+  },
+  {
+   "id": 1487,
+   "chinese": "路过",
+   "pinyin": "lùguò",
+   "part_of_speech": "v.",
+   "english": "to pass by"
+  },
+  {
+   "id": 1488,
+   "chinese": "旅馆",
+   "pinyin": "lǚguǎn",
+   "part_of_speech": "n.",
+   "english": "hotel; inn"
+  },
+  {
+   "id": 1489,
+   "chinese": "旅客",
+   "pinyin": "lǚkè",
+   "part_of_speech": "n.",
+   "english": "traveler; passenger"
+  },
+  {
+   "id": 1490,
+   "chinese": "旅行",
+   "pinyin": "lǚxíng",
+   "part_of_speech": "v.",
+   "english": "to travel"
+  },
+  {
+   "id": 1491,
+   "chinese": "律师",
+   "pinyin": "lǜshī",
+   "part_of_speech": "n.",
+   "english": "lawyer"
+  },
+  {
+   "id": 1492,
+   "chinese": "乱",
+   "pinyin": "luàn",
+   "part_of_speech": "adj. / adv.",
+   "english": "messy; chaotic"
+  },
+  {
+   "id": 1493,
+   "chinese": "落",
+   "pinyin": "luò",
+   "part_of_speech": "v.",
+   "english": "to fall; drop"
+  },
+  {
+   "id": 1494,
+   "chinese": "麻烦",
+   "pinyin": "máfan",
+   "part_of_speech": "adj. / v. / n.",
+   "english": "trouble; troublesome; to bother"
+  },
+  {
+   "id": 1495,
+   "chinese": "馒头",
+   "pinyin": "mántou",
+   "part_of_speech": "n.",
+   "english": "steamed bun"
+  },
+  {
+   "id": 1496,
+   "chinese": "满",
+   "pinyin": "mǎn",
+   "part_of_speech": "adj. / v.",
+   "english": "full; to fill"
+  },
+  {
+   "id": 1497,
+   "chinese": "毛巾",
+   "pinyin": "máojīn",
+   "part_of_speech": "n.",
+   "english": "towel"
+  },
+  {
+   "id": 1498,
+   "chinese": "毛衣",
+   "pinyin": "máoyī",
+   "part_of_speech": "n.",
+   "english": "sweater"
+  },
+  {
+   "id": 1499,
+   "chinese": "帽子",
+   "pinyin": "màozi",
+   "part_of_speech": "n.",
+   "english": "hat; cap"
+  },
+  {
+   "id": 1500,
+   "chinese": "美",
+   "pinyin": "měi",
+   "part_of_speech": "adj.",
+   "english": "beautiful"
+  },
+  {
+   "id": 1501,
+   "chinese": "美好",
+   "pinyin": "měihǎo",
+   "part_of_speech": "adj.",
+   "english": "beautiful; wonderful"
+  },
+  {
+   "id": 1502,
+   "chinese": "美景",
+   "pinyin": "měijǐng",
+   "part_of_speech": "n.",
+   "english": "beautiful scenery"
+  },
+  {
+   "id": 1503,
+   "chinese": "美丽",
+   "pinyin": "měilì",
+   "part_of_speech": "adj.",
+   "english": "beautiful"
+  },
+  {
+   "id": 1504,
+   "chinese": "美食",
+   "pinyin": "měishí",
+   "part_of_speech": "n.",
+   "english": "delicious food; cuisine"
+  },
+  {
+   "id": 1505,
+   "chinese": "梦",
+   "pinyin": "mèng",
+   "part_of_speech": "n. / v.",
+   "english": "dream; to dream"
+  },
+  {
+   "id": 1506,
+   "chinese": "梦想",
+   "pinyin": "mèngxiǎng",
+   "part_of_speech": "v. / n.",
+   "english": "to dream of; dream"
+  },
+  {
+   "id": 1507,
+   "chinese": "密码",
+   "pinyin": "mìmǎ",
+   "part_of_speech": "n.",
+   "english": "password"
+  },
+  {
+   "id": 1508,
+   "chinese": "免费",
+   "pinyin": "miǎnfèi",
+   "part_of_speech": "v.",
+   "english": "to waive a fee; free of charge"
+  },
+  {
+   "id": 1509,
+   "chinese": "面对",
+   "pinyin": "miànduì",
+   "part_of_speech": "v.",
+   "english": "to face; confront"
+  },
+  {
+   "id": 1510,
+   "chinese": "面试",
+   "pinyin": "miànshì",
+   "part_of_speech": "v.",
+   "english": "to interview; attend an interview"
+  },
+  {
+   "id": 1511,
+   "chinese": "秒",
+   "pinyin": "miǎo",
+   "part_of_speech": "mw.",
+   "english": "second"
+  },
+  {
+   "id": 1512,
+   "chinese": "民族",
+   "pinyin": "mínzú",
+   "part_of_speech": "n.",
+   "english": "ethnic group; nationality"
+  },
+  {
+   "id": 1513,
+   "chinese": "末",
+   "pinyin": "mò",
+   "part_of_speech": "n.",
+   "english": "end; final part"
+  },
+  {
+   "id": 1514,
+   "chinese": "母女",
+   "pinyin": "mǔnǚ",
+   "part_of_speech": "n.",
+   "english": "mother and daughter"
+  },
+  {
+   "id": 1515,
+   "chinese": "母亲",
+   "pinyin": "mǔqīn",
+   "part_of_speech": "n.",
+   "english": "mother"
+  },
+  {
+   "id": 1516,
+   "chinese": "母子",
+   "pinyin": "mǔzǐ",
+   "part_of_speech": "n.",
+   "english": "mother and son"
+  },
+  {
+   "id": 1517,
+   "chinese": "目标",
+   "pinyin": "mùbiāo",
+   "part_of_speech": "n.",
+   "english": "goal; target"
+  },
+  {
+   "id": 1518,
+   "chinese": "目的",
+   "pinyin": "mùdì",
+   "part_of_speech": "n.",
+   "english": "purpose; aim"
+  },
+  {
+   "id": 1519,
+   "chinese": "目的地",
+   "pinyin": "mùdìdì",
+   "part_of_speech": "n.",
+   "english": "destination"
+  },
+  {
+   "id": 1520,
+   "chinese": "目前",
+   "pinyin": "mùqián",
+   "part_of_speech": "n.",
+   "english": "currently; at present"
+  },
+  {
+   "id": 1521,
+   "chinese": "耐心",
+   "pinyin": "nàixīn",
+   "part_of_speech": "adj. / n.",
+   "english": "patient; patience"
+  },
+  {
+   "id": 1522,
+   "chinese": "南部",
+   "pinyin": "nánbù",
+   "part_of_speech": "n.",
+   "english": "southern part"
+  },
+  {
+   "id": 1523,
+   "chinese": "难道",
+   "pinyin": "nándào",
+   "part_of_speech": "adv.",
+   "english": "could it be that...?"
+  },
+  {
+   "id": 1524,
+   "chinese": "男士",
+   "pinyin": "nánshì",
+   "part_of_speech": "n.",
+   "english": "man; gentleman"
+  },
+  {
+   "id": 1525,
+   "chinese": "难受",
+   "pinyin": "nánshòu",
+   "part_of_speech": "adj.",
+   "english": "uncomfortable; feel bad"
+  },
+  {
+   "id": 1526,
+   "chinese": "难忘",
+   "pinyin": "nánwàng",
+   "part_of_speech": "v.",
+   "english": "to be unforgettable; hard to forget"
+  },
+  {
+   "id": 1527,
+   "chinese": "男性",
+   "pinyin": "nánxìng",
+   "part_of_speech": "n.",
+   "english": "male; man"
+  },
+  {
+   "id": 1528,
+   "chinese": "内",
+   "pinyin": "nèi",
+   "part_of_speech": "n.",
+   "english": "inside; within"
+  },
+  {
+   "id": 1529,
+   "chinese": "内容",
+   "pinyin": "nèiróng",
+   "part_of_speech": "n.",
+   "english": "content"
+  },
+  {
+   "id": 1530,
+   "chinese": "内心",
+   "pinyin": "nèixīn",
+   "part_of_speech": "n.",
+   "english": "inner heart; inner feelings"
+  },
+  {
+   "id": 1531,
+   "chinese": "能否",
+   "pinyin": "néng fǒu",
+   "part_of_speech": "phr.",
+   "english": "whether or not; can or not"
+  },
+  {
+   "id": 1532,
+   "chinese": "能够",
+   "pinyin": "nénggòu",
+   "part_of_speech": "v.",
+   "english": "can; be able to"
+  },
+  {
+   "id": 1533,
+   "chinese": "能力",
+   "pinyin": "nénglì",
+   "part_of_speech": "n.",
+   "english": "ability; capability"
+  },
+  {
+   "id": 1534,
+   "chinese": "嗯",
+   "pinyin": "ǹg",
+   "part_of_speech": "interj.",
+   "english": "hmm; uh-huh"
+  },
+  {
+   "id": 1535,
+   "chinese": "年底",
+   "pinyin": "niándǐ",
+   "part_of_speech": "n.",
+   "english": "year-end"
+  },
+  {
+   "id": 1536,
+   "chinese": "年龄",
+   "pinyin": "niánlíng",
+   "part_of_speech": "n.",
+   "english": "age"
+  },
+  {
+   "id": 1537,
+   "chinese": "农村",
+   "pinyin": "nóngcūn",
+   "part_of_speech": "n.",
+   "english": "countryside; rural area"
+  },
+  {
+   "id": 1538,
+   "chinese": "弄",
+   "pinyin": "nòng",
+   "part_of_speech": "v.",
+   "english": "to do; handle; get"
+  },
+  {
+   "id": 1539,
+   "chinese": "女性",
+   "pinyin": "nǚxìng",
+   "part_of_speech": "n.",
+   "english": "female; woman"
+  },
+  {
+   "id": 1540,
+   "chinese": "暖和",
+   "pinyin": "nuǎnhuo",
+   "part_of_speech": "adj. / v.",
+   "english": "warm; to warm up"
+  },
+  {
+   "id": 1541,
+   "chinese": "偶尔",
+   "pinyin": "ǒu'ěr",
+   "part_of_speech": "adv. / adj.",
+   "english": "occasionally; sometimes"
+  },
+  {
+   "id": 1542,
+   "chinese": "拍",
+   "pinyin": "pāi",
+   "part_of_speech": "v. / n.",
+   "english": "to pat; take a photo"
+  },
+  {
+   "id": 1543,
+   "chinese": "排",
+   "pinyin": "pái",
+   "part_of_speech": "v. / n. / mw.",
+   "english": "to arrange; row; line"
+  },
+  {
+   "id": 1544,
+   "chinese": "牌",
+   "pinyin": "pái",
+   "part_of_speech": "n.",
+   "english": "sign; brand; card"
+  },
+  {
+   "id": 1545,
+   "chinese": "排队",
+   "pinyin": "páiduì",
+   "part_of_speech": "v.",
+   "english": "to line up; queue"
+  },
+  {
+   "id": 1546,
+   "chinese": "排球",
+   "pinyin": "páiqiú",
+   "part_of_speech": "n.",
+   "english": "volleyball"
+  },
+  {
+   "id": 1547,
+   "chinese": "牌子",
+   "pinyin": "páizi",
+   "part_of_speech": "n.",
+   "english": "brand; sign"
+  },
+  {
+   "id": 1548,
+   "chinese": "判断",
+   "pinyin": "pànduàn",
+   "part_of_speech": "v.",
+   "english": "to judge; determine"
+  },
+  {
+   "id": 1549,
+   "chinese": "陪",
+   "pinyin": "péi",
+   "part_of_speech": "v.",
+   "english": "to accompany"
+  },
+  {
+   "id": 1550,
+   "chinese": "批评",
+   "pinyin": "pīpíng",
+   "part_of_speech": "v.",
+   "english": "to criticize"
+  },
+  {
+   "id": 1551,
+   "chinese": "皮肤",
+   "pinyin": "pífū",
+   "part_of_speech": "n.",
+   "english": "skin"
+  },
+  {
+   "id": 1552,
+   "chinese": "脾气",
+   "pinyin": "píqi",
+   "part_of_speech": "n.",
+   "english": "temper; disposition"
+  },
+  {
+   "id": 1553,
+   "chinese": "皮鞋",
+   "pinyin": "píxié",
+   "part_of_speech": "n.",
+   "english": "leather shoes"
+  },
+  {
+   "id": 1554,
+   "chinese": "篇",
+   "pinyin": "piān",
+   "part_of_speech": "n. / mw.",
+   "english": "article; measure word for writings"
+  },
+  {
+   "id": 1555,
+   "chinese": "片",
+   "pinyin": "piàn",
+   "part_of_speech": "n. / mw.",
+   "english": "slice; piece; sheet"
+  },
+  {
+   "id": 1556,
+   "chinese": "乒乓球",
+   "pinyin": "pīngpāngqiú",
+   "part_of_speech": "n.",
+   "english": "table tennis; ping-pong"
+  },
+  {
+   "id": 1557,
+   "chinese": "平常",
+   "pinyin": "píngcháng",
+   "part_of_speech": "adj. / n.",
+   "english": "ordinary; usually"
+  },
+  {
+   "id": 1558,
+   "chinese": "破",
+   "pinyin": "pò",
+   "part_of_speech": "v. / adj.",
+   "english": "to break; broken"
+  },
+  {
+   "id": 1559,
+   "chinese": "葡萄",
+   "pinyin": "pútao",
+   "part_of_speech": "n.",
+   "english": "grape"
+  },
+  {
+   "id": 1560,
+   "chinese": "葡萄酒",
+   "pinyin": "pútaojiǔ",
+   "part_of_speech": "n.",
+   "english": "wine; grape wine"
+  },
+  {
+   "id": 1561,
+   "chinese": "普遍",
+   "pinyin": "pǔbiàn",
+   "part_of_speech": "adj.",
+   "english": "common; widespread"
+  },
+  {
+   "id": 1562,
+   "chinese": "普通",
+   "pinyin": "pǔtōng",
+   "part_of_speech": "adj.",
+   "english": "ordinary; common"
+  },
+  {
+   "id": 1563,
+   "chinese": "普通话",
+   "pinyin": "pǔtōnghuà",
+   "part_of_speech": "n.",
+   "english": "Mandarin Chinese"
+  },
+  {
+   "id": 1564,
+   "chinese": "期",
+   "pinyin": "qī",
+   "part_of_speech": "mw.",
+   "english": "period; term; measure word for issues"
+  },
+  {
+   "id": 1565,
+   "chinese": "期末",
+   "pinyin": "qīmò",
+   "part_of_speech": "n.",
+   "english": "end of term; final exams"
+  },
+  {
+   "id": 1566,
+   "chinese": "期中",
+   "pinyin": "qīzhōng",
+   "part_of_speech": "n.",
+   "english": "midterm"
+  },
+  {
+   "id": 1567,
+   "chinese": "其次",
+   "pinyin": "qícì",
+   "part_of_speech": "pron.",
+   "english": "second; next"
+  },
+  {
+   "id": 1568,
+   "chinese": "其中",
+   "pinyin": "qízhōng",
+   "part_of_speech": "n.",
+   "english": "among; in it"
+  },
+  {
+   "id": 1569,
+   "chinese": "起到",
+   "pinyin": "qǐdào",
+   "part_of_speech": "v.",
+   "english": "to play a role; serve as"
+  },
+  {
+   "id": 1570,
+   "chinese": "气",
+   "pinyin": "qì",
+   "part_of_speech": "n. / v.",
+   "english": "air; gas; anger"
+  },
+  {
+   "id": 1571,
+   "chinese": "气候",
+   "pinyin": "qìhòu",
+   "part_of_speech": "n.",
+   "english": "climate"
+  },
+  {
+   "id": 1572,
+   "chinese": "汽水",
+   "pinyin": "qìshuǐ",
+   "part_of_speech": "n.",
+   "english": "soda; soft drink"
+  },
+  {
+   "id": 1573,
+   "chinese": "气温",
+   "pinyin": "qìwēn",
+   "part_of_speech": "n.",
+   "english": "temperature"
+  },
+  {
+   "id": 1574,
+   "chinese": "千克",
+   "pinyin": "qiānkè",
+   "part_of_speech": "mw.",
+   "english": "kilogram"
+  },
+  {
+   "id": 1575,
+   "chinese": "千万",
+   "pinyin": "qiānwàn",
+   "part_of_speech": "adv.",
+   "english": "by all means; absolutely"
+  },
+  {
+   "id": 1576,
+   "chinese": "签证",
+   "pinyin": "qiānzhèng",
+   "part_of_speech": "v. / n.",
+   "english": "visa; to issue a visa"
+  },
+  {
+   "id": 1577,
+   "chinese": "前方",
+   "pinyin": "qiánfāng",
+   "part_of_speech": "n.",
+   "english": "ahead; front"
+  },
+  {
+   "id": 1578,
+   "chinese": "前后",
+   "pinyin": "qiánhòu",
+   "part_of_speech": "n.",
+   "english": "before and after; around"
+  },
+  {
+   "id": 1579,
+   "chinese": "强",
+   "pinyin": "qiáng",
+   "part_of_speech": "adj.",
+   "english": "strong"
+  },
+  {
+   "id": 1580,
+   "chinese": "敲",
+   "pinyin": "qiāo",
+   "part_of_speech": "v.",
+   "english": "to knock"
+  },
+  {
+   "id": 1581,
+   "chinese": "桥",
+   "pinyin": "qiáo",
+   "part_of_speech": "n.",
+   "english": "bridge"
+  },
+  {
+   "id": 1582,
+   "chinese": "巧",
+   "pinyin": "qiǎo",
+   "part_of_speech": "adj.",
+   "english": "clever; skillful; coincidental"
+  },
+  {
+   "id": 1583,
+   "chinese": "巧克力",
+   "pinyin": "qiǎokèlì",
+   "part_of_speech": "n.",
+   "english": "chocolate"
+  },
+  {
+   "id": 1584,
+   "chinese": "亲戚",
+   "pinyin": "qīnqi",
+   "part_of_speech": "n.",
+   "english": "relative"
+  },
+  {
+   "id": 1585,
+   "chinese": "琴",
+   "pinyin": "qín",
+   "part_of_speech": "n.",
+   "english": "musical instrument; qin"
+  },
+  {
+   "id": 1586,
+   "chinese": "轻",
+   "pinyin": "qīng",
+   "part_of_speech": "adj.",
+   "english": "light; not heavy"
+  },
+  {
+   "id": 1587,
+   "chinese": "青年",
+   "pinyin": "qīngnián",
+   "part_of_speech": "n.",
+   "english": "youth; young person"
+  },
+  {
+   "id": 1588,
+   "chinese": "轻松",
+   "pinyin": "qīngsōng",
+   "part_of_speech": "adj.",
+   "english": "relaxed; easy"
+  },
+  {
+   "id": 1589,
+   "chinese": "情况",
+   "pinyin": "qíngkuàng",
+   "part_of_speech": "n.",
+   "english": "situation; condition"
+  },
+  {
+   "id": 1590,
+   "chinese": "庆祝",
+   "pinyin": "qìngzhù",
+   "part_of_speech": "v.",
+   "english": "to celebrate"
+  },
+  {
+   "id": 1591,
+   "chinese": "球队",
+   "pinyin": "qiúduì",
+   "part_of_speech": "n.",
+   "english": "team"
+  },
+  {
+   "id": 1592,
+   "chinese": "球迷",
+   "pinyin": "qiúmí",
+   "part_of_speech": "n.",
+   "english": "sports fan"
+  },
+  {
+   "id": 1593,
+   "chinese": "区",
+   "pinyin": "qū",
+   "part_of_speech": "n.",
+   "english": "district; area"
+  },
+  {
+   "id": 1594,
+   "chinese": "区别",
+   "pinyin": "qūbié",
+   "part_of_speech": "v. / n.",
+   "english": "to distinguish; difference"
+  },
+  {
+   "id": 1595,
+   "chinese": "取",
+   "pinyin": "qǔ",
+   "part_of_speech": "v.",
+   "english": "to take; get"
+  },
+  {
+   "id": 1596,
+   "chinese": "取得",
+   "pinyin": "qǔdé",
+   "part_of_speech": "v.",
+   "english": "to obtain; achieve"
+  },
+  {
+   "id": 1597,
+   "chinese": "取消",
+   "pinyin": "qǔxiāo",
+   "part_of_speech": "v.",
+   "english": "to cancel"
+  },
+  {
+   "id": 1598,
+   "chinese": "全",
+   "pinyin": "quán",
+   "part_of_speech": "adj. / adv.",
+   "english": "whole; all"
+  },
+  {
+   "id": 1599,
+   "chinese": "全部",
+   "pinyin": "quánbù",
+   "part_of_speech": "n.",
+   "english": "all; whole"
+  },
+  {
+   "id": 1600,
+   "chinese": "全都",
+   "pinyin": "quándōu",
+   "part_of_speech": "adv.",
+   "english": "all; altogether"
+  },
+  {
+   "id": 1601,
+   "chinese": "全球",
+   "pinyin": "quánqiú",
+   "part_of_speech": "n.",
+   "english": "global; worldwide"
+  },
+  {
+   "id": 1602,
+   "chinese": "全身",
+   "pinyin": "quánshēn",
+   "part_of_speech": "n.",
+   "english": "whole body"
+  },
+  {
+   "id": 1603,
+   "chinese": "缺",
+   "pinyin": "quē",
+   "part_of_speech": "v.",
+   "english": "to lack; be short of"
+  },
+  {
+   "id": 1604,
+   "chinese": "缺点",
+   "pinyin": "quēdiǎn",
+   "part_of_speech": "n.",
+   "english": "shortcoming; defect"
+  },
+  {
+   "id": 1605,
+   "chinese": "缺少",
+   "pinyin": "quēshǎo",
+   "part_of_speech": "v.",
+   "english": "to lack; be short of"
+  },
+  {
+   "id": 1606,
+   "chinese": "却",
+   "pinyin": "què",
+   "part_of_speech": "adv.",
+   "english": "but; yet"
+  },
+  {
+   "id": 1607,
+   "chinese": "确实",
+   "pinyin": "quèshí",
+   "part_of_speech": "adv.",
+   "english": "indeed; really"
+  },
+  {
+   "id": 1608,
+   "chinese": "然而",
+   "pinyin": "rán'ér",
+   "part_of_speech": "conj.",
+   "english": "however"
+  },
+  {
+   "id": 1609,
+   "chinese": "热闹",
+   "pinyin": "rènao",
+   "part_of_speech": "adj. / v. / n.",
+   "english": "lively; bustling; lively scene"
+  },
+  {
+   "id": 1610,
+   "chinese": "人生",
+   "pinyin": "rénshēng",
+   "part_of_speech": "n.",
+   "english": "life; one's life"
+  },
+  {
+   "id": 1611,
+   "chinese": "人数",
+   "pinyin": "rénshù",
+   "part_of_speech": "n.",
+   "english": "number of people"
+  },
+  {
+   "id": 1612,
+   "chinese": "人员",
+   "pinyin": "rényuán",
+   "part_of_speech": "n.",
+   "english": "personnel; staff"
+  },
+  {
+   "id": 1613,
+   "chinese": "任何",
+   "pinyin": "rènhé",
+   "part_of_speech": "pron.",
+   "english": "any; whatever"
+  },
+  {
+   "id": 1614,
+   "chinese": "任务",
+   "pinyin": "rènwu",
+   "part_of_speech": "n.",
+   "english": "task; mission"
+  },
+  {
+   "id": 1615,
+   "chinese": "扔",
+   "pinyin": "rēng",
+   "part_of_speech": "v.",
+   "english": "to throw"
+  },
+  {
+   "id": 1616,
+   "chinese": "仍",
+   "pinyin": "réng",
+   "part_of_speech": "adv.",
+   "english": "still; yet"
+  },
+  {
+   "id": 1617,
+   "chinese": "仍然",
+   "pinyin": "réngrán",
+   "part_of_speech": "adv.",
+   "english": "still; nevertheless"
+  },
+  {
+   "id": 1618,
+   "chinese": "日常",
+   "pinyin": "rìcháng",
+   "part_of_speech": "adj.",
+   "english": "daily; everyday"
+  },
+  {
+   "id": 1619,
+   "chinese": "日记",
+   "pinyin": "rìjì",
+   "part_of_speech": "n.",
+   "english": "diary"
+  },
+  {
+   "id": 1620,
+   "chinese": "日期",
+   "pinyin": "rìqī",
+   "part_of_speech": "n.",
+   "english": "date"
+  },
+  {
+   "id": 1621,
+   "chinese": "日子",
+   "pinyin": "rìzi",
+   "part_of_speech": "n.",
+   "english": "day; life; date"
+  },
+  {
+   "id": 1622,
+   "chinese": "入",
+   "pinyin": "rù",
+   "part_of_speech": "v.",
+   "english": "to enter"
+  },
+  {
+   "id": 1623,
+   "chinese": "入口",
+   "pinyin": "rùkǒu",
+   "part_of_speech": "n.",
+   "english": "entrance"
+  },
+  {
+   "id": 1624,
+   "chinese": "入学",
+   "pinyin": "rùxué",
+   "part_of_speech": "v.",
+   "english": "to enroll; enter school"
+  },
+  {
+   "id": 1625,
+   "chinese": "入住",
+   "pinyin": "rùzhù",
+   "part_of_speech": "v.",
+   "english": "to move in; check in"
+  },
+  {
+   "id": 1626,
+   "chinese": "散步",
+   "pinyin": "sànbù",
+   "part_of_speech": "v.",
+   "english": "to take a walk"
+  },
+  {
+   "id": 1627,
+   "chinese": "扫码",
+   "pinyin": "sǎomǎ",
+   "part_of_speech": "v.",
+   "english": "to scan a QR code"
+  },
+  {
+   "id": 1628,
+   "chinese": "森林",
+   "pinyin": "sēnlín",
+   "part_of_speech": "n.",
+   "english": "forest"
+  },
+  {
+   "id": 1629,
+   "chinese": "商量",
+   "pinyin": "shāngliang",
+   "part_of_speech": "v.",
+   "english": "to discuss; consult"
+  },
+  {
+   "id": 1630,
+   "chinese": "商品",
+   "pinyin": "shāngpǐn",
+   "part_of_speech": "n.",
+   "english": "commodity; product"
+  },
+  {
+   "id": 1631,
+   "chinese": "伤心",
+   "pinyin": "shāngxīn",
+   "part_of_speech": "adj.",
+   "english": "sad; heartbroken"
+  },
+  {
+   "id": 1632,
+   "chinese": "上门",
+   "pinyin": "shàngmén",
+   "part_of_speech": "v.",
+   "english": "to visit someone's home; door-to-door"
+  },
+  {
+   "id": 1633,
+   "chinese": "稍",
+   "pinyin": "shāo",
+   "part_of_speech": "adv.",
+   "english": "slightly; somewhat"
+  },
+  {
+   "id": 1634,
+   "chinese": "稍微",
+   "pinyin": "shāowēi",
+   "part_of_speech": "adv.",
+   "english": "a little; slightly"
+  },
+  {
+   "id": 1635,
+   "chinese": "少见",
+   "pinyin": "shǎojiàn",
+   "part_of_speech": "adj.",
+   "english": "rare; seldom seen"
+  },
+  {
+   "id": 1636,
+   "chinese": "少量",
+   "pinyin": "shǎoliàng",
+   "part_of_speech": "adj.",
+   "english": "small amount; a few"
+  },
+  {
+   "id": 1637,
+   "chinese": "少数",
+   "pinyin": "shǎoshù",
+   "part_of_speech": "n.",
+   "english": "minority; a few"
+  },
+  {
+   "id": 1638,
+   "chinese": "少年",
+   "pinyin": "shàonián",
+   "part_of_speech": "n.",
+   "english": "teenager; youth"
+  },
+  {
+   "id": 1639,
+   "chinese": "社会",
+   "pinyin": "shèhuì",
+   "part_of_speech": "n.",
+   "english": "society"
+  },
+  {
+   "id": 1640,
+   "chinese": "摄氏度",
+   "pinyin": "shèshìdù",
+   "part_of_speech": "mw.",
+   "english": "degree Celsius"
+  },
+  {
+   "id": 1641,
+   "chinese": "身",
+   "pinyin": "shēn",
+   "part_of_speech": "n. / mw.",
+   "english": "body; measure word for sets of clothes"
+  },
+  {
+   "id": 1642,
+   "chinese": "深",
+   "pinyin": "shēn",
+   "part_of_speech": "adj.",
+   "english": "deep"
+  },
+  {
+   "id": 1643,
+   "chinese": "身份证",
+   "pinyin": "shēnfènzhèng",
+   "part_of_speech": "n.",
+   "english": "ID card; identity card"
+  },
+  {
+   "id": 1644,
+   "chinese": "申请",
+   "pinyin": "shēnqǐng",
+   "part_of_speech": "v.",
+   "english": "to apply; application"
+  },
+  {
+   "id": 1645,
+   "chinese": "甚至",
+   "pinyin": "shènzhì",
+   "part_of_speech": "conj.",
+   "english": "even; so much as"
+  },
+  {
+   "id": 1646,
+   "chinese": "生",
+   "pinyin": "shēng",
+   "part_of_speech": "v.",
+   "english": "to give birth; grow"
+  },
+  {
+   "id": 1647,
+   "chinese": "生",
+   "pinyin": "shēng",
+   "part_of_speech": "adj.",
+   "english": "raw; unripe; unfamiliar"
+  },
+  {
+   "id": 1648,
+   "chinese": "生命",
+   "pinyin": "shēngmìng",
+   "part_of_speech": "n.",
+   "english": "life"
+  },
+  {
+   "id": 1649,
+   "chinese": "生意",
+   "pinyin": "shēngyi",
+   "part_of_speech": "n.",
+   "english": "business; trade"
+  },
+  {
+   "id": 1650,
+   "chinese": "省",
+   "pinyin": "shěng",
+   "part_of_speech": "n.",
+   "english": "province"
+  },
+  {
+   "id": 1651,
+   "chinese": "剩",
+   "pinyin": "shèng",
+   "part_of_speech": "v.",
+   "english": "to remain; be left"
+  },
+  {
+   "id": 1652,
+   "chinese": "失败",
+   "pinyin": "shībài",
+   "part_of_speech": "v. / adj.",
+   "english": "to fail; failure"
+  },
+  {
+   "id": 1653,
+   "chinese": "师傅",
+   "pinyin": "shīfu",
+   "part_of_speech": "n.",
+   "english": "master worker; skilled worker"
+  },
+  {
+   "id": 1654,
+   "chinese": "失去",
+   "pinyin": "shīqù",
+   "part_of_speech": "v.",
+   "english": "to lose"
+  },
+  {
+   "id": 1655,
+   "chinese": "师生",
+   "pinyin": "shīshēng",
+   "part_of_speech": "n.",
+   "english": "teachers and students"
+  },
+  {
+   "id": 1656,
+   "chinese": "失望",
+   "pinyin": "shīwàng",
+   "part_of_speech": "v. / adj.",
+   "english": "disappointed; to be disappointed; to lose hope"
+  },
+  {
+   "id": 1657,
+   "chinese": "十分",
+   "pinyin": "shífēn",
+   "part_of_speech": "adv.",
+   "english": "very; extremely"
+  },
+  {
+   "id": 1658,
+   "chinese": "实际",
+   "pinyin": "shíjì",
+   "part_of_speech": "n. / adj.",
+   "english": "actual; reality"
+  },
+  {
+   "id": 1659,
+   "chinese": "时间表",
+   "pinyin": "shíjiānbiǎo",
+   "part_of_speech": "n.",
+   "english": "timetable; schedule"
+  },
+  {
+   "id": 1660,
+   "chinese": "实际上",
+   "pinyin": "shíjìshàng",
+   "part_of_speech": "adv.",
+   "english": "actually; in fact"
+  },
+  {
+   "id": 1661,
+   "chinese": "食品",
+   "pinyin": "shípǐn",
+   "part_of_speech": "n.",
+   "english": "food product"
+  },
+  {
+   "id": 1662,
+   "chinese": "食堂",
+   "pinyin": "shítáng",
+   "part_of_speech": "n.",
+   "english": "cafeteria; dining hall"
+  },
+  {
+   "id": 1663,
+   "chinese": "食物",
+   "pinyin": "shíwù",
+   "part_of_speech": "n.",
+   "english": "food"
+  },
+  {
+   "id": 1664,
+   "chinese": "实在",
+   "pinyin": "shízài",
+   "part_of_speech": "adj. / adv.",
+   "english": "real; truly; indeed"
+  },
+  {
+   "id": 1665,
+   "chinese": "十字路口",
+   "pinyin": "shízì lùkǒu",
+   "part_of_speech": "phr.",
+   "english": "intersection; crossroads"
+  },
+  {
+   "id": 1666,
+   "chinese": "使",
+   "pinyin": "shǐ",
+   "part_of_speech": "v.",
+   "english": "to make; cause"
+  },
+  {
+   "id": 1667,
+   "chinese": "使馆",
+   "pinyin": "shǐguǎn",
+   "part_of_speech": "n.",
+   "english": "embassy; diplomatic mission"
+  },
+  {
+   "id": 1668,
+   "chinese": "使用",
+   "pinyin": "shǐyòng",
+   "part_of_speech": "v.",
+   "english": "to use"
+  },
+  {
+   "id": 1669,
+   "chinese": "市场",
+   "pinyin": "shìchǎng",
+   "part_of_speech": "n.",
+   "english": "market"
+  },
+  {
+   "id": 1670,
+   "chinese": "是否",
+   "pinyin": "shìfǒu",
+   "part_of_speech": "adv.",
+   "english": "whether or not"
+  },
+  {
+   "id": 1671,
+   "chinese": "适合",
+   "pinyin": "shìhé",
+   "part_of_speech": "v.",
+   "english": "to suit; fit"
+  },
+  {
+   "id": 1672,
+   "chinese": "世纪",
+   "pinyin": "shìjì",
+   "part_of_speech": "n.",
+   "english": "century"
+  },
+  {
+   "id": 1673,
+   "chinese": "视频",
+   "pinyin": "shìpín",
+   "part_of_speech": "n.",
+   "english": "video"
+  },
+  {
+   "id": 1674,
+   "chinese": "市区",
+   "pinyin": "shìqū",
+   "part_of_speech": "n.",
+   "english": "urban district; downtown area"
+  },
+  {
+   "id": 1675,
+   "chinese": "试题",
+   "pinyin": "shìtí",
+   "part_of_speech": "n.",
+   "english": "test question"
+  },
+  {
+   "id": 1676,
+   "chinese": "适应",
+   "pinyin": "shìyìng",
+   "part_of_speech": "v.",
+   "english": "to adapt to; get used to"
+  },
+  {
+   "id": 1677,
+   "chinese": "收费",
+   "pinyin": "shōufèi",
+   "part_of_speech": "v.",
+   "english": "to charge a fee"
+  },
+  {
+   "id": 1678,
+   "chinese": "收入",
+   "pinyin": "shōurù",
+   "part_of_speech": "v. / n.",
+   "english": "income; to receive"
+  },
+  {
+   "id": 1679,
+   "chinese": "收拾",
+   "pinyin": "shōushi",
+   "part_of_speech": "v.",
+   "english": "to tidy up; put in order"
+  },
+  {
+   "id": 1680,
+   "chinese": "收听",
+   "pinyin": "shōutīng",
+   "part_of_speech": "v.",
+   "english": "to listen to a broadcast"
+  },
+  {
+   "id": 1681,
+   "chinese": "首",
+   "pinyin": "shǒu",
+   "part_of_speech": "mw.",
+   "english": "measure word for poems/songs"
+  },
+  {
+   "id": 1682,
+   "chinese": "首都",
+   "pinyin": "shǒudū",
+   "part_of_speech": "n.",
+   "english": "capital city"
+  },
+  {
+   "id": 1683,
+   "chinese": "首先",
+   "pinyin": "shǒuxiān",
+   "part_of_speech": "adv. / pron.",
+   "english": "first; firstly"
+  },
+  {
+   "id": 1684,
+   "chinese": "受不了",
+   "pinyin": "shòubuliǎo",
+   "part_of_speech": "v.",
+   "english": "cannot bear; cannot stand"
+  },
+  {
+   "id": 1685,
+   "chinese": "售票员",
+   "pinyin": "shòupiàoyuán",
+   "part_of_speech": "n.",
+   "english": "ticket seller"
+  },
+  {
+   "id": 1686,
+   "chinese": "受伤",
+   "pinyin": "shòushāng",
+   "part_of_speech": "v.",
+   "english": "to be injured"
+  },
+  {
+   "id": 1687,
+   "chinese": "输",
+   "pinyin": "shū",
+   "part_of_speech": "v.",
+   "english": "to lose; be defeated"
+  },
+  {
+   "id": 1688,
+   "chinese": "熟",
+   "pinyin": "shú/shóu",
+   "part_of_speech": "adj.",
+   "english": "cooked; ripe; familiar"
+  },
+  {
+   "id": 1689,
+   "chinese": "熟悉",
+   "pinyin": "shúxi",
+   "part_of_speech": "v.",
+   "english": "to be familiar with"
+  },
+  {
+   "id": 1690,
+   "chinese": "暑假",
+   "pinyin": "shǔjià",
+   "part_of_speech": "n.",
+   "english": "summer vacation"
+  },
+  {
+   "id": 1691,
+   "chinese": "数",
+   "pinyin": "shù",
+   "part_of_speech": "n. / num.",
+   "english": "number; figure"
+  },
+  {
+   "id": 1692,
+   "chinese": "数量",
+   "pinyin": "shùliàng",
+   "part_of_speech": "n.",
+   "english": "quantity; amount"
+  },
+  {
+   "id": 1693,
+   "chinese": "树林",
+   "pinyin": "shùlín",
+   "part_of_speech": "n.",
+   "english": "woods; grove"
+  },
+  {
+   "id": 1694,
+   "chinese": "数字",
+   "pinyin": "shùzì",
+   "part_of_speech": "n.",
+   "english": "digit; number"
+  },
+  {
+   "id": 1695,
+   "chinese": "帅",
+   "pinyin": "shuài",
+   "part_of_speech": "adj.",
+   "english": "handsome"
+  },
+  {
+   "id": 1696,
+   "chinese": "顺便",
+   "pinyin": "shùnbiàn",
+   "part_of_speech": "adv.",
+   "english": "by the way; conveniently"
+  },
+  {
+   "id": 1697,
+   "chinese": "顺利",
+   "pinyin": "shùnlì",
+   "part_of_speech": "adj.",
+   "english": "smooth; successful"
+  },
+  {
+   "id": 1698,
+   "chinese": "顺序",
+   "pinyin": "shùnxù",
+   "part_of_speech": "n.",
+   "english": "order; sequence"
+  },
+  {
+   "id": 1699,
+   "chinese": "说法",
+   "pinyin": "shuōfǎ",
+   "part_of_speech": "n.",
+   "english": "way of saying; statement"
+  },
+  {
+   "id": 1700,
+   "chinese": "说明",
+   "pinyin": "shuōmíng",
+   "part_of_speech": "v. / n.",
+   "english": "to explain; explanation"
+  },
+  {
+   "id": 1701,
+   "chinese": "说明书",
+   "pinyin": "shuōmíngshū",
+   "part_of_speech": "n.",
+   "english": "instruction manual"
+  },
+  {
+   "id": 1702,
+   "chinese": "硕士",
+   "pinyin": "shuòshì",
+   "part_of_speech": "n.",
+   "english": "master's degree"
+  },
+  {
+   "id": 1703,
+   "chinese": "死",
+   "pinyin": "sǐ",
+   "part_of_speech": "v. / adj.",
+   "english": "to die; dead"
+  },
+  {
+   "id": 1704,
+   "chinese": "速度",
+   "pinyin": "sùdù",
+   "part_of_speech": "n.",
+   "english": "speed"
+  },
+  {
+   "id": 1705,
+   "chinese": "塑料",
+   "pinyin": "sùliào",
+   "part_of_speech": "n.",
+   "english": "plastic"
+  },
+  {
+   "id": 1706,
+   "chinese": "酸",
+   "pinyin": "suān",
+   "part_of_speech": "adj.",
+   "english": "sour; aching"
+  },
+  {
+   "id": 1707,
+   "chinese": "酸奶",
+   "pinyin": "suānnǎi",
+   "part_of_speech": "n.",
+   "english": "yogurt"
+  },
+  {
+   "id": 1708,
+   "chinese": "算",
+   "pinyin": "suàn",
+   "part_of_speech": "v. / adv.",
+   "english": "to calculate; count as"
+  },
+  {
+   "id": 1709,
+   "chinese": "随便",
+   "pinyin": "suíbiàn",
+   "part_of_speech": "v. / adj. / conj.",
+   "english": "casual; as one likes"
+  },
+  {
+   "id": 1710,
+   "chinese": "随着",
+   "pinyin": "suízhe",
+   "part_of_speech": "prep.",
+   "english": "along with; as"
+  },
+  {
+   "id": 1711,
+   "chinese": "孙女",
+   "pinyin": "sūnnǚ",
+   "part_of_speech": "n.",
+   "english": "granddaughter"
+  },
+  {
+   "id": 1712,
+   "chinese": "孙子",
+   "pinyin": "sūnzi",
+   "part_of_speech": "n.",
+   "english": "grandson"
+  },
+  {
+   "id": 1713,
+   "chinese": "所有",
+   "pinyin": "suǒyǒu",
+   "part_of_speech": "adj.",
+   "english": "all; all the"
+  },
+  {
+   "id": 1714,
+   "chinese": "台",
+   "pinyin": "tái",
+   "part_of_speech": "mw.",
+   "english": "measure word for machines and stage performances"
+  },
+  {
+   "id": 1715,
+   "chinese": "抬",
+   "pinyin": "tái",
+   "part_of_speech": "v.",
+   "english": "to lift; raise"
+  },
+  {
+   "id": 1716,
+   "chinese": "抬头",
+   "pinyin": "táitóu",
+   "part_of_speech": "v.",
+   "english": "to raise one's head"
+  },
+  {
+   "id": 1717,
+   "chinese": "态度",
+   "pinyin": "tàidù",
+   "part_of_speech": "n.",
+   "english": "attitude"
+  },
+  {
+   "id": 1718,
+   "chinese": "弹",
+   "pinyin": "tán",
+   "part_of_speech": "v.",
+   "english": "to play a string instrument"
+  },
+  {
+   "id": 1719,
+   "chinese": "谈",
+   "pinyin": "tán",
+   "part_of_speech": "v.",
+   "english": "to talk; discuss"
+  },
+  {
+   "id": 1720,
+   "chinese": "汤",
+   "pinyin": "tāng",
+   "part_of_speech": "n.",
+   "english": "soup"
+  },
+  {
+   "id": 1721,
+   "chinese": "躺",
+   "pinyin": "tǎng",
+   "part_of_speech": "v.",
+   "english": "to lie down"
+  },
+  {
+   "id": 1722,
+   "chinese": "趟",
+   "pinyin": "tàng",
+   "part_of_speech": "mw.",
+   "english": "trip; measure word for journeys"
+  },
+  {
+   "id": 1723,
+   "chinese": "讨论",
+   "pinyin": "tǎolùn",
+   "part_of_speech": "v.",
+   "english": "to discuss"
+  },
+  {
+   "id": 1724,
+   "chinese": "讨厌",
+   "pinyin": "tǎoyàn",
+   "part_of_speech": "adj. / v.",
+   "english": "to dislike; annoying"
+  },
+  {
+   "id": 1725,
+   "chinese": "特点",
+   "pinyin": "tèdiǎn",
+   "part_of_speech": "n.",
+   "english": "characteristic; feature"
+  },
+  {
+   "id": 1726,
+   "chinese": "提",
+   "pinyin": "tí",
+   "part_of_speech": "v.",
+   "english": "to carry; mention; raise"
+  },
+  {
+   "id": 1727,
+   "chinese": "提出",
+   "pinyin": "tíchū",
+   "part_of_speech": "v.",
+   "english": "to put forward; propose"
+  },
+  {
+   "id": 1728,
+   "chinese": "提到",
+   "pinyin": "tídào",
+   "part_of_speech": "v.",
+   "english": "to mention"
+  },
+  {
+   "id": 1729,
+   "chinese": "提供",
+   "pinyin": "tígōng",
+   "part_of_speech": "v.",
+   "english": "to provide"
+  },
+  {
+   "id": 1730,
+   "chinese": "提前",
+   "pinyin": "tíqián",
+   "part_of_speech": "v.",
+   "english": "to advance; ahead of time"
+  },
+  {
+   "id": 1731,
+   "chinese": "提醒",
+   "pinyin": "tíxǐng",
+   "part_of_speech": "v.",
+   "english": "to remind"
+  },
+  {
+   "id": 1732,
+   "chinese": "体检",
+   "pinyin": "tǐjiǎn",
+   "part_of_speech": "v.",
+   "english": "to have a physical examination; physical exam"
+  },
+  {
+   "id": 1733,
+   "chinese": "体温",
+   "pinyin": "tǐwēn",
+   "part_of_speech": "n.",
+   "english": "body temperature"
+  },
+  {
+   "id": 1734,
+   "chinese": "体重",
+   "pinyin": "tǐzhòng",
+   "part_of_speech": "n.",
+   "english": "body weight"
+  },
+  {
+   "id": 1735,
+   "chinese": "填写",
+   "pinyin": "tiánxiě",
+   "part_of_speech": "v.",
+   "english": "to fill in; complete a form"
+  },
+  {
+   "id": 1736,
+   "chinese": "条件",
+   "pinyin": "tiáojiàn",
+   "part_of_speech": "n.",
+   "english": "condition; requirement"
+  },
+  {
+   "id": 1737,
+   "chinese": "听力",
+   "pinyin": "tīnglì",
+   "part_of_speech": "n.",
+   "english": "listening ability; listening section"
+  },
+  {
+   "id": 1738,
+   "chinese": "听众",
+   "pinyin": "tīngzhòng",
+   "part_of_speech": "n.",
+   "english": "audience; listener"
+  },
+  {
+   "id": 1739,
+   "chinese": "停",
+   "pinyin": "tíng",
+   "part_of_speech": "v.",
+   "english": "to stop"
+  },
+  {
+   "id": 1740,
+   "chinese": "停车",
+   "pinyin": "tíngchē",
+   "part_of_speech": "v.",
+   "english": "to park"
+  },
+  {
+   "id": 1741,
+   "chinese": "停车场",
+   "pinyin": "tíngchēchǎng",
+   "part_of_speech": "n.",
+   "english": "parking lot"
+  },
+  {
+   "id": 1742,
+   "chinese": "停止",
+   "pinyin": "tíngzhǐ",
+   "part_of_speech": "v.",
+   "english": "to stop; cease"
+  },
+  {
+   "id": 1743,
+   "chinese": "通",
+   "pinyin": "tōng",
+   "part_of_speech": "v. / adj.",
+   "english": "to pass through; open; common"
+  },
+  {
+   "id": 1744,
+   "chinese": "通过",
+   "pinyin": "tōngguò",
+   "part_of_speech": "v. / prep.",
+   "english": "to pass through; through; by means of"
+  },
+  {
+   "id": 1745,
+   "chinese": "通知",
+   "pinyin": "tōngzhī",
+   "part_of_speech": "v. / n.",
+   "english": "to notify; notice"
+  },
+  {
+   "id": 1746,
+   "chinese": "童年",
+   "pinyin": "tóngnián",
+   "part_of_speech": "n.",
+   "english": "childhood"
+  },
+  {
+   "id": 1747,
+   "chinese": "同时",
+   "pinyin": "tóngshí",
+   "part_of_speech": "n. / conj.",
+   "english": "at the same time; meanwhile"
+  },
+  {
+   "id": 1748,
+   "chinese": "同样",
+   "pinyin": "tóngyàng",
+   "part_of_speech": "adj.",
+   "english": "same; likewise"
+  },
+  {
+   "id": 1749,
+   "chinese": "桶",
+   "pinyin": "tǒng",
+   "part_of_speech": "n.",
+   "english": "bucket; barrel"
+  },
+  {
+   "id": 1750,
+   "chinese": "痛",
+   "pinyin": "tòng",
+   "part_of_speech": "adj.",
+   "english": "painful; pain"
+  },
+  {
+   "id": 1751,
+   "chinese": "头痛",
+   "pinyin": "tóutòng",
+   "part_of_speech": "adj.",
+   "english": "headache"
+  },
+  {
+   "id": 1752,
+   "chinese": "图",
+   "pinyin": "tú",
+   "part_of_speech": "n.",
+   "english": "picture; diagram; map"
+  },
+  {
+   "id": 1753,
+   "chinese": "图片",
+   "pinyin": "túpiàn",
+   "part_of_speech": "n.",
+   "english": "picture; image"
+  },
+  {
+   "id": 1754,
+   "chinese": "土",
+   "pinyin": "tǔ",
+   "part_of_speech": "n.",
+   "english": "earth; soil"
+  },
+  {
+   "id": 1755,
+   "chinese": "推",
+   "pinyin": "tuī",
+   "part_of_speech": "v.",
+   "english": "to push"
+  },
+  {
+   "id": 1756,
+   "chinese": "推迟",
+   "pinyin": "tuīchí",
+   "part_of_speech": "v.",
+   "english": "to postpone; delay"
+  },
+  {
+   "id": 1757,
+   "chinese": "推出",
+   "pinyin": "tuīchū",
+   "part_of_speech": "v.",
+   "english": "to launch; introduce"
+  },
+  {
+   "id": 1758,
+   "chinese": "脱",
+   "pinyin": "tuō",
+   "part_of_speech": "v.",
+   "english": "to take off; remove"
+  },
+  {
+   "id": 1759,
+   "chinese": "袜子",
+   "pinyin": "wàzi",
+   "part_of_speech": "n.",
+   "english": "socks"
+  },
+  {
+   "id": 1760,
+   "chinese": "外出",
+   "pinyin": "wàichū",
+   "part_of_speech": "v.",
+   "english": "to go out"
+  },
+  {
+   "id": 1761,
+   "chinese": "外套",
+   "pinyin": "wàitào",
+   "part_of_speech": "n.",
+   "english": "coat; jacket"
+  },
+  {
+   "id": 1762,
+   "chinese": "完全",
+   "pinyin": "wánquán",
+   "part_of_speech": "adj. / adv.",
+   "english": "complete; completely"
+  },
+  {
+   "id": 1763,
+   "chinese": "晚安",
+   "pinyin": "wǎn'ān",
+   "part_of_speech": "v.",
+   "english": "to say good night; good night"
+  },
+  {
+   "id": 1764,
+   "chinese": "晚餐",
+   "pinyin": "wǎncān",
+   "part_of_speech": "n.",
+   "english": "dinner; evening meal"
+  },
+  {
+   "id": 1765,
+   "chinese": "网购",
+   "pinyin": "wǎnggòu",
+   "part_of_speech": "v.",
+   "english": "to shop online"
+  },
+  {
+   "id": 1766,
+   "chinese": "往往",
+   "pinyin": "wǎngwǎng",
+   "part_of_speech": "adv.",
+   "english": "often; frequently"
+  },
+  {
+   "id": 1767,
+   "chinese": "网页",
+   "pinyin": "wǎngyè",
+   "part_of_speech": "n.",
+   "english": "webpage"
+  },
+  {
+   "id": 1768,
+   "chinese": "网友",
+   "pinyin": "wǎngyǒu",
+   "part_of_speech": "n.",
+   "english": "online friend"
+  },
+  {
+   "id": 1769,
+   "chinese": "网址",
+   "pinyin": "wǎngzhǐ",
+   "part_of_speech": "n.",
+   "english": "website address; URL"
+  },
+  {
+   "id": 1770,
+   "chinese": "危险",
+   "pinyin": "wēixiǎn",
+   "part_of_speech": "adj. / n.",
+   "english": "dangerous; danger"
+  },
+  {
+   "id": 1771,
+   "chinese": "为",
+   "pinyin": "wéi",
+   "part_of_speech": "v.",
+   "english": "to be; act as"
+  },
+  {
+   "id": 1772,
+   "chinese": "味",
+   "pinyin": "wèi",
+   "part_of_speech": "n.",
+   "english": "taste; flavor"
+  },
+  {
+   "id": 1773,
+   "chinese": "味道",
+   "pinyin": "wèidào",
+   "part_of_speech": "n.",
+   "english": "taste; flavor"
+  },
+  {
+   "id": 1774,
+   "chinese": "卫生",
+   "pinyin": "wèishēng",
+   "part_of_speech": "adj. / n.",
+   "english": "hygienic; sanitation"
+  },
+  {
+   "id": 1775,
+   "chinese": "温度",
+   "pinyin": "wēndù",
+   "part_of_speech": "n.",
+   "english": "temperature"
+  },
+  {
+   "id": 1776,
+   "chinese": "闻",
+   "pinyin": "wén",
+   "part_of_speech": "v.",
+   "english": "to smell; hear of"
+  },
+  {
+   "id": 1777,
+   "chinese": "文件",
+   "pinyin": "wénjiàn",
+   "part_of_speech": "n.",
+   "english": "file; document"
+  },
+  {
+   "id": 1778,
+   "chinese": "文章",
+   "pinyin": "wénzhāng",
+   "part_of_speech": "n.",
+   "english": "article; essay"
+  },
+  {
+   "id": 1779,
+   "chinese": "文字",
+   "pinyin": "wénzì",
+   "part_of_speech": "n.",
+   "english": "written language; characters"
+  },
+  {
+   "id": 1780,
+   "chinese": "污染",
+   "pinyin": "wūrǎn",
+   "part_of_speech": "v.",
+   "english": "to pollute; pollution"
+  },
+  {
+   "id": 1781,
+   "chinese": "无",
+   "pinyin": "wú",
+   "part_of_speech": "v.",
+   "english": "to have no; without"
+  },
+  {
+   "id": 1782,
+   "chinese": "无法",
+   "pinyin": "wúfǎ",
+   "part_of_speech": "v.",
+   "english": "unable to; cannot"
+  },
+  {
+   "id": 1783,
+   "chinese": "无聊",
+   "pinyin": "wúliáo",
+   "part_of_speech": "adj.",
+   "english": "boring"
+  },
+  {
+   "id": 1784,
+   "chinese": "无论",
+   "pinyin": "wúlùn",
+   "part_of_speech": "conj.",
+   "english": "regardless of; no matter"
+  },
+  {
+   "id": 1785,
+   "chinese": "午餐",
+   "pinyin": "wǔcān",
+   "part_of_speech": "n.",
+   "english": "lunch"
+  },
+  {
+   "id": 1786,
+   "chinese": "误会",
+   "pinyin": "wùhuì",
+   "part_of_speech": "v. / n.",
+   "english": "to misunderstand; misunderstanding"
+  },
+  {
+   "id": 1787,
+   "chinese": "吸",
+   "pinyin": "xī",
+   "part_of_speech": "v.",
+   "english": "to inhale; suck"
+  },
+  {
+   "id": 1788,
+   "chinese": "西部",
+   "pinyin": "xībù",
+   "part_of_speech": "n.",
+   "english": "western part"
+  },
+  {
+   "id": 1789,
+   "chinese": "西红柿",
+   "pinyin": "xīhóngshì",
+   "part_of_speech": "n.",
+   "english": "tomato"
+  },
+  {
+   "id": 1790,
+   "chinese": "吸引",
+   "pinyin": "xīyǐn",
+   "part_of_speech": "v.",
+   "english": "to attract"
+  },
+  {
+   "id": 1791,
+   "chinese": "细",
+   "pinyin": "xì",
+   "part_of_speech": "adj.",
+   "english": "thin; fine; detailed"
+  },
+  {
+   "id": 1792,
+   "chinese": "细心",
+   "pinyin": "xìxīn",
+   "part_of_speech": "adj.",
+   "english": "careful; attentive"
+  },
+  {
+   "id": 1793,
+   "chinese": "下降",
+   "pinyin": "xiàjiàng",
+   "part_of_speech": "v.",
+   "english": "to decline; decrease"
+  },
+  {
+   "id": 1794,
+   "chinese": "鲜",
+   "pinyin": "xiān",
+   "part_of_speech": "adj.",
+   "english": "fresh"
+  },
+  {
+   "id": 1795,
+   "chinese": "鲜花",
+   "pinyin": "xiānhuā",
+   "part_of_speech": "n.",
+   "english": "fresh flowers"
+  },
+  {
+   "id": 1796,
+   "chinese": "咸",
+   "pinyin": "xián",
+   "part_of_speech": "adj.",
+   "english": "salty"
+  },
+  {
+   "id": 1797,
+   "chinese": "现金",
+   "pinyin": "xiànjīn",
+   "part_of_speech": "n.",
+   "english": "cash"
+  },
+  {
+   "id": 1798,
+   "chinese": "羡慕",
+   "pinyin": "xiànmù",
+   "part_of_speech": "v.",
+   "english": "to envy; admire"
+  },
+  {
+   "id": 1799,
+   "chinese": "线上",
+   "pinyin": "xiànshàng",
+   "part_of_speech": "n.",
+   "english": "online"
+  },
+  {
+   "id": 1800,
+   "chinese": "线下",
+   "pinyin": "xiànxià",
+   "part_of_speech": "n.",
+   "english": "offline; in person"
+  },
+  {
+   "id": 1801,
+   "chinese": "现有",
+   "pinyin": "xiànyǒu",
+   "part_of_speech": "v. / adj.",
+   "english": "existing; currently available"
+  },
+  {
+   "id": 1802,
+   "chinese": "香",
+   "pinyin": "xiāng",
+   "part_of_speech": "adj.",
+   "english": "fragrant; delicious-smelling"
+  },
+  {
+   "id": 1803,
+   "chinese": "相比",
+   "pinyin": "xiāngbǐ",
+   "part_of_speech": "v.",
+   "english": "to compare with"
+  },
+  {
+   "id": 1804,
+   "chinese": "相反",
+   "pinyin": "xiāngfǎn",
+   "part_of_speech": "adj. / conj.",
+   "english": "opposite; on the contrary"
+  },
+  {
+   "id": 1805,
+   "chinese": "相互",
+   "pinyin": "xiānghù",
+   "part_of_speech": "adv.",
+   "english": "mutually; each other"
+  },
+  {
+   "id": 1806,
+   "chinese": "相同",
+   "pinyin": "xiāngtóng",
+   "part_of_speech": "adj.",
+   "english": "same; identical"
+  },
+  {
+   "id": 1807,
+   "chinese": "详细",
+   "pinyin": "xiángxì",
+   "part_of_speech": "adj.",
+   "english": "detailed"
+  },
+  {
+   "id": 1808,
+   "chinese": "响",
+   "pinyin": "xiǎng",
+   "part_of_speech": "v. / adj.",
+   "english": "to sound; ring; loud"
+  },
+  {
+   "id": 1809,
+   "chinese": "想法",
+   "pinyin": "xiǎngfǎ",
+   "part_of_speech": "n.",
+   "english": "idea; thought"
+  },
+  {
+   "id": 1810,
+   "chinese": "项",
+   "pinyin": "xiàng",
+   "part_of_speech": "mw.",
+   "english": "item; project"
+  },
+  {
+   "id": 1811,
+   "chinese": "消息",
+   "pinyin": "xiāoxi",
+   "part_of_speech": "n.",
+   "english": "news; message"
+  },
+  {
+   "id": 1812,
+   "chinese": "小吃",
+   "pinyin": "xiǎochī",
+   "part_of_speech": "n.",
+   "english": "snack; local food"
+  },
+  {
+   "id": 1813,
+   "chinese": "小伙子",
+   "pinyin": "xiǎohuǒzi",
+   "part_of_speech": "n.",
+   "english": "young man"
+  },
+  {
+   "id": 1814,
+   "chinese": "小说",
+   "pinyin": "xiǎoshuō",
+   "part_of_speech": "n.",
+   "english": "novel; fiction"
+  },
+  {
+   "id": 1815,
+   "chinese": "小组",
+   "pinyin": "xiǎozǔ",
+   "part_of_speech": "n.",
+   "english": "small group; team"
+  },
+  {
+   "id": 1816,
+   "chinese": "效果",
+   "pinyin": "xiàoguǒ",
+   "part_of_speech": "n.",
+   "english": "effect; result"
+  },
+  {
+   "id": 1817,
+   "chinese": "笑话",
+   "pinyin": "xiàohua",
+   "part_of_speech": "n. / v.",
+   "english": "joke; to joke"
+  },
+  {
+   "id": 1818,
+   "chinese": "血",
+   "pinyin": "xiě",
+   "part_of_speech": "n.",
+   "english": "blood"
+  },
+  {
+   "id": 1819,
+   "chinese": "心",
+   "pinyin": "xīn",
+   "part_of_speech": "n.",
+   "english": "heart; mind"
+  },
+  {
+   "id": 1820,
+   "chinese": "辛苦",
+   "pinyin": "xīnkǔ",
+   "part_of_speech": "adj. / v.",
+   "english": "hard; tiring; to work hard"
+  },
+  {
+   "id": 1821,
+   "chinese": "心情",
+   "pinyin": "xīnqíng",
+   "part_of_speech": "n.",
+   "english": "mood; feeling"
+  },
+  {
+   "id": 1822,
+   "chinese": "信号",
+   "pinyin": "xìnhào",
+   "part_of_speech": "n.",
+   "english": "signal"
+  },
+  {
+   "id": 1823,
+   "chinese": "信息",
+   "pinyin": "xìnxī",
+   "part_of_speech": "n.",
+   "english": "information"
+  },
+  {
+   "id": 1824,
+   "chinese": "信心",
+   "pinyin": "xìnxīn",
+   "part_of_speech": "n.",
+   "english": "confidence"
+  },
+  {
+   "id": 1825,
+   "chinese": "兴奋",
+   "pinyin": "xīngfèn",
+   "part_of_speech": "adj. / v.",
+   "english": "excited; to become excited"
+  },
+  {
+   "id": 1826,
+   "chinese": "星星",
+   "pinyin": "xīngxing",
+   "part_of_speech": "n.",
+   "english": "star"
+  },
+  {
+   "id": 1827,
+   "chinese": "醒",
+   "pinyin": "xǐng",
+   "part_of_speech": "v.",
+   "english": "to wake up"
+  },
+  {
+   "id": 1828,
+   "chinese": "性",
+   "pinyin": "xìng",
+   "part_of_speech": "suffix",
+   "english": "-nature; -ness suffix"
+  },
+  {
+   "id": 1829,
+   "chinese": "性别",
+   "pinyin": "xìngbié",
+   "part_of_speech": "n.",
+   "english": "sex; gender"
+  },
+  {
+   "id": 1830,
+   "chinese": "幸福",
+   "pinyin": "xìngfú",
+   "part_of_speech": "n. / adj.",
+   "english": "happiness; happy"
+  },
+  {
+   "id": 1831,
+   "chinese": "性格",
+   "pinyin": "xìnggé",
+   "part_of_speech": "n.",
+   "english": "personality; character"
+  },
+  {
+   "id": 1832,
+   "chinese": "兄弟",
+   "pinyin": "xiōngdì",
+   "part_of_speech": "n.",
+   "english": "brothers; siblings"
+  },
+  {
+   "id": 1833,
+   "chinese": "熊",
+   "pinyin": "xióng",
+   "part_of_speech": "n.",
+   "english": "bear"
+  },
+  {
+   "id": 1834,
+   "chinese": "修",
+   "pinyin": "xiū",
+   "part_of_speech": "v.",
+   "english": "to repair; fix"
+  },
+  {
+   "id": 1835,
+   "chinese": "修理",
+   "pinyin": "xiūlǐ",
+   "part_of_speech": "v.",
+   "english": "to repair"
+  },
+  {
+   "id": 1836,
+   "chinese": "许多",
+   "pinyin": "xǔduō",
+   "part_of_speech": "num.",
+   "english": "many; much"
+  },
+  {
+   "id": 1837,
+   "chinese": "学费",
+   "pinyin": "xuéfèi",
+   "part_of_speech": "n.",
+   "english": "tuition; school fees"
+  },
+  {
+   "id": 1838,
+   "chinese": "学院",
+   "pinyin": "xuéyuàn",
+   "part_of_speech": "n.",
+   "english": "college; institute"
+  },
+  {
+   "id": 1839,
+   "chinese": "压",
+   "pinyin": "yā",
+   "part_of_speech": "v.",
+   "english": "to press; push down"
+  },
+  {
+   "id": 1840,
+   "chinese": "压力",
+   "pinyin": "yālì",
+   "part_of_speech": "n.",
+   "english": "pressure"
+  },
+  {
+   "id": 1841,
+   "chinese": "牙膏",
+   "pinyin": "yágāo",
+   "part_of_speech": "n.",
+   "english": "toothpaste"
+  },
+  {
+   "id": 1842,
+   "chinese": "亚洲",
+   "pinyin": "Yàzhōu",
+   "part_of_speech": "n.",
+   "english": "Asia"
+  },
+  {
+   "id": 1843,
+   "chinese": "烟",
+   "pinyin": "yān",
+   "part_of_speech": "n.",
+   "english": "smoke; cigarette"
+  },
+  {
+   "id": 1844,
+   "chinese": "盐",
+   "pinyin": "yán",
+   "part_of_speech": "n.",
+   "english": "salt"
+  },
+  {
+   "id": 1845,
+   "chinese": "严格",
+   "pinyin": "yángé",
+   "part_of_speech": "adj. / v.",
+   "english": "strict; to be strict"
+  },
+  {
+   "id": 1846,
+   "chinese": "研究",
+   "pinyin": "yánjiū",
+   "part_of_speech": "v.",
+   "english": "to research; study"
+  },
+  {
+   "id": 1847,
+   "chinese": "研究生",
+   "pinyin": "yánjiūshēng",
+   "part_of_speech": "n.",
+   "english": "graduate student"
+  },
+  {
+   "id": 1848,
+   "chinese": "严重",
+   "pinyin": "yánzhòng",
+   "part_of_speech": "adj.",
+   "english": "serious; severe"
+  },
+  {
+   "id": 1849,
+   "chinese": "演",
+   "pinyin": "yǎn",
+   "part_of_speech": "v.",
+   "english": "to perform; act"
+  },
+  {
+   "id": 1850,
+   "chinese": "演唱",
+   "pinyin": "yǎnchàng",
+   "part_of_speech": "v.",
+   "english": "to sing; perform songs"
+  },
+  {
+   "id": 1851,
+   "chinese": "演出",
+   "pinyin": "yǎnchū",
+   "part_of_speech": "v.",
+   "english": "to perform; performance"
+  },
+  {
+   "id": 1852,
+   "chinese": "眼镜",
+   "pinyin": "yǎnjìng",
+   "part_of_speech": "n.",
+   "english": "glasses; eyeglasses"
+  },
+  {
+   "id": 1853,
+   "chinese": "眼前",
+   "pinyin": "yǎnqián",
+   "part_of_speech": "n.",
+   "english": "before one's eyes; at present"
+  },
+  {
+   "id": 1854,
+   "chinese": "演员",
+   "pinyin": "yǎnyuán",
+   "part_of_speech": "n.",
+   "english": "actor; performer"
+  },
+  {
+   "id": 1855,
+   "chinese": "阳光",
+   "pinyin": "yángguāng",
+   "part_of_speech": "n.",
+   "english": "sunshine; sunlight"
+  },
+  {
+   "id": 1856,
+   "chinese": "养成",
+   "pinyin": "yǎngchéng",
+   "part_of_speech": "v.",
+   "english": "to form; develop a habit"
+  },
+  {
+   "id": 1857,
+   "chinese": "样子",
+   "pinyin": "yàngzi",
+   "part_of_speech": "n.",
+   "english": "appearance; look"
+  },
+  {
+   "id": 1858,
+   "chinese": "邀请",
+   "pinyin": "yāoqǐng",
+   "part_of_speech": "v.",
+   "english": "to invite"
+  },
+  {
+   "id": 1859,
+   "chinese": "要是",
+   "pinyin": "yàoshi",
+   "part_of_speech": "conj.",
+   "english": "if; supposing"
+  },
+  {
+   "id": 1860,
+   "chinese": "钥匙",
+   "pinyin": "yàoshi",
+   "part_of_speech": "n.",
+   "english": "key"
+  },
+  {
+   "id": 1861,
+   "chinese": "也许",
+   "pinyin": "yěxǔ",
+   "part_of_speech": "adv.",
+   "english": "perhaps; maybe"
+  },
+  {
+   "id": 1862,
+   "chinese": "夜",
+   "pinyin": "yè",
+   "part_of_speech": "n. / mw.",
+   "english": "night"
+  },
+  {
+   "id": 1863,
+   "chinese": "夜晚",
+   "pinyin": "yèwǎn",
+   "part_of_speech": "n.",
+   "english": "nighttime; evening"
+  },
+  {
+   "id": 1864,
+   "chinese": "叶子",
+   "pinyin": "yèzi",
+   "part_of_speech": "n.",
+   "english": "leaf"
+  },
+  {
+   "id": 1865,
+   "chinese": "一切",
+   "pinyin": "yíqiè",
+   "part_of_speech": "pron.",
+   "english": "everything; all"
+  },
+  {
+   "id": 1866,
+   "chinese": "已",
+   "pinyin": "yǐ",
+   "part_of_speech": "adv.",
+   "english": "already"
+  },
+  {
+   "id": 1867,
+   "chinese": "以内",
+   "pinyin": "yǐnèi",
+   "part_of_speech": "n.",
+   "english": "within; less than"
+  },
+  {
+   "id": 1868,
+   "chinese": "意见",
+   "pinyin": "yìjiàn",
+   "part_of_speech": "n.",
+   "english": "opinion; suggestion"
+  },
+  {
+   "id": 1869,
+   "chinese": "一生",
+   "pinyin": "yìshēng",
+   "part_of_speech": "n.",
+   "english": "one's whole life"
+  },
+  {
+   "id": 1870,
+   "chinese": "艺术",
+   "pinyin": "yìshù",
+   "part_of_speech": "n.",
+   "english": "art"
+  },
+  {
+   "id": 1871,
+   "chinese": "因此",
+   "pinyin": "yīncǐ",
+   "part_of_speech": "conj.",
+   "english": "therefore; thus"
+  },
+  {
+   "id": 1872,
+   "chinese": "引起",
+   "pinyin": "yǐnqǐ",
+   "part_of_speech": "v.",
+   "english": "to cause; lead to"
+  },
+  {
+   "id": 1873,
+   "chinese": "印象",
+   "pinyin": "yìnxiàng",
+   "part_of_speech": "n.",
+   "english": "impression"
+  },
+  {
+   "id": 1874,
+   "chinese": "赢",
+   "pinyin": "yíng",
+   "part_of_speech": "v.",
+   "english": "to win"
+  },
+  {
+   "id": 1875,
+   "chinese": "赢得",
+   "pinyin": "yíngdé",
+   "part_of_speech": "v.",
+   "english": "to win; gain"
+  },
+  {
+   "id": 1876,
+   "chinese": "应聘",
+   "pinyin": "yìngpìn",
+   "part_of_speech": "v.",
+   "english": "to apply for a job"
+  },
+  {
+   "id": 1877,
+   "chinese": "勇敢",
+   "pinyin": "yǒnggǎn",
+   "part_of_speech": "adj.",
+   "english": "brave"
+  },
+  {
+   "id": 1878,
+   "chinese": "永远",
+   "pinyin": "yǒngyuǎn",
+   "part_of_speech": "adv. / n.",
+   "english": "forever; always"
+  },
+  {
+   "id": 1879,
+   "chinese": "用来",
+   "pinyin": "yònglái",
+   "part_of_speech": "v.",
+   "english": "to be used to; for the purpose of"
+  },
+  {
+   "id": 1880,
+   "chinese": "用于",
+   "pinyin": "yòngyú",
+   "part_of_speech": "v.",
+   "english": "to be used for"
+  },
+  {
+   "id": 1881,
+   "chinese": "优点",
+   "pinyin": "yōudiǎn",
+   "part_of_speech": "n.",
+   "english": "advantage; strong point"
+  },
+  {
+   "id": 1882,
+   "chinese": "幽默",
+   "pinyin": "yōumò",
+   "part_of_speech": "adj.",
+   "english": "humorous"
+  },
+  {
+   "id": 1883,
+   "chinese": "优秀",
+   "pinyin": "yōuxiù",
+   "part_of_speech": "adj.",
+   "english": "excellent; outstanding"
+  },
+  {
+   "id": 1884,
+   "chinese": "由",
+   "pinyin": "yóu",
+   "part_of_speech": "prep.",
+   "english": "by; from; due to"
+  },
+  {
+   "id": 1885,
+   "chinese": "油",
+   "pinyin": "yóu",
+   "part_of_speech": "n.",
+   "english": "oil"
+  },
+  {
+   "id": 1886,
+   "chinese": "尤其",
+   "pinyin": "yóuqí",
+   "part_of_speech": "adv.",
+   "english": "especially; particularly"
+  },
+  {
+   "id": 1887,
+   "chinese": "游玩",
+   "pinyin": "yóuwán",
+   "part_of_speech": "v.",
+   "english": "to go sightseeing; have fun"
+  },
+  {
+   "id": 1888,
+   "chinese": "由于",
+   "pinyin": "yóuyú",
+   "part_of_speech": "prep. / conj.",
+   "english": "because of; due to"
+  },
+  {
+   "id": 1889,
+   "chinese": "友好",
+   "pinyin": "yǒuhǎo",
+   "part_of_speech": "adj.",
+   "english": "friendly"
+  },
+  {
+   "id": 1890,
+   "chinese": "友情",
+   "pinyin": "yǒuqíng",
+   "part_of_speech": "n.",
+   "english": "friendship; affection between friends"
+  },
+  {
+   "id": 1891,
+   "chinese": "有趣",
+   "pinyin": "yǒuqù",
+   "part_of_speech": "adj.",
+   "english": "interesting"
+  },
+  {
+   "id": 1892,
+   "chinese": "有效",
+   "pinyin": "yǒuxiào",
+   "part_of_speech": "v.",
+   "english": "to be effective; valid"
+  },
+  {
+   "id": 1893,
+   "chinese": "友谊",
+   "pinyin": "yǒuyì",
+   "part_of_speech": "n.",
+   "english": "friendship"
+  },
+  {
+   "id": 1894,
+   "chinese": "有着",
+   "pinyin": "yǒuzhe",
+   "part_of_speech": "v.",
+   "english": "to have; possess"
+  },
+  {
+   "id": 1895,
+   "chinese": "愉快",
+   "pinyin": "yúkuài",
+   "part_of_speech": "adj.",
+   "english": "pleasant; happy"
+  },
+  {
+   "id": 1896,
+   "chinese": "于是",
+   "pinyin": "yúshì",
+   "part_of_speech": "conj.",
+   "english": "thereupon; therefore"
+  },
+  {
+   "id": 1897,
+   "chinese": "与",
+   "pinyin": "yǔ",
+   "part_of_speech": "prep. / conj.",
+   "english": "and; with"
+  },
+  {
+   "id": 1898,
+   "chinese": "语法",
+   "pinyin": "yǔfǎ",
+   "part_of_speech": "n.",
+   "english": "grammar"
+  },
+  {
+   "id": 1899,
+   "chinese": "预习",
+   "pinyin": "yùxí",
+   "part_of_speech": "v.",
+   "english": "to preview; prepare a lesson"
+  },
+  {
+   "id": 1900,
+   "chinese": "原来",
+   "pinyin": "yuánlái",
+   "part_of_speech": "n. / adj. / adv.",
+   "english": "originally; it turns out"
+  },
+  {
+   "id": 1901,
+   "chinese": "原谅",
+   "pinyin": "yuánliàng",
+   "part_of_speech": "v.",
+   "english": "to forgive"
+  },
+  {
+   "id": 1902,
+   "chinese": "原因",
+   "pinyin": "yuányīn",
+   "part_of_speech": "n.",
+   "english": "reason; cause"
+  },
+  {
+   "id": 1903,
+   "chinese": "远离",
+   "pinyin": "yuǎnlí",
+   "part_of_speech": "v.",
+   "english": "to stay away from"
+  },
+  {
+   "id": 1904,
+   "chinese": "院长",
+   "pinyin": "yuànzhǎng",
+   "part_of_speech": "n.",
+   "english": "dean; head of an institute"
+  },
+  {
+   "id": 1905,
+   "chinese": "院子",
+   "pinyin": "yuànzi",
+   "part_of_speech": "n.",
+   "english": "courtyard; yard"
+  },
+  {
+   "id": 1906,
+   "chinese": "约",
+   "pinyin": "yuē",
+   "part_of_speech": "v. / adv.",
+   "english": "to arrange; approximately"
+  },
+  {
+   "id": 1907,
+   "chinese": "约会",
+   "pinyin": "yuēhuì",
+   "part_of_speech": "v. / n.",
+   "english": "to date; appointment"
+  },
+  {
+   "id": 1908,
+   "chinese": "月饼",
+   "pinyin": "yuèbǐng",
+   "part_of_speech": "n.",
+   "english": "mooncake"
+  },
+  {
+   "id": 1909,
+   "chinese": "阅读",
+   "pinyin": "yuèdú",
+   "part_of_speech": "v.",
+   "english": "to read; reading"
+  },
+  {
+   "id": 1910,
+   "chinese": "月份",
+   "pinyin": "yuèfèn",
+   "part_of_speech": "n.",
+   "english": "month; month number"
+  },
+  {
+   "id": 1911,
+   "chinese": "云",
+   "pinyin": "yún",
+   "part_of_speech": "n.",
+   "english": "cloud"
+  },
+  {
+   "id": 1912,
+   "chinese": "允许",
+   "pinyin": "yǔnxǔ",
+   "part_of_speech": "v.",
+   "english": "to allow; permit"
+  },
+  {
+   "id": 1913,
+   "chinese": "杂志",
+   "pinyin": "zázhì",
+   "part_of_speech": "n.",
+   "english": "magazine"
+  },
+  {
+   "id": 1914,
+   "chinese": "再次",
+   "pinyin": "zàicì",
+   "part_of_speech": "adv.",
+   "english": "again; once more"
+  },
+  {
+   "id": 1915,
+   "chinese": "再说",
+   "pinyin": "zàishuō",
+   "part_of_speech": "v. / conj.",
+   "english": "to say later; besides"
+  },
+  {
+   "id": 1916,
+   "chinese": "暂时",
+   "pinyin": "zànshí",
+   "part_of_speech": "adj.",
+   "english": "temporary; for now"
+  },
+  {
+   "id": 1917,
+   "chinese": "暂停",
+   "pinyin": "zàntíng",
+   "part_of_speech": "v.",
+   "english": "to pause; suspend"
+  },
+  {
+   "id": 1918,
+   "chinese": "早餐",
+   "pinyin": "zǎocān",
+   "part_of_speech": "n.",
+   "english": "breakfast"
+  },
+  {
+   "id": 1919,
+   "chinese": "早晨",
+   "pinyin": "zǎochén",
+   "part_of_speech": "n.",
+   "english": "early morning"
+  },
+  {
+   "id": 1920,
+   "chinese": "责任",
+   "pinyin": "zérèn",
+   "part_of_speech": "n.",
+   "english": "responsibility"
+  },
+  {
+   "id": 1921,
+   "chinese": "增加",
+   "pinyin": "zēngjiā",
+   "part_of_speech": "v.",
+   "english": "to increase; add"
+  },
+  {
+   "id": 1922,
+   "chinese": "增长",
+   "pinyin": "zēngzhǎng",
+   "part_of_speech": "v.",
+   "english": "to grow; increase"
+  },
+  {
+   "id": 1923,
+   "chinese": "招聘",
+   "pinyin": "zhāopìn",
+   "part_of_speech": "v.",
+   "english": "to recruit"
+  },
+  {
+   "id": 1924,
+   "chinese": "着",
+   "pinyin": "zháo",
+   "part_of_speech": "v.",
+   "english": "to touch; catch; achieve"
+  },
+  {
+   "id": 1925,
+   "chinese": "着火",
+   "pinyin": "zháohuǒ",
+   "part_of_speech": "v.",
+   "english": "to catch fire"
+  },
+  {
+   "id": 1926,
+   "chinese": "者",
+   "pinyin": "zhě",
+   "part_of_speech": "part.",
+   "english": "person suffix; one who"
+  },
+  {
+   "id": 1927,
+   "chinese": "真正",
+   "pinyin": "zhēnzhèng",
+   "part_of_speech": "adj. / adv.",
+   "english": "real; truly"
+  },
+  {
+   "id": 1928,
+   "chinese": "整",
+   "pinyin": "zhěng",
+   "part_of_speech": "adj.",
+   "english": "whole; complete"
+  },
+  {
+   "id": 1929,
+   "chinese": "整个",
+   "pinyin": "zhěnggè",
+   "part_of_speech": "adj.",
+   "english": "whole; entire"
+  },
+  {
+   "id": 1930,
+   "chinese": "整理",
+   "pinyin": "zhěnglǐ",
+   "part_of_speech": "v.",
+   "english": "to organize; tidy up"
+  },
+  {
+   "id": 1931,
+   "chinese": "证",
+   "pinyin": "zhèng",
+   "part_of_speech": "n.",
+   "english": "certificate; proof"
+  },
+  {
+   "id": 1932,
+   "chinese": "正常",
+   "pinyin": "zhèngcháng",
+   "part_of_speech": "adj.",
+   "english": "normal"
+  },
+  {
+   "id": 1933,
+   "chinese": "正好",
+   "pinyin": "zhènghǎo",
+   "part_of_speech": "adj. / adv.",
+   "english": "just right; happen to"
+  },
+  {
+   "id": 1934,
+   "chinese": "证件",
+   "pinyin": "zhèngjiàn",
+   "part_of_speech": "n.",
+   "english": "certificate; ID document"
+  },
+  {
+   "id": 1935,
+   "chinese": "证明",
+   "pinyin": "zhèngmíng",
+   "part_of_speech": "v. / n.",
+   "english": "to prove; proof"
+  },
+  {
+   "id": 1936,
+   "chinese": "正确",
+   "pinyin": "zhèngquè",
+   "part_of_speech": "adj.",
+   "english": "correct"
+  },
+  {
+   "id": 1937,
+   "chinese": "正式",
+   "pinyin": "zhèngshì",
+   "part_of_speech": "adj.",
+   "english": "formal; official"
+  },
+  {
+   "id": 1938,
+   "chinese": "之",
+   "pinyin": "zhī",
+   "part_of_speech": "part.",
+   "english": "structural particle; of"
+  },
+  {
+   "id": 1939,
+   "chinese": "支持",
+   "pinyin": "zhīchí",
+   "part_of_speech": "v.",
+   "english": "to support"
+  },
+  {
+   "id": 1940,
+   "chinese": "支付",
+   "pinyin": "zhīfù",
+   "part_of_speech": "v.",
+   "english": "to pay; payment"
+  },
+  {
+   "id": 1941,
+   "chinese": "之后",
+   "pinyin": "zhīhòu",
+   "part_of_speech": "n.",
+   "english": "after; afterwards"
+  },
+  {
+   "id": 1942,
+   "chinese": "之间",
+   "pinyin": "zhījiān",
+   "part_of_speech": "n.",
+   "english": "between; among"
+  },
+  {
+   "id": 1943,
+   "chinese": "之前",
+   "pinyin": "zhīqián",
+   "part_of_speech": "n.",
+   "english": "before; prior to"
+  },
+  {
+   "id": 1944,
+   "chinese": "知识",
+   "pinyin": "zhīshi",
+   "part_of_speech": "n.",
+   "english": "knowledge"
+  },
+  {
+   "id": 1945,
+   "chinese": "之中",
+   "pinyin": "zhīzhōng",
+   "part_of_speech": "n.",
+   "english": "within; among"
+  },
+  {
+   "id": 1946,
+   "chinese": "值",
+   "pinyin": "zhí",
+   "part_of_speech": "v. / adj.",
+   "english": "to be worth; value"
+  },
+  {
+   "id": 1947,
+   "chinese": "值得",
+   "pinyin": "zhíde",
+   "part_of_speech": "v.",
+   "english": "to be worth; worthwhile"
+  },
+  {
+   "id": 1948,
+   "chinese": "直接",
+   "pinyin": "zhíjiē",
+   "part_of_speech": "adj.",
+   "english": "direct; directly"
+  },
+  {
+   "id": 1949,
+   "chinese": "植物",
+   "pinyin": "zhíwù",
+   "part_of_speech": "n.",
+   "english": "plant"
+  },
+  {
+   "id": 1950,
+   "chinese": "职业",
+   "pinyin": "zhíyè",
+   "part_of_speech": "n.",
+   "english": "occupation; profession"
+  },
+  {
+   "id": 1951,
+   "chinese": "指",
+   "pinyin": "zhǐ",
+   "part_of_speech": "v.",
+   "english": "to point; indicate"
+  },
+  {
+   "id": 1952,
+   "chinese": "指出",
+   "pinyin": "zhǐchū",
+   "part_of_speech": "v.",
+   "english": "to point out"
+  },
+  {
+   "id": 1953,
+   "chinese": "只好",
+   "pinyin": "zhǐhǎo",
+   "part_of_speech": "adv.",
+   "english": "have no choice but to"
+  },
+  {
+   "id": 1954,
+   "chinese": "纸巾",
+   "pinyin": "zhǐjīn",
+   "part_of_speech": "n.",
+   "english": "tissue; paper towel"
+  },
+  {
+   "id": 1955,
+   "chinese": "质量",
+   "pinyin": "zhìliàng",
+   "part_of_speech": "n.",
+   "english": "quality"
+  },
+  {
+   "id": 1956,
+   "chinese": "至少",
+   "pinyin": "zhìshǎo",
+   "part_of_speech": "adv.",
+   "english": "at least"
+  },
+  {
+   "id": 1957,
+   "chinese": "中餐",
+   "pinyin": "zhōngcān",
+   "part_of_speech": "n.",
+   "english": "Chinese food; Chinese meal"
+  },
+  {
+   "id": 1958,
+   "chinese": "中年",
+   "pinyin": "zhōngnián",
+   "part_of_speech": "n.",
+   "english": "middle age"
+  },
+  {
+   "id": 1959,
+   "chinese": "种",
+   "pinyin": "zhòng",
+   "part_of_speech": "v.",
+   "english": "to plant; grow"
+  },
+  {
+   "id": 1960,
+   "chinese": "重",
+   "pinyin": "zhòng",
+   "part_of_speech": "n. / adj.",
+   "english": "heavy; weight"
+  },
+  {
+   "id": 1961,
+   "chinese": "重点",
+   "pinyin": "zhòngdiǎn",
+   "part_of_speech": "n. / adv.",
+   "english": "key point; focus"
+  },
+  {
+   "id": 1962,
+   "chinese": "重视",
+   "pinyin": "zhòngshì",
+   "part_of_speech": "v.",
+   "english": "to value; attach importance to"
+  },
+  {
+   "id": 1963,
+   "chinese": "周围",
+   "pinyin": "zhōuwéi",
+   "part_of_speech": "n.",
+   "english": "surroundings; around"
+  },
+  {
+   "id": 1964,
+   "chinese": "主意",
+   "pinyin": "zhǔyi",
+   "part_of_speech": "n.",
+   "english": "idea; plan"
+  },
+  {
+   "id": 1965,
+   "chinese": "祝",
+   "pinyin": "zhù",
+   "part_of_speech": "v.",
+   "english": "to wish"
+  },
+  {
+   "id": 1966,
+   "chinese": "祝贺",
+   "pinyin": "zhùhè",
+   "part_of_speech": "v.",
+   "english": "to congratulate"
+  },
+  {
+   "id": 1967,
+   "chinese": "著名",
+   "pinyin": "zhùmíng",
+   "part_of_speech": "adj.",
+   "english": "famous; well-known"
+  },
+  {
+   "id": 1968,
+   "chinese": "专门",
+   "pinyin": "zhuānmén",
+   "part_of_speech": "adv. / adj.",
+   "english": "specially; specialized"
+  },
+  {
+   "id": 1969,
+   "chinese": "专业",
+   "pinyin": "zhuānyè",
+   "part_of_speech": "n. / adj.",
+   "english": "major; profession; professional"
+  },
+  {
+   "id": 1970,
+   "chinese": "转",
+   "pinyin": "zhuǎn",
+   "part_of_speech": "v.",
+   "english": "to turn; change direction"
+  },
+  {
+   "id": 1971,
+   "chinese": "转发",
+   "pinyin": "zhuǎnfā",
+   "part_of_speech": "v.",
+   "english": "to forward; repost"
+  },
+  {
+   "id": 1972,
+   "chinese": "转机",
+   "pinyin": "zhuǎnjī",
+   "part_of_speech": "v.",
+   "english": "to transfer; change planes"
+  },
+  {
+   "id": 1973,
+   "chinese": "赚",
+   "pinyin": "zhuàn",
+   "part_of_speech": "v.",
+   "english": "to earn; make money"
+  },
+  {
+   "id": 1974,
+   "chinese": "装",
+   "pinyin": "zhuāng",
+   "part_of_speech": "v.",
+   "english": "to install; dress; pack"
+  },
+  {
+   "id": 1975,
+   "chinese": "准",
+   "pinyin": "zhǔn",
+   "part_of_speech": "adj.",
+   "english": "accurate; exact"
+  },
+  {
+   "id": 1976,
+   "chinese": "准确",
+   "pinyin": "zhǔnquè",
+   "part_of_speech": "adj.",
+   "english": "accurate; precise"
+  },
+  {
+   "id": 1977,
+   "chinese": "准时",
+   "pinyin": "zhǔnshí",
+   "part_of_speech": "adj.",
+   "english": "on time; punctual"
+  },
+  {
+   "id": 1978,
+   "chinese": "资料",
+   "pinyin": "zīliào",
+   "part_of_speech": "n.",
+   "english": "materials; data"
+  },
+  {
+   "id": 1979,
+   "chinese": "仔细",
+   "pinyin": "zǐxì",
+   "part_of_speech": "adj.",
+   "english": "careful; attentive"
+  },
+  {
+   "id": 1980,
+   "chinese": "自",
+   "pinyin": "zì",
+   "part_of_speech": "prep.",
+   "english": "from; since"
+  },
+  {
+   "id": 1981,
+   "chinese": "自然",
+   "pinyin": "zìrán",
+   "part_of_speech": "n. / adj. / adv.",
+   "english": "nature; natural; naturally"
+  },
+  {
+   "id": 1982,
+   "chinese": "自习",
+   "pinyin": "zìxí",
+   "part_of_speech": "v.",
+   "english": "to study by oneself; self-study session"
+  },
+  {
+   "id": 1983,
+   "chinese": "自信",
+   "pinyin": "zìxìn",
+   "part_of_speech": "v. / n. / adj.",
+   "english": "confidence; confident; to be confident"
+  },
+  {
+   "id": 1984,
+   "chinese": "自学",
+   "pinyin": "zìxué",
+   "part_of_speech": "v.",
+   "english": "to study independently"
+  },
+  {
+   "id": 1985,
+   "chinese": "总结",
+   "pinyin": "zǒngjié",
+   "part_of_speech": "v. / n.",
+   "english": "to summarize; summary"
+  },
+  {
+   "id": 1986,
+   "chinese": "租",
+   "pinyin": "zū",
+   "part_of_speech": "v.",
+   "english": "to rent"
+  },
+  {
+   "id": 1987,
+   "chinese": "组",
+   "pinyin": "zǔ",
+   "part_of_speech": "n.",
+   "english": "group; team"
+  },
+  {
+   "id": 1988,
+   "chinese": "最终",
+   "pinyin": "zuìzhōng",
+   "part_of_speech": "n.",
+   "english": "final; ultimately"
+  },
+  {
+   "id": 1989,
+   "chinese": "尊重",
+   "pinyin": "zūnzhòng",
+   "part_of_speech": "v. / adj.",
+   "english": "to respect; respectful"
+  },
+  {
+   "id": 1990,
+   "chinese": "左右",
+   "pinyin": "zuǒyòu",
+   "part_of_speech": "n.",
+   "english": "about; approximately; left and right"
+  },
+  {
+   "id": 1991,
+   "chinese": "座",
+   "pinyin": "zuò",
+   "part_of_speech": "n. / mw.",
+   "english": "seat; measure word for buildings"
+  },
+  {
+   "id": 1992,
+   "chinese": "做法",
+   "pinyin": "zuòfǎ",
+   "part_of_speech": "n.",
+   "english": "way of doing; method"
+  },
+  {
+   "id": 1993,
+   "chinese": "作家",
+   "pinyin": "zuòjiā",
+   "part_of_speech": "n.",
+   "english": "writer; author"
+  },
+  {
+   "id": 1994,
+   "chinese": "做梦",
+   "pinyin": "zuòmèng",
+   "part_of_speech": "v.",
+   "english": "to dream"
+  },
+  {
+   "id": 1995,
+   "chinese": "作品",
+   "pinyin": "zuòpǐn",
+   "part_of_speech": "n.",
+   "english": "work; piece of work"
+  },
+  {
+   "id": 1996,
+   "chinese": "作为",
+   "pinyin": "zuòwéi",
+   "part_of_speech": "v. / prep.",
+   "english": "to act as; as"
+  },
+  {
+   "id": 1997,
+   "chinese": "座位",
+   "pinyin": "zuòwèi",
+   "part_of_speech": "n.",
+   "english": "seat"
+  },
+  {
+   "id": 1998,
+   "chinese": "作文",
+   "pinyin": "zuòwén",
+   "part_of_speech": "v. / n.",
+   "english": "to write a composition; composition; essay"
+  },
+  {
+   "id": 1999,
+   "chinese": "作用",
+   "pinyin": "zuòyòng",
+   "part_of_speech": "n.",
+   "english": "function; effect; role"
+  },
+  {
+   "id": 2000,
+   "chinese": "作者",
+   "pinyin": "zuòzhě",
+   "part_of_speech": "n.",
+   "english": "author"
+  }
+ ]
+}

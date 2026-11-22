@@ -27,6 +27,13 @@
       "type": "hsk",
       "sent_at": "2026-11-21T23:21:28+05:00",
       "message_id": 25
+    },
+    {
+      "id": "2026-11-22-pm-chengyu",
+      "hanzi": "画蛇添足",
+      "type": "chengyu",
+      "sent_at": "2026-11-22T10:43:05+05:00",
+      "message_id": 30
     }
   ]
 }

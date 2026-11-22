@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Cloudflare Workers AI (FLUX.1 schnell) orqali Doggy illyustratsiyalarini yasaydi.
 
-python3 scripts/gen_doggy.py --ids hsk1-005,hsk1-006   yoki   --range 5-14
+python3 scripts/gen_doggy.py --ids hsk1-005,hsk1-006   yoki   --range 5-14   yoki   --range hsk2:301-400
 Natija: assets/doggy/raw/<id>.jpg  (mavjud bo'lsa o'tkazib yuboriladi, --force bilan qayta yasaydi)
 Secrets: CF_ACCOUNT_ID, CF_API_TOKEN
 """
@@ -50,8 +50,9 @@ def main():
         print("::error::CF_ACCOUNT_ID yoki CF_API_TOKEN yo'q"); sys.exit(1)
     ids = [i.strip() for i in a.ids.split(",") if i.strip()]
     if a.range:
-        lo, hi = (int(x) for x in a.range.split("-"))
-        ids += [f"hsk1-{n:03d}" for n in range(lo, hi + 1)]
+        pre, rng = a.range.split(":", 1) if ":" in a.range else ("hsk1", a.range)
+        lo, hi = (int(x) for x in rng.split("-"))
+        ids += [f"{pre.strip()}-{n:03d}" for n in range(lo, hi + 1)]
     cards_path = os.path.join(ROOT, "data", "cards.json")
     cards = json.load(open(cards_path, encoding="utf-8")) if os.path.exists(cards_path) else []
     cards = cards.get("cards", cards) if isinstance(cards, dict) else cards

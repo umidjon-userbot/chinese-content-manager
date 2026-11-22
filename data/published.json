@@ -34,6 +34,13 @@
       "type": "chengyu",
       "sent_at": "2026-11-22T10:43:05+05:00",
       "message_id": 30
+    },
+    {
+      "id": "2026-11-22-am-hsk",
+      "hanzi": "机会",
+      "type": "hsk",
+      "sent_at": "2026-11-22T10:43:36+05:00",
+      "message_id": 31
     }
   ]
 }

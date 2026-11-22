@@ -97,9 +97,12 @@
       ],
       "text_override": null,
       "scheduled_at": "2026-11-20T23:56:00+05:00",
-      "status": "Draft",
+      "status": "Published",
       "created_at": "2026-11-20T23:30:00+05:00",
-      "updated_at": "2026-11-21T08:48:13+00:00"
+      "updated_at": "2026-11-21T08:48:13+00:00",
+      "published_at": "2026-11-22T10:43:36+05:00",
+      "message_id": 31,
+      "status_updated_at": "2026-11-22T10:43:35+05:00"
     },
     {
       "id": "2026-11-22-pm-chengyu",

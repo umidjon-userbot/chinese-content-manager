@@ -160,6 +160,13 @@
       "type": "culture",
       "sent_at": "2026-11-23T21:17:25+05:00",
       "message_id": 57
+    },
+    {
+      "id": "2026-11-23-am-characters",
+      "hanzi": "休",
+      "type": "characters",
+      "sent_at": "2026-11-23T21:22:53+05:00",
+      "message_id": 58
     }
   ]
 }

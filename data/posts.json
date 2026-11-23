@@ -571,10 +571,13 @@
       ],
       "text_override": null,
       "scheduled_at": "2026-11-23T10:00:00+05:00",
-      "status": "Scheduled",
+      "status": "Published",
       "created_at": "2026-11-20T23:30:00+05:00",
       "updated_at": "2026-11-22T21:41:18+05:00",
-      "image": null
+      "image": null,
+      "published_at": "2026-11-23T21:22:53+05:00",
+      "message_id": 58,
+      "status_updated_at": "2026-11-23T21:22:52+05:00"
     },
     {
       "id": "hsk2-301",

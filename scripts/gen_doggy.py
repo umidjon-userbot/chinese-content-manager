@@ -61,6 +61,7 @@ def main():
     scenes = json.load(open(scenes_path, encoding="utf-8")) if os.path.exists(scenes_path) else {}
     out = os.path.join(ROOT, "assets", "doggy", "raw"); os.makedirs(out, exist_ok=True)
     done = fail = 0
+    limit_hit = False
     for pid in ids:
         if done >= a.max:
             print("Limit yetdi, qolganlari keyingi safar"); break
@@ -77,8 +78,16 @@ def main():
         except Exception as e:  # noqa
             fail += 1; print(f"::warning::{pid}: {e}")
             if "10000" in str(e) or "neuron" in str(e).lower() or "4006" in str(e):
-                print("Kunlik limit tugadi"); break
+                print("Kunlik limit tugadi"); limit_hit = True; break
     print(f"Tayyor: {done}, xato: {fail}")
+    if fail:
+        try:
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            from notify import notify
+            why = "Cloudflare kunlik bepul limiti tugagan" if limit_hit else f"{fail} ta rasmda xato"
+            notify(f"Doggy rasmlari: {done} ta tayyor, {why}. Qolganlari keyingi safar.")
+        except Exception:  # noqa
+            pass
     sys.exit(1 if fail and not done else 0)
 
 

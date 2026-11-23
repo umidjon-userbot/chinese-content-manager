@@ -188,4 +188,20 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit as e:
+        if e.code not in (0, None):
+            try:
+                from notify import notify
+                notify("Kunlik quiz yuborilmadi (xato kodi " + str(e.code) + "). Actions logini tekshiring.")
+            except Exception:  # noqa
+                pass
+        raise
+    except Exception as e:  # noqa
+        try:
+            from notify import notify
+            notify("Kunlik quiz yuborishda xato: " + str(e).replace(os.environ.get("TELEGRAM_BOT_TOKEN", "") or "\0", "***")[:500])
+        except Exception:  # noqa
+            pass
+        raise

@@ -411,6 +411,27 @@ def apply_result(result):
     return changed
 
 
+def alert_admin(result, prev_expired):
+    """Muammo bo'lsa kanal egasiga shaxsiy xabar (notify.py)."""
+    lines = []
+    if not result["secrets_ok"] or result["bot_ok"] is False or result["channel_ok"] is False:
+        lines.append("❌ " + (result.get("message") or "Bot/kanal tekshiruvi o'tmadi"))
+    for f in result["failed"]:
+        lines.append(f"❌ {f['id']} yuborilmadi: {f['error'][:200]}")
+    new_exp = [e for e in result["expired"] if e not in prev_expired]
+    if new_exp:
+        lines.append(f"⏰ Vaqti o'tib ketgan (12 soatdan ko'p), yuborilmagan: {', '.join(new_exp[:15])}"
+                     + (f" va yana {len(new_exp) - 15} ta" if len(new_exp) > 15 else ""))
+    if not lines:
+        return
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from notify import notify
+        notify("Post yuborishda muammo:\n" + "\n".join(lines), _TOKEN or None)
+    except Exception as e:  # noqa
+        log(f"::warning::admin xabari: {redact(str(e))}")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--dry-run", action="store_true", help="hech narsa yubormaydi")
@@ -431,6 +452,9 @@ def main():
         log('::error::Post ID noto\'g\'ri formatda')
         return 1
     result = run(args.dry_run, pid)
+    prev_expired = set((load_json(STATUS_F, {}) or {}).get("expired") or [])
+    if not args.dry_run:
+        alert_admin(result, prev_expired)
     if args.result_out:
         with open(args.result_out, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False)

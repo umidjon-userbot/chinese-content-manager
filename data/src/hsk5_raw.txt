@@ -1,0 +1,1600 @@
+2001|哎|āi|interj.|hey; oh
+2002|哎呀|āiyā|interj.|oh!; wow
+2003|唉|ài|interj.|sigh; alas
+2004|爱护|àihù|v.|to cherish; take care of
+2005|安|ān|adj. / v.|safe; to settle; install
+2006|安全带|ānquándài|n.|seat belt
+2007|安慰|ānwèi|v. / adj.|to comfort; comforting
+2008|安装|ānzhuāng|v.|to install
+2009|暗|àn|adj.|dark
+2010|熬夜|áoyè|v.|to stay up late
+2011|把握|bǎwò|v. / n.|to grasp; confidence
+2012|白|bái|adj. / adv.|white; in vain
+2013|半夜|bànyè|num.-mw. / n.|midnight; middle of the night
+2014|傍晚|bàngwǎn|n.|evening; dusk
+2015|包裹|bāoguǒ|v. / n.|to wrap; package
+2016|包含|bāohán|v.|to contain; include
+2017|包括|bāokuò|v.|to include
+2018|包装|bāozhuāng|v. / n.|to package; packaging
+2019|薄|báo|adj.|thin
+2020|宝|bǎo|n.|treasure; precious thing
+2021|保|bǎo|v. / n.|to protect; keep; insurance
+2022|保安|bǎo'ān|v. / n.|security guard; security
+2023|宝贝|bǎobèi|n.|darling; baby; treasure
+2024|保持|bǎochí|v.|to maintain; keep
+2025|保存|bǎocún|v.|to preserve; save
+2026|宝贵|bǎoguì|adj.|valuable; precious
+2027|保留|bǎoliú|v.|to retain; keep
+2028|保险|bǎoxiǎn|n. / adj.|insurance; safe
+2029|保质期|bǎozhìqī|n.|shelf life
+2030|报到|bàodào|v.|to report for duty; check in
+2031|报道|bàodào|v. / n.|to report; report
+2032|报告|bàogào|v. / n.|to report; report/document
+2033|报警|bàojǐng|v.|to call the police
+2034|暴雨|bàoyǔ|n.|rainstorm; torrential rain
+2035|抱怨|bàoyuàn|v.|to complain
+2036|背|bèi|n. / v. / adj.|back; to recite from memory
+2037|背后|bèihòu|n.|behind; background side
+2038|背景|bèijǐng|n.|background; context
+2039|被子|bèizi|n.|quilt; blanket
+2040|本|běn|adv. / pron.|this; originally
+2041|本地|běndì|n.|local; locality
+2042|本领|běnlǐng|n.|skill; ability
+2043|本人|běnrén|pron.|oneself; personally
+2044|本质|běnzhì|n.|nature; essence
+2045|彼此|bǐcǐ|pron.|each other; one another
+2046|比分|bǐfēn|n.|score; match score
+2047|比例|bǐlì|n.|proportion; ratio
+2048|比喻|bǐyù|v. / n.|to compare metaphorically; metaphor
+2049|必|bì|adv.|must; certainly
+2050|毕竟|bìjìng|adv.|after all
+2051|避免|bìmiǎn|v.|to avoid
+2052|闭幕式|bìmùshì|n.|closing ceremony
+2053|必然|bìrán|adj. / n.|inevitable; necessity
+2054|必需|bìxū|v.|to need; be essential
+2055|必要|bìyào|adj.|necessary
+2056|便|biàn|adv.|then; thus
+2057|变动|biàndòng|v.|to change; alteration
+2058|便利|biànlì|adj. / v.|convenient; facilitate
+2059|便利店|biànlìdiàn|n.|convenience store
+2060|标题|biāotí|n.|title; heading
+2061|标志|biāozhì|n. / v.|sign; symbol; to mark
+2062|表达|biǎodá|v.|to express
+2063|表面|biǎomiàn|n.|surface; appearance
+2064|表明|biǎomíng|v.|to indicate; show
+2065|表情|biǎoqíng|n.|facial expression
+2066|别|bié|v.|to pin; fasten; attach
+2067|饼|bǐng|n.|cake; flat round food
+2068|病房|bìngfáng|n.|hospital ward
+2069|病情|bìngqíng|n.|illness condition
+2070|拨打|bōdǎ|v.|to dial; call
+2071|玻璃|bōli|n.|glass
+2072|博物馆|bówùguǎn|n.|museum
+2073|不利|búlì|adj.|disadvantageous; unfavorable
+2074|不幸|búxìng|adj. / n.|unfortunate; misfortune
+2075|不要紧|búyàojǐn|adj.|it doesn't matter; not serious
+2076|补充|bǔchōng|v.|to supplement; add
+2077|不得了|bùdéliǎo|adj.|terrible; extremely
+2078|不符|bùfú|v.|to not conform; mismatch
+2079|不良|bùliáng|adj.|bad; poor; unhealthy
+2080|不然|bùrán|conj.|otherwise
+2081|步行|bùxíng|v.|to walk; on foot
+2082|不足|bùzú|v. / n.|insufficient; shortage
+2083|才|cái|n.|talent; ability
+2084|裁判|cáipàn|v. / n.|to referee; referee
+2085|采访|cǎifǎng|v.|to interview; report
+2086|采取|cǎiqǔ|v.|to adopt; take
+2087|彩色|cǎisè|n.|color; colored
+2088|采用|cǎiyòng|v.|to adopt; use
+2089|参考|cānkǎo|v.|to refer to; reference
+2090|餐饮|cānyǐn|n.|food and beverage; catering
+2091|参与|cānyù|v.|to participate
+2092|藏|cáng|v.|to hide; store
+2093|操作|cāozuò|v.|to operate; operation
+2094|册|cè|mw.|volume; book measure word
+2095|测|cè|v.|to measure; test
+2096|测试|cèshì|v.|to test; testing
+2097|曾|céng|adv.|ever; once
+2098|曾经|céngjīng|adv.|once; formerly
+2099|插|chā|v.|to insert
+2100|差别|chābié|n.|difference
+2101|差距|chājù|n.|gap; disparity
+2102|叉子|chāzi|n.|fork
+2103|拆|chāi|v.|to take apart; demolish
+2104|产|chǎn|v.|to produce
+2105|产量|chǎnliàng|n.|output; yield
+2106|产品|chǎnpǐn|n.|product
+2107|产业|chǎnyè|n.|industry; sector
+2108|长处|chángchù|n.|strong point; advantage
+2109|长度|chángdù|n.|length
+2110|长久|chángjiǔ|adj.|long-lasting
+2111|长期|chángqī|n. / adj.|long-term; long period
+2112|常识|chángshí|n.|common knowledge
+2113|尝试|chángshì|v.|to try; attempt
+2114|长途|chángtú|adj.|long-distance
+2115|长远|chángyuǎn|adj.|long-term; far-reaching
+2116|场所|chǎngsuǒ|n.|place; venue
+2117|超|chāo|v.|to exceed; surpass
+2118|超出|chāochū|v.|to exceed; go beyond
+2119|超级|chāojí|adj.|super; top-level
+2120|超速|chāosù|v.|to speed; exceed speed limit
+2121|朝|cháo|v. / prep.|toward; facing
+2122|吵|chǎo|adj. / v.|noisy; to argue
+2123|炒|chǎo|v.|to stir-fry
+2124|车祸|chēhuò|n.|traffic accident
+2125|车库|chēkù|n.|garage
+2126|车辆|chēliàng|n.|vehicle; vehicles
+2127|车厢|chēxiāng|n.|carriage; compartment
+2128|车主|chēzhǔ|n.|vehicle owner
+2129|彻底|chèdǐ|adj.|thorough; complete
+2130|沉|chén|v. / adj.|to sink; heavy/gloomy
+2131|沉默|chénmò|v.|silent; silence
+2132|称|chēng|v.|to call; name
+2133|称|chēng|v.|to weigh; call
+2134|称为|chēngwéi|v.|to be called; be known as
+2135|称赞|chēngzàn|v.|to praise
+2136|成本|chéngběn|n.|cost
+2137|承担|chéngdān|v.|to undertake; bear
+2138|程度|chéngdù|n.|degree; extent
+2139|成分|chéngfèn|n.|component; ingredient
+2140|成果|chéngguǒ|n.|achievement; result
+2141|成就|chéngjiù|n. / v.|achievement; to achieve
+2142|成立|chénglì|v.|to establish; be founded
+2143|成年|chéngnián|v.|to become an adult
+2144|城区|chéngqū|n.|urban district
+2145|成人|chéngrén|v. / n.|adult; to become an adult
+2146|承认|chéngrèn|v.|to admit; acknowledge
+2147|承受|chéngshòu|v.|to bear; withstand
+2148|成熟|chéngshú|v. / adj.|mature; to mature
+2149|乘务员|chéngwùyuán|n.|attendant; crew member
+2150|程序|chéngxù|n.|procedure; program
+2151|成员|chéngyuán|n.|member
+2152|成长|chéngzhǎng|v.|to grow; growth
+2153|橙子|chéngzi|n.|orange
+2154|池|chí|n.|pond; pool
+2155|持续|chíxù|v.|to continue; sustained
+2156|尺子|chǐzi|n.|ruler
+2157|翅膀|chìbǎng|n.|wing
+2158|冲|chōng|v.|to rush; charge
+2159|充电|chōngdiàn|v.|to charge a battery
+2160|充分|chōngfèn|adj.|full; sufficient
+2161|充满|chōngmǎn|v.|to fill; be full of
+2162|充值|chōngzhí|v.|to top up; recharge
+2163|充足|chōngzú|adj.|sufficient; abundant
+2164|重复|chóngfù|v.|to repeat
+2165|虫子|chóngzi|n.|bug; insect
+2166|宠物|chǒngwù|n.|pet
+2167|抽|chōu|v.|to draw out; pull out; smoke
+2168|丑|chǒu|adj.|ugly
+2169|臭|chòu|adj.|smelly; stinky
+2170|初|chū|n. / adv. / prefix|beginning; initial
+2171|出版|chūbǎn|v.|to publish
+2172|初级|chūjí|adj.|beginner; elementary
+2173|初期|chūqī|n.|initial stage
+2174|出色|chūsè|adj.|outstanding; excellent
+2175|出售|chūshòu|v.|to sell; offer for sale
+2176|出席|chūxí|v.|to attend; be present
+2177|出自|chūzì|v.|to come from; originate from
+2178|除夕|chúxī|n.|Lunar New Year's Eve
+2179|处|chǔ|v.|to handle; deal with
+2180|处理|chǔlǐ|v.|to handle; process
+2181|处于|chǔyú|v.|to be in; be at
+2182|处|chù|n.|place; location
+2183|传|chuán|v.|to pass on; transmit
+2184|传播|chuánbō|v.|to spread; disseminate
+2185|传递|chuándì|v.|to transmit; pass on
+2186|传说|chuánshuō|v. / n.|legend; to pass down a story
+2187|传统|chuántǒng|n. / adj.|tradition; traditional
+2188|窗台|chuāngtái|n.|windowsill
+2189|床单|chuángdān|n.|bed sheet
+2190|创新|chuàngxīn|v. / n.|to innovate; innovation
+2191|创业|chuàngyè|v.|to start a business
+2192|创造|chuàngzào|v.|to create
+2193|创作|chuàngzuò|v. / n.|to create; creative work
+2194|词汇|cíhuì|n.|vocabulary
+2195|辞职|cízhí|v.|to resign
+2196|此后|cǐhòu|n.|after this; thereafter
+2197|此前|cǐqián|n.|before this; previously
+2198|此时|cǐshí|n.|at this time; now
+2199|刺激|cìjī|v. / n.|to stimulate; stimulation
+2200|从不|cóng bù|phr.|never
+2201|从而|cóng'ér|conj.|thereby; thus
+2202|从前|cóngqián|n.|in the past; formerly
+2203|从事|cóngshì|v.|to engage in; undertake
+2204|促进|cùjìn|v.|to promote; advance
+2205|促使|cùshǐ|v.|to cause; urge
+2206|促销|cùxiāo|v.|to promote sales; promotion
+2207|催|cuī|v.|to urge; hurry
+2208|存放|cúnfàng|v.|to store; put away
+2209|存款|cúnkuǎn|v. / n.|to deposit; deposit
+2210|存在|cúnzài|v.|to exist; existence
+2211|措施|cuòshī|n.|measure; step
+2212|达成|dáchéng|v.|to reach; conclude
+2213|打扮|dǎban|v.|to dress up
+2214|打包|dǎbāo|v.|to pack; package
+2215|打断|dǎduàn|v.|to interrupt
+2216|打破|dǎpò|v.|to break; shatter
+2217|打听|dǎting|v.|to ask around; inquire
+2218|大胆|dàdǎn|adj.|bold; daring
+2219|大多|dàduō|adv.|mostly; for the most part
+2220|大会|dàhuì|n.|conference; mass meeting
+2221|大力|dàlì|n. / adv.|energetically; vigorously
+2222|大妈|dàmā|n.|middle-aged woman; auntie
+2223|大米|dàmǐ|n.|rice; uncooked rice
+2224|大脑|dànǎo|n.|brain
+2225|大批|dàpī|adj.|large batch; large number
+2226|大厦|dàshà|n.|large building; mansion
+2227|大事|dàshì|n.|major matter; important event
+2228|大象|dàxiàng|n.|elephant
+2229|大型|dàxíng|adj.|large-scale; large-sized
+2230|大爷|dàye|n.|older man; uncle
+2231|大于|dàyú|v.|to be greater than
+2232|大众|dàzhòng|n.|the public; masses
+2233|代|dài|v. / n.|to replace; generation; era
+2234|代表|dàibiǎo|n. / v.|representative; to represent
+2235|带动|dàidòng|v.|to drive; promote
+2236|代替|dàitì|v.|to replace; substitute
+2237|待遇|dàiyù|n.|treatment; benefits; pay
+2238|单|dān|adj. / adv. / n. / mw.|single; bill/order; measure word
+2239|单独|dāndú|adv.|alone; separately
+2240|担任|dānrèn|v.|to hold a post; serve as
+2241|单一|dānyī|adj.|single; unitary
+2242|单元|dānyuán|n.|unit; module
+2243|胆小|dǎnxiǎo|adj.|timid; cowardly
+2244|淡|dàn|adj.|light; weak; bland
+2245|当地|dāngdì|n.|local; locality
+2246|当年|dāngnián|n.|that year; back then
+2247|当前|dāngqián|v. / n.|current; present
+2248|当中|dāngzhōng|n.|among; in the middle
+2249|挡|dǎng|v.|to block; obstruct
+2250|当|dàng|v.|to regard as; be appropriate as
+2251|当成|dàngchéng|v.|to regard as; treat as
+2252|当作|dàngzuò|v.|to regard as; take as
+2253|倒|dǎo|v.|to fall; collapse
+2254|导演|dǎoyǎn|v. / n.|to direct; director
+2255|导致|dǎozhì|v.|to cause; lead to
+2256|到达|dàodá|v.|to arrive; reach
+2257|道理|dàolǐ|n.|reason; principle
+2258|到期|dàoqī|v.|to expire; reach due date
+2259|登|dēng|v.|to climb; board; register
+2260|灯光|dēngguāng|n.|light; lighting
+2261|登记|dēngjì|v.|to register; record
+2262|登录|dēnglù|v.|to log in
+2263|等待|děngdài|v.|to wait
+2264|等候|děnghòu|v.|to wait; await
+2265|等于|děngyú|v.|to equal; be equivalent to
+2266|低头|dītóu|v.|to lower one's head
+2267|的确|díquè|adv.|indeed; certainly
+2268|敌人|dírén|n.|enemy
+2269|递|dì|v.|to pass; hand over
+2270|地理|dìlǐ|n.|geography
+2271|地面|dìmiàn|n.|ground; surface
+2272|地区|dìqū|n.|region; area
+2273|地位|dìwèi|n.|position; status
+2274|地下|dìxià|n. / adj.|underground; below ground
+2275|地震|dìzhèn|v.|earthquake
+2276|点心|diǎnxin|n.|dim sum; snack
+2277|点赞|diǎnzàn|v.|to like/upvote online
+2278|电池|diànchí|n.|battery
+2279|电动|diàndòng|adj.|electric; electrically powered
+2280|电器|diànqì|n.|electrical appliance
+2281|电商|diànshāng|n.|e-commerce
+2282|电视台|diànshìtái|n.|TV station
+2283|电子版|diànzǐbǎn|n.|electronic edition
+2284|调|diào|v.|to transfer; investigate
+2285|调研|diàoyán|v.|to research; investigate
+2286|定期|dìngqī|v. / adj.|regular; periodic
+2287|丢失|diūshī|v.|to lose; be lost
+2288|冻|dòng|v.|to freeze
+2289|洞|dòng|n.|hole; cave
+2290|动画|dònghuà|n.|animation; cartoon
+2291|动人|dòngrén|adj.|moving; touching
+2292|动手|dòngshǒu|v.|to begin work; do it oneself
+2293|豆腐|dòufu|n.|tofu
+2294|豆浆|dòujiāng|n.|soy milk
+2295|独立|dúlì|v. / adj.|independent; to be independent
+2296|独特|dútè|adj.|unique; distinctive
+2297|读音|dúyīn|n.|pronunciation; reading
+2298|独自|dúzì|adv.|alone; by oneself
+2299|堵|dǔ|v. / adj. / mw.|to block; jam; measure word for walls
+2300|度|dù|mw. / n. / v. / suffix|degree; measure; to spend
+2301|短处|duǎnchù|n.|weakness; shortcoming
+2302|短期|duǎnqī|n. / adj.|short-term; short period
+2303|断|duàn|v.|to break; cut off
+2304|堆|duī|v. / n. / mw.|pile; heap
+2305|对比|duìbǐ|v. / n.|to compare; comparison
+2306|对待|duìdài|v.|to treat; handle
+2307|对手|duìshǒu|n.|opponent; rival
+2308|队伍|duìwu|n.|team; troops
+2309|对象|duìxiàng|n.|target; object; partner
+2310|吨|dūn|mw.|ton
+2311|朵|duǒ|mw.|measure word for flowers/clouds
+2312|躲|duǒ|v.|to hide; avoid
+2313|儿女|érnǚ|n.|children; sons and daughters
+2314|二手|èrshǒu|adj.|second-hand; used
+2315|二维码|èrwéimǎ|n.|QR code
+2316|发表|fābiǎo|v.|to publish; express
+2317|发布|fābù|v.|to release; publish
+2318|发达|fādá|adj. / v.|developed; advanced
+2319|发挥|fāhuī|v.|to bring into play; exert
+2320|发明|fāmíng|v. / n.|to invent; invention
+2321|发起|fāqǐ|v.|to initiate; launch
+2322|发言|fāyán|v. / n.|to speak; speech
+2323|发音|fāyīn|v. / n.|to pronounce; pronunciation
+2324|罚|fá|v.|to punish; fine
+2325|罚款|fákuǎn|v. / n.|to fine; fine/penalty
+2326|法院|fǎyuàn|n.|court; courthouse
+2327|翻|fān|v.|to turn over; flip
+2328|番茄|fānqié|n.|tomato
+2329|繁荣|fánróng|adj. / v.|prosperous; to prosper
+2330|反|fǎn|adj. / v. / adv.|opposite; to oppose; reverse
+2331|反而|fǎn'ér|adv.|instead; on the contrary
+2332|反复|fǎnfù|adv. / v. / n.|repeatedly; repeat
+2333|返回|fǎnhuí|v.|to return; go back
+2334|反应|fǎnyìng|v. / n.|to react; reaction
+2335|反映|fǎnyìng|v.|to reflect; show
+2336|反正|fǎnzhèng|adv.|anyway; in any case
+2337|范围|fànwéi|n.|range; scope
+2338|方|fāng|adj. / n.|square; direction; side
+2339|方案|fāng'àn|n.|plan; proposal
+2340|防|fáng|v.|to prevent; guard against
+2341|房屋|fángwū|n.|house; building
+2342|防止|fángzhǐ|v.|to prevent; stop
+2343|仿佛|fǎngfú|adv.|as if; seemingly
+2344|访问|fǎngwèn|v.|to visit; interview
+2345|飞行|fēixíng|v.|to fly; flight
+2346|飞行员|fēixíngyuán|n.|pilot
+2347|非洲|Fēizhōu|n.|Africa
+2348|分别|fēnbié|v. / adv. / n.|separately; to distinguish
+2349|分布|fēnbù|v.|to distribute; distribution
+2350|纷纷|fēnfēn|adj. / adv.|one after another
+2351|分类|fēnlèi|v.|to classify
+2352|分离|fēnlí|v.|to separate; separation
+2353|分配|fēnpèi|v.|to distribute; allocate
+2354|分手|fēnshǒu|v.|to break up; separate
+2355|分析|fēnxī|v.|to analyze
+2356|分享|fēnxiǎng|v.|to share
+2357|奋斗|fèndòu|v.|to struggle; strive
+2358|丰富多彩|fēngfù-duōcǎi|phr.|rich and colorful; varied
+2359|风格|fēnggé|n.|style
+2360|疯狂|fēngkuáng|adj.|crazy; wild
+2361|风俗|fēngsú|n.|custom; folkway
+2362|风险|fēngxiǎn|n.|risk
+2363|否定|fǒudìng|v. / adj.|to deny; negative
+2364|否认|fǒurèn|v.|to deny
+2365|夫妇|fūfù|n.|married couple
+2366|扶|fú|v.|to support; help up
+2367|福|fú|n.|blessing; good fortune
+2368|服装|fúzhuāng|n.|clothing; apparel
+2369|副|fù|mw.|measure word for pairs/sets
+2370|富|fù|adj.|rich; wealthy
+2371|付出|fùchū|v.|to give; pay; devote
+2372|负担|fùdān|v. / n.|burden; to bear
+2373|妇女|fùnǚ|n.|women
+2374|富有|fùyǒu|adj. / v.|rich in; to possess
+2375|复制|fùzhì|v.|to copy; reproduce
+2376|改革|gǎigé|v.|reform
+2377|改进|gǎijìn|v.|to improve
+2378|改善|gǎishàn|v.|to improve; ameliorate
+2379|改天|gǎitiān|adv.|another day; some other day
+2380|改正|gǎizhèng|v.|to correct
+2381|盖|gài|n. / v.|lid; to cover
+2382|概括|gàikuò|v. / adj.|to summarize; general
+2383|概念|gàiniàn|n.|concept
+2384|敢于|gǎnyú|v.|to dare to
+2385|刚好|gānghǎo|adj. / adv.|just right; happen to
+2386|高大|gāodà|adj.|tall and strong
+2387|高档|gāodàng|adj.|high-grade; upscale
+2388|高度|gāodù|n. / adj.|height; high-level
+2389|高级|gāojí|adj.|advanced; high-level
+2390|高科技|gāokējì|n.|high technology; high-tech
+2391|高效|gāoxiào|adj.|efficient; high-efficiency
+2392|搞|gǎo|v.|to do; make; handle
+2393|告别|gàobié|v.|to say goodbye; part
+2394|歌词|gēcí|n.|lyrics
+2395|歌曲|gēqǔ|n.|song
+2396|隔|gé|v.|to separate;isolate
+2397|格外|géwài|adv.|especially; exceptionally
+2398|个别|gèbié|adv. / adj.|individual; exceptional
+2399|各行各业|gèháng-gèyè|phr.|all trades and professions
+2400|个人|gèrén|n.|individual; personal
+2401|个性|gèxìng|n.|individuality; personality
+2402|各自|gèzì|pron.|each; respectively
+2403|根|gēn|n. / mw.|root; measure word for long objects
+2404|根本|gēnběn|n. / adj. / adv.|root; fundamental; basically
+2405|更换|gēnghuàn|v.|to replace; change
+2406|更新|gēngxīn|v.|to update; renew
+2407|公布|gōngbù|v.|to announce; publish
+2408|工程|gōngchéng|n.|project; engineering
+2409|工程师|gōngchéngshī|n.|engineer
+2410|工具|gōngjù|n.|tool
+2411|功能|gōngnéng|n.|function
+2412|公平|gōngpíng|adj.|fair; impartial
+2413|公务员|gōngwùyuán|n.|civil servant
+2414|恭喜|gōngxǐ|v.|congratulations; to congratulate
+2415|工业|gōngyè|n.|industry
+2416|工艺|gōngyì|n.|craft; technology
+2417|公寓|gōngyù|n.|apartment
+2418|贡献|gòngxiàn|v. / n.|to contribute; contribution
+2419|共享|gòngxiǎng|v.|to share
+2420|沟通|gōutōng|v.|to communicate; communication
+2421|构成|gòuchéng|v. / n.|to constitute; composition
+2422|古|gǔ|adj.|ancient; old
+2423|鼓|gǔ|n. / v. / adj.|drum; to drum; encourage
+2424|古代|gǔdài|n.|ancient times
+2425|古老|gǔlǎo|adj.|ancient; old
+2426|鼓掌|gǔzhǎng|v.|to applaud
+2427|固定|gùdìng|v.|to fix; fixed
+2428|故乡|gùxiāng|n.|hometown
+2429|挂号|guàhào|v.|to register at a hospital
+2430|怪|guài|adj. / v. / adv.|strange; blame; very
+2431|关闭|guānbì|v.|to close; shut down
+2432|观察|guānchá|v.|to observe
+2433|观点|guāndiǎn|n.|viewpoint; opinion
+2434|观念|guānniàn|n.|concept; idea
+2435|冠军|guànjūn|n.|champion
+2436|光临|guānglín|v.|to honor with one's presence; welcome
+2437|光明|guāngmíng|n. / adj.|light; bright
+2438|光线|guāngxiàn|n.|light ray; lighting
+2439|广|guǎng|adj.|wide; broad
+2440|广场|guǎngchǎng|n.|public square; plaza
+2441|广大|guǎngdà|adj.|vast; broad
+2442|广泛|guǎngfàn|adj.|widespread; extensive
+2443|规律|guīlǜ|n. / adj.|pattern; rule
+2444|规模|guīmó|n.|scale; size
+2445|规则|guīzé|n. / adj.|rule; regulation
+2446|贵姓|guìxìng|n.|May I ask your surname?
+2447|柜子|guìzi|n.|cabinet; cupboard
+2448|滚|gǔn|v.|to roll
+2449|锅|guō|n.|pot; pan
+2450|国画|guóhuà|n.|traditional Chinese painting
+2451|国庆|guóqìng|n.|National Day
+2452|果然|guǒrán|adv.|as expected; sure enough
+2453|果实|guǒshí|n.|fruit; result
+2454|过度|guòdù|adj.|excessive; overdone
+2455|过分|guòfèn|adj.|excessive; too much
+2456|过敏|guòmǐn|v.|to be allergic
+2457|过期|guòqī|v.|to expire
+2458|过于|guòyú|adv.|too; excessively
+2459|哈|hā|onom. / interj.|ha; laughter sound
+2460|海关|hǎiguān|n.|customs; customs office
+2461|海外|hǎiwài|n.|overseas
+2462|海鲜|hǎixiān|n.|seafood
+2463|含|hán|v.|to contain
+2464|含量|hánliàng|n.|content; amount contained
+2465|含有|hányǒu|v.|to contain; include
+2466|汗水|hànshuǐ|n.|sweat
+2467|行|háng|n. / mw.|trade; profession; row
+2468|行业|hángyè|n.|industry; trade
+2469|好评|hǎopíng|n.|positive review; praise
+2470|好运|hǎoyùn|n.|good luck
+2471|好转|hǎozhuǎn|v.|to improve; get better
+2472|好|hào|v.|to like; be fond of
+2473|好奇|hàoqí|adj.|curious
+2474|合|hé|v.|to combine; close
+2475|合法|héfǎ|adj.|legal; lawful
+2476|盒饭|héfàn|n.|boxed meal
+2477|合理|hélǐ|adj.|reasonable; rational
+2478|河流|héliú|n.|river; river system
+2479|合同|hétóng|n.|contract
+2480|合影|héyǐng|v. / n.|to take a group photo; group photo
+2481|合作|hézuò|v.|to cooperate; cooperation
+2482|黑|hēi|adj.|black
+2483|红|hóng|adj.|red
+2484|猴子|hóuzi|n.|monkey
+2485|厚度|hòudù|n.|thickness
+2486|后果|hòuguǒ|n.|consequence
+2487|忽视|hūshì|v.|to ignore; neglect
+2488|呼吸|hūxī|v.|to breathe; respiration
+2489|湖|hú|n.|lake
+2490|蝴蝶|húdié|n.|butterfly
+2491|胡同|hútòng|n.|alley; hutong
+2492|互动|hùdòng|v.|to interact; interaction
+2493|户外|hùwài|n.|outdoors
+2494|花费|huāfèi|v.|to spend; cost
+2495|滑|huá|adj. / v.|slippery; to slide
+2496|划|huá|v.|to row; paddle
+2497|化|huà|suffix|-ize; transformation suffix
+2498|话费|huàfèi|n.|phone bill
+2499|画面|huàmiàn|n.|image; picture; scene
+2500|话题|huàtí|n.|topic
+2501|化学|huàxué|n.|chemistry
+2502|环节|huánjié|n.|link; stage; step
+2503|缓解|huǎnjiě|v.|to ease; relieve
+2504|缓慢|huǎnmàn|adj.|slow; gradual
+2505|黄瓜|huángguā|n.|cucumber
+2506|黄金|huángjīn|n.|gold
+2507|灰|huī|n. / adj.|ash; gray
+2508|挥|huī|v.|to wave; brandish
+2509|恢复|huīfù|v.|to recover; restore
+2510|灰色|huīsè|n. / adj.|gray; the color gray
+2511|回收|huíshōu|v.|to recycle; recover
+2512|汇率|huìlǜ|n.|exchange rate
+2513|婚礼|hūnlǐ|n.|wedding
+2514|伙|huǒ|mw.|group; bunch
+2515|伙伴|huǒbàn|n.|partner; companion
+2516|火锅|huǒguō|n.|hot pot
+2517|或是|huòshì|adv. / conj.|or; alternatively
+2518|货物|huòwù|n.|goods; cargo
+2519|或许|huòxǔ|adv.|perhaps; maybe
+2520|机构|jīgòu|n.|organization; institution
+2521|激烈|jīliè|adj.|intense; fierce
+2522|机器|jīqì|n.|machine
+2523|机器人|jīqìrén|n.|robot
+2524|肌肉|jīròu|n.|muscle
+2525|及|jí|conj.|and; as well as
+2526|级|jí|n. / mw.|level; grade
+2527|集|jí|n. / mw.|collection; episode
+2528|疾病|jíbìng|n.|disease; illness
+2529|及格|jígé|v.|to pass an exam
+2530|集合|jíhé|v.|to gather; assemble
+2531|即将|jíjiāng|adv.|about to; soon
+2532|急忙|jímáng|adv.|hurriedly
+2533|极其|jíqí|adv.|extremely
+2534|集体|jítǐ|n.|collective; group
+2535|急需|jíxū|v.|to urgently need
+2536|急诊|jízhěn|v. / n.|emergency clinic; emergency treatment
+2537|集中|jízhōng|v. / adj.|to concentrate; centralized
+2538|挤|jǐ|v. / adj.|to squeeze; crowded
+2539|系|jì|v.|to tie; fasten
+2540|季度|jìdù|n.|quarter; quarterly period
+2541|记录|jìlù|v. / n.|to record; record
+2542|纪录|jìlù|n.|record; record achievement
+2543|纪录片|jìlùpiàn|n.|documentary
+2544|技能|jìnéng|n.|skill
+2545|纪念|jìniàn|v. / n.|to commemorate; memorial
+2546|纪念日|jìniànrì|n.|anniversary; memorial day
+2547|计算|jìsuàn|v.|to calculate
+2548|计算机|jìsuànjī|n.|computer
+2549|记忆|jìyì|v. / n.|memory; to remember
+2550|记载|jìzǎi|v.|to record in writing
+2551|嘉宾|jiābīn|n.|honored guest
+2552|家电|jiādiàn|n.|household appliance
+2553|加工|jiāgōng|v.|to process; manufacture
+2554|加热|jiārè|v.|to heat
+2555|加深|jiāshēn|v.|to deepen
+2556|加速|jiāsù|v.|to accelerate
+2557|家务|jiāwù|n.|housework
+2558|甲|jiǎ|n.|first; A; armor
+2559|假如|jiǎrú|conj.|if; supposing
+2560|架|jià|n. / v. / mw.|frame; rack; measure word for machines
+2561|驾驶|jiàshǐ|v.|to drive; operate
+2562|驾照|jiàzhào|n.|driver's license
+2563|价值|jiàzhí|n.|value; worth
+2564|艰苦|jiānkǔ|adj.|hard; arduous
+2565|坚强|jiānqiáng|adj.|strong; resilient
+2566|捡|jiǎn|v.|to pick up
+2567|剪|jiǎn|v.|to cut with scissors
+2568|剪刀|jiǎndāo|n.|scissors
+2569|减肥|jiǎnféi|v.|to lose weight
+2570|简历|jiǎnlì|n.|résumé; CV
+2571|简直|jiǎnzhí|adv.|simply; practically
+2572|建|jiàn|v.|to build; establish
+2573|键|jiàn|n.|key; keyboard key
+2574|渐渐|jiànjiàn|adv.|gradually
+2575|建立|jiànlì|v.|to establish; build
+2576|键盘|jiànpán|n.|keyboard
+2577|建设|jiànshè|v.|to construct; construction
+2578|建造|jiànzào|v.|to build; construct
+2579|建筑|jiànzhù|v. / n.|to build; building; architecture
+2580|将近|jiāngjìn|adv.|nearly; close to
+2581|讲话|jiǎnghuà|n.|speech; talk
+2582|讲究|jiǎngjiu|v. / adj.|to pay attention to; particular about
+2583|奖励|jiǎnglì|v.|to reward; award
+2584|讲述|jiǎngshù|v.|to narrate; describe
+2585|讲座|jiǎngzuò|n.|lecture
+2586|降水|jiàngshuǐ|v.|precipitation; rainfall
+2587|浇|jiāo|v.|to water; pour
+2588|交换|jiāohuàn|v.|to exchange
+2589|交往|jiāowǎng|v.|to associate; interact
+2590|交易|jiāoyì|v. / n.|transaction; trade
+2591|脚步|jiǎobù|n.|footstep; pace
+2592|角度|jiǎodù|n.|angle; perspective
+2593|较|jiào|prep. / adv.|relatively; comparatively
+2594|教材|jiàocái|n.|teaching material; textbook
+2595|接触|jiēchù|v.|to contact; come into contact
+2596|接待|jiēdài|v.|to receive; host
+2597|阶段|jiēduàn|n.|stage; phase
+2598|接近|jiējìn|v.|to approach; be close to
+2599|接收|jiēshōu|v.|to receive; accept
+2600|结|jié|v. / n.|to tie; form; knot
+2601|结构|jiégòu|n.|structure
+2602|结合|jiéhé|v.|to combine; integrate
+2603|结论|jiélùn|n.|conclusion
+2604|节省|jiéshěng|v.|to save; economize
+2605|届|jiè|mw.|term; session; measure word for events
+2606|今日|jīnrì|n.|today
+2607|紧|jǐn|adj. / v.|tight; urgent
+2608|紧急|jǐnjí|adj.|urgent; emergency
+2609|尽快|jǐnkuài|adv.|as soon as possible
+2610|尽量|jǐnliàng|adv.|as much as possible
+2611|紧密|jǐnmì|adj.|close; tight
+2612|谨慎|jǐnshèn|adj.|cautious; prudent
+2613|进步|jìnbù|v. / adj.|to improve; progress
+2614|近代|jìndài|n.|modern era; recent times
+2615|进口|jìnkǒu|v.|to import
+2616|尽力|jìnlì|v.|to do one's best
+2617|近年来|jìnnián lái|phr.|in recent years
+2618|近期|jìnqī|n.|recent period; near future
+2619|近日|jìnrì|n.|recently; in recent days
+2620|进一步|jìnyíbù|adv.|further; one step further
+2621|经典|jīngdiǎn|n. / adj.|classic; classic work
+2622|精力|jīnglì|n.|energy; vitality
+2623|精神|jīngshen|n. / adj.|spirit; mental state
+2624|惊喜|jīngxǐ|adj.|pleasant surprise
+2625|经营|jīngyíng|v.|to operate; manage
+2626|静|jìng|adj. / v.|quiet; still
+2627|酒吧|jiǔbā|n.|bar; pub
+2628|久远|jiǔyuǎn|adj.|long ago; remote
+2629|救|jiù|v.|to save; rescue
+2630|救护车|jiùhùchē|n.|ambulance
+2631|就业|jiùyè|v.|to get a job; employment
+2632|居民|jūmín|n.|resident
+2633|居然|jūrán|adv.|unexpectedly; surprisingly
+2634|居住|jūzhù|v.|to reside; live
+2635|橘子|júzi|n.|mandarin orange
+2636|据|jù|prep.|according to
+2637|距|jù|v.|distance from; be apart from
+2638|具备|jùbèi|v.|to possess; have
+2639|剧场|jùchǎng|n.|theater; playhouse
+2640|巨大|jùdà|adj.|huge; enormous
+2641|据说|jùshuō|v.|it is said; reportedly
+2642|具体|jùtǐ|adj. / v.|specific; concrete
+2643|具有|jùyǒu|v.|to have; possess
+2644|捐|juān|v.|to donate
+2645|绝对|juéduì|adj. / adv.|absolute; absolutely
+2646|决赛|juésài|v. / n.|final; championship match
+2647|角色|juésè|n.|role; character
+2648|决心|juéxīn|n. / v.|determination; resolve
+2649|开发|kāifā|v.|to develop; exploit
+2650|开放|kāifàng|v. / adj.|to open; opening; open
+2651|开幕|kāimù|v.|to open; commence
+2652|开幕式|kāimùshì|n.|opening ceremony
+2653|开水|kāishuǐ|n.|boiled water
+2654|开通|kāitōng|v.|to open; activate
+2655|开业|kāiyè|v.|to open for business
+2656|开展|kāizhǎn|v.|to carry out; develop
+2657|看|kān|v.|to guard; watch over
+2658|看望|kànwàng|v.|to visit; call on
+2659|看作|kànzuò|v.|to regard as; see as
+2660|靠|kào|v.|to lean on; depend on
+2661|靠近|kàojìn|v.|to approach; near
+2662|颗|kē|mw.|measure word for small round objects
+2663|科研|kēyán|v.|scientific research
+2664|可见|kějiàn|conj.|thus it can be seen; evidently
+2665|可靠|kěkào|adj.|reliable
+2666|可怕|kěpà|adj.|scary; frightening
+2667|克服|kèfú|v.|to overcome
+2668|客服|kèfú|n.|customer service
+2669|客观|kèguān|adj.|objective; impartial
+2670|客户|kèhù|n.|client; customer
+2671|空间|kōngjiān|n.|space; room
+2672|空中|kōngzhōng|n. / adj.|in the air; aerial
+2673|控制|kòngzhì|v.|to control
+2674|口袋|kǒudai|n.|pocket
+2675|口味|kǒuwèi|n.|taste; flavor
+2676|库|kù|n.|warehouse; database
+2677|宽|kuān|adj. / n.|wide; broad
+2678|宽度|kuāndù|n.|width
+2679|亏|kuī|v.|to suffer a loss; be short
+2680|昆虫|kūnchóng|n.|insect
+2681|扩大|kuòdà|v.|to expand; enlarge
+2682|来源|láiyuán|n. / v.|source; origin
+2683|劳动|láodòng|n. / v.|labor; work
+2684|老百姓|lǎobǎixìng|n.|ordinary people; common people
+2685|老板|lǎobǎn|n.|boss; owner
+2686|老公|lǎogōng|n.|husband
+2687|姥姥|lǎolao|n.|maternal grandmother
+2688|老婆|lǎopo|n.|wife
+2689|姥爷|lǎoye|n.|maternal grandfather
+2690|乐观|lèguān|adj.|optimistic
+2691|乐趣|lèqù|n.|fun; pleasure
+2692|泪|lèi|n.|tear
+2693|类|lèi|n. / mw.|kind; category
+2694|泪水|lèishuǐ|n.|tears
+2695|类似|lèisì|v.|similar; resemble
+2696|类型|lèixíng|n.|type; category
+2697|梨|lí|n.|pear
+2698|离婚|líhūn|v.|to divorce
+2699|厘米|límǐ|mw.|centimeter
+2700|离职|lízhí|v.|to leave a job
+2701|理论|lǐlùn|n. / v.|theory; theoretical discussion
+2702|里头|lǐtou|n.|inside
+2703|理由|lǐyóu|n.|reason
+2704|力|lì|n. / suffix|force; strength
+2705|立即|lìjí|adv.|immediately
+2706|立刻|lìkè|adv.|immediately; at once
+2707|力量|lìliàng|n.|strength; power
+2708|利润|lìrùn|n.|profit
+2709|利益|lìyì|n.|interest; benefit
+2710|利用|lìyòng|v.|to use; utilize
+2711|联合|liánhé|v. / adj.|to unite; joint
+2712|连接|liánjiē|v.|to connect
+2713|连忙|liánmáng|adv.|quickly; hurriedly
+2714|连续|liánxù|v.|continuous; consecutive
+2715|脸色|liǎnsè|n.|facial expression; complexion
+2716|恋爱|liàn'ài|v. / n.|to be in love; romance
+2717|良好|liánghǎo|adj.|good; favorable
+2718|粮食|liángshi|n.|grain; food grain
+2719|量|liàng|n.|amount; quantity
+2720|了不起|liǎobuqǐ|adj.|amazing; remarkable
+2721|列车|lièchē|n.|train
+2722|临时|línshí|adv. / adj.|temporary; provisional
+2723|铃|líng|n.|bell
+2724|灵活|línghuó|adj.|flexible; agile
+2725|领|lǐng|n. / v.|to lead; collar
+2726|领带|lǐngdài|n.|necktie
+2727|领导|lǐngdǎo|v. / n.|to lead; leader
+2728|领取|lǐngqǔ|v.|to receive; collect
+2729|领先|lǐngxiān|v.|to lead; be ahead
+2730|领域|lǐngyù|n.|field; domain
+2731|令|lìng|v. / n.|to order; cause; command
+2732|流传|liúchuán|v.|to circulate; be handed down
+2733|流感|liúgǎn|n.|influenza; flu
+2734|浏览|liúlǎn|v.|to browse
+2735|留言|liúyán|v. / n.|to leave a message; message
+2736|龙|lóng|n.|dragon
+2737|漏|lòu|v.|to leak; omit
+2738|录|lù|v.|to record
+2739|陆地|lùdì|n.|land
+2740|录取|lùqǔ|v.|to admit; enroll
+2741|路人|lùrén|n.|passerby
+2742|路线|lùxiàn|n.|route; line
+2743|陆续|lùxù|adv.|successively; one after another
+2744|录音|lùyīn|v. / n.|to record audio; recording
+2745|旅行社|lǚxíngshè|n.|travel agency
+2746|论文|lùnwén|n.|paper; thesis
+2747|逻辑|luójí|n.|logic
+2748|骂|mà|v.|to scold
+2749|买卖|mǎimai|n.|trade; buying and selling
+2750|满足|mǎnzú|v.|to satisfy; be satisfied
+2751|忙碌|mánglù|adj.|busy; occupied
+2752|毛笔|máobǐ|n.|Chinese calligraphy brush
+2753|毛病|máobìng|n.|problem; fault
+2754|矛盾|máodùn|n. / v. / adj.|contradiction; conflict
+2755|没法儿|méifǎr|v.|cannot; have no way
+2756|玫瑰|méigui|n.|rose
+2757|媒体|méitǐ|n.|media
+2758|美术|měishù|n.|fine arts
+2759|美味|měiwèi|n.|delicious; delicacy
+2760|魅力|mèilì|n.|charm; appeal
+2761|门诊|ménzhěn|v.|outpatient clinic
+2762|迷|mí|v.|to fascinate; fan
+2763|迷路|mílù|v.|to get lost
+2764|秘密|mìmì|adj. / n.|secret; confidential
+2765|密切|mìqiè|adj. / v.|close; closely connected
+2766|秘书|mìshū|n.|secretary
+2767|面|miàn|n.|surface; side
+2768|面积|miànjī|n.|area; surface area
+2769|面临|miànlín|v.|to face; be confronted with
+2770|面向|miànxiàng|v.|to face; oriented toward
+2771|描述|miáoshù|v.|to describe
+2772|敏感|mǐngǎn|adj.|sensitive
+2773|名称|míngchēng|n.|name; designation
+2774|名牌|míngpái|n.|famous brand; brand-name
+2775|名片|míngpiàn|n.|business card
+2776|明确|míngquè|adj. / v.|clear; to clarify
+2777|明显|míngxiǎn|adj.|obvious; evident
+2778|明星|míngxīng|n.|celebrity; star
+2779|命|mìng|n.|life; fate; command
+2780|命运|mìngyùn|n.|fate; destiny
+2781|摸|mō|v.|to touch; feel
+2782|模糊|móhu|adj. / v.|blurred; vague
+2783|模式|móshì|n.|model; pattern
+2784|陌生|mòshēng|adj.|unfamiliar; strange
+2785|某|mǒu|pron.|certain; some
+2786|目光|mùguāng|n.|gaze; look
+2787|木头|mùtou|n.|wood; timber
+2788|哪怕|nǎpà|conj.|even if; even though
+2789|难得|nándé|adj.|rare; hard to come by
+2790|难度|nándù|n.|difficulty; degree of difficulty
+2791|难以|nányǐ|v.|difficult to; hard to
+2792|男子|nánzǐ|n.|man; male
+2793|闹|nào|adj. / v.|noisy; to make trouble
+2794|闹钟|nàozhōng|n.|alarm clock
+2795|内部|nèibù|n.|inside; internal
+2796|能干|nénggàn|adj.|capable; competent
+2797|年初|niánchū|n.|beginning of the year
+2798|年代|niándài|n.|decade; era
+2799|年纪|niánjì|n.|age
+2800|年夜饭|niányèfàn|n.|New Year's Eve dinner
+2801|念|niàn|v.|to read aloud; think of
+2802|牛仔裤|niúzǎikù|n.|jeans
+2803|浓|nóng|adj.|thick; strong; concentrated
+2804|农民|nóngmín|n.|farmer
+2805|农业|nóngyè|n.|agriculture
+2806|女子|nǚzǐ|n.|woman; female
+2807|哦|ò|interj.|oh; okay
+2808|欧洲|Ōuzhōu|n.|Europe
+2809|偶然|ǒurán|adj.|accidental; by chance
+2810|拍摄|pāishè|v.|to shoot; photograph
+2811|排列|páiliè|v.|to arrange; line up
+2812|派|pài|v.|to send; dispatch; faction
+2813|派出所|pàichūsuǒ|n.|police station
+2814|跑道|pǎodào|n.|runway; track
+2815|赔|péi|v.|to compensate; pay for
+2816|陪伴|péibàn|v.|to accompany; keep company
+2817|培训|péixùn|v.|to train; training
+2818|培养|péiyǎng|v.|to cultivate; train
+2819|配|pèi|v. / adj.|to match; fit
+2820|配合|pèihé|v.|to cooperate; coordinate
+2821|配送|pèisòng|v.|to deliver; distribution
+2822|盆|pén|n.|basin; pot
+2823|碰|pèng|v.|to touch; bump into
+2824|碰见|pèngjiàn|v.|to run into; meet by chance
+2825|批|pī|mw.|batch; measure word for batches
+2826|批|pī|v.|to criticize; approve in writing
+2827|批准|pīzhǔn|v.|to approve
+2828|匹|pǐ|mw.|measure word for horses/cloth
+2829|骗|piàn|v.|to cheat; deceive
+2830|拼|pīn|v.|to piece together; fight for
+2831|拼音|pīnyīn|v.|to spell with pinyin
+2832|品|pǐn|suffix|-grade; product suffix
+2833|品牌|pǐnpái|n.|brand
+2834|品质|pǐnzhì|n.|quality
+2835|品种|pǐnzhǒng|n.|variety; breed
+2836|聘请|pìnqǐng|v.|to hire; invite to a post
+2837|平|píng|adj.|flat; level; even
+2838|评|píng|v.|to evaluate; comment
+2839|凭|píng|v. / prep.|to rely on; based on
+2840|平安|píng'ān|adj.|safe and sound
+2841|平衡|pínghéng|adj. / v.|balanced; to balance
+2842|评价|píngjià|v. / n.|to evaluate; evaluation
+2843|凭借|píngjiè|v.|to rely on; by means of
+2844|平静|píngjìng|adj.|calm; peaceful
+2845|平均|píngjūn|v. / adj.|average; to average
+2846|屏幕|píngmù|n.|screen
+2847|平台|píngtái|n.|platform
+2848|破坏|pòhuài|v.|to damage; destroy
+2849|普及|pǔjí|v.|to popularize; spread widely
+2850|期待|qīdài|v.|to look forward to; expect
+2851|期间|qījiān|n.|during; period
+2852|齐|qí|adj.|neat; complete; together
+2853|其|qí|pron.|its; their
+2854|奇迹|qíjì|n.|miracle
+2855|其余|qíyú|pron.|the rest; remaining
+2856|企业|qǐyè|n.|enterprise; company
+2857|气球|qìqiú|n.|balloon
+2858|汽油|qìyóu|n.|gasoline
+2859|签|qiān|v.|to sign
+2860|签订|qiāndìng|v.|to sign; conclude an agreement
+2861|签名|qiānmíng|v. / n.|to sign; signature
+2862|签字|qiānzì|v. / n.|to sign one's name; signature
+2863|前进|qiánjìn|v.|to advance; move forward
+2864|前来|qiánlái|v.|to come forward; arrive
+2865|前途|qiántú|n.|future; prospects
+2866|前往|qiánwǎng|v.|to go to; head for
+2867|浅|qiǎn|adj.|shallow; light
+2868|欠|qiàn|v.|to owe; lack
+2869|墙|qiáng|n.|wall
+2870|强大|qiángdà|adj.|powerful; strong
+2871|强调|qiángdiào|v.|to emphasize
+2872|强度|qiángdù|n.|intensity; strength
+2873|强烈|qiángliè|adj.|strong; intense
+2874|抢|qiǎng|v.|to grab; rush for
+2875|抢救|qiǎngjiù|v.|to rescue; give emergency treatment
+2876|悄悄|qiāoqiāo|adv.|quietly; secretly
+2877|切|qiē|v.|to cut
+2878|亲|qīn|adj. / v.|close; dear; kiss
+2879|亲爱|qīn'ài|adj.|dear; beloved
+2880|亲朋好友|qīnpéng-hǎoyǒu|phr.|relatives and friends
+2881|亲切|qīnqiè|adj.|kind; warm; familiar
+2882|亲情|qīnqíng|n.|family affection
+2883|亲人|qīnrén|n.|family member; loved one
+2884|亲自|qīnzì|adv.|personally; oneself
+2885|勤奋|qínfèn|adj.|diligent; hardworking
+2886|青|qīng|adj.|green/blue; young
+2887|轻易|qīngyì|adj. / adv.|easily; lightly
+2888|轻重|qīngzhòng|n.|importance; weight
+2889|情感|qínggǎn|n.|emotion; feeling
+2890|情景|qíngjǐng|n.|scene; situation
+2891|情绪|qíngxù|n.|mood; emotion
+2892|请教|qǐngjiào|v.|to ask for advice
+2893|请求|qǐngqiú|v. / n.|to request; request
+2894|穷|qióng|adj.|poor
+2895|趋势|qūshì|n.|trend; tendency
+2896|区域|qūyù|n.|region; area
+2897|去世|qùshì|v.|to pass away
+2898|权|quán|n.|right; power
+2899|权利|quánlì|n.|right; entitlement
+2900|全力|quánlì|n. / adv.|with all one's strength
+2901|全面|quánmiàn|adj.|comprehensive; all-round
+2902|全体|quántǐ|n.|all; whole group
+2903|全新|quánxīn|adj.|brand-new
+2904|劝|quàn|v.|to persuade; advise
+2905|缺乏|quēfá|v.|to lack; be deficient in
+2906|确保|quèbǎo|v.|to ensure; guarantee
+2907|确定|quèdìng|adj. / v.|certain; to determine
+2908|确认|quèrèn|v.|to confirm
+2909|群|qún|mw. / n.|group; crowd
+2910|群体|qúntǐ|n.|group; population
+2911|燃烧|ránshāo|v.|to burn; combustion
+2912|绕|rào|v.|to go around; wind around
+2913|热爱|rè'ài|v.|to love deeply
+2914|热量|rèliàng|n.|heat; calories
+2915|热烈|rèliè|adj.|enthusiastic; warm
+2916|热心|rèxīn|adj.|warmhearted; enthusiastic
+2917|人才|réncái|n.|talent; talented person
+2918|人工|réngōng|adj. / n.|artificial; manual labor
+2919|人际|rénjì|adj.|interpersonal
+2920|人口|rénkǒu|n.|population
+2921|人类|rénlèi|n.|humankind; humanity
+2922|人力|rénlì|n.|human resources; manpower
+2923|人民|rénmín|n.|the people
+2924|人民币|rénmínbì|n.|Renminbi; RMB
+2925|人群|rénqún|n.|crowd; group of people
+2926|人体|réntǐ|n.|human body
+2927|人物|rénwù|n.|person; figure; character
+2928|忍|rěn|v.|to endure; tolerate
+2929|认|rèn|v.|to recognize; admit
+2930|日历|rìlì|n.|calendar
+2931|日用品|rìyòngpǐn|n.|daily necessities
+2932|如|rú|v. / conj.|as; such as; if
+2933|如此|rúcǐ|pron.|so; such
+2934|如何|rúhé|pron.|how; in what way
+2935|如今|rújīn|n.|nowadays
+2936|如同|rútóng|v.|to be like; as if
+2937|如下|rúxià|v.|as follows
+2938|软|ruǎn|adj.|soft
+2939|软件|ruǎnjiàn|n.|software
+2940|弱|ruò|adj.|weak
+2941|洒|sǎ|v.|to sprinkle; spill
+2942|赛场|sàichǎng|n.|competition venue
+2943|色彩|sècǎi|n.|color; hue
+2944|沙漠|shāmò|n.|desert
+2945|沙子|shāzi|n.|sand
+2946|傻|shǎ|adj.|foolish; silly
+2947|晒|shài|v.|to sun; expose to sunlight
+2948|删|shān|v.|to delete
+2949|扇|shān|v.|to fan
+2950|删除|shānchú|v.|to delete
+2951|山区|shānqū|n.|mountain area
+2952|擅长|shàncháng|v.|to be good at
+2953|善良|shànliáng|adj.|kind; good-hearted
+2954|善于|shànyú|v.|to be good at
+2955|扇子|shànzi|n.|fan
+2956|伤|shāng|n. / v.|injury; wound; to injure
+2957|伤害|shānghài|v.|to harm; hurt
+2958|商家|shāngjiā|n.|merchant; business operator
+2959|商人|shāngrén|n.|businessman; merchant
+2960|商务|shāngwù|n.|business affairs; commerce
+2961|商业|shāngyè|n.|commerce; business
+2962|赏|shǎng|v.|to reward; appreciate
+2963|上传|shàngchuán|v.|to upload
+2964|上升|shàngshēng|v.|to rise; increase
+2965|上下|shàngxià|n.|up and down; approximately
+2966|上涨|shàngzhǎng|v.|to rise; increase
+2967|烧|shāo|v. / n.|to burn; cook
+2968|烧烤|shāokǎo|n.|barbecue; grilling
+2969|蛇|shé|n.|snake
+2970|舍不得|shěbude|v.|to be reluctant to part with
+2971|舍得|shěde|v.|to be willing to part with
+2972|设备|shèbèi|n.|equipment
+2973|设计|shèjì|v. / n.|to design; design
+2974|设立|shèlì|v.|to establish; set up
+2975|社区|shèqū|n.|community
+2976|设施|shèshī|n.|facility
+2977|摄影|shèyǐng|v.|photography
+2978|设置|shèzhì|v.|to set up; configure
+2979|伸|shēn|v.|to stretch; extend
+2980|身材|shēncái|n.|figure; body shape
+2981|深度|shēndù|n. / adj.|depth; deep
+2982|身份|shēnfèn|n.|identity; status
+2983|深厚|shēnhòu|adj.|deep; profound
+2984|深刻|shēnkè|adj.|profound; deep
+2985|深入|shēnrù|v. / adj.|to go deep into; thorough
+2986|深远|shēnyuǎn|adj.|far-reaching; profound
+2987|神话|shénhuà|n.|myth; mythology
+2988|神秘|shénmì|adj.|mysterious
+2989|升|shēng|v.|to rise; promote
+2990|生产|shēngchǎn|v.|to produce; production
+2991|生存|shēngcún|v.|to survive; survival
+2992|生动|shēngdòng|adj.|lively; vivid
+2993|升级|shēngjí|v.|to upgrade
+2994|升温|shēngwēn|v.|to warm; temperature rise
+2995|生物|shēngwù|n.|organism; biology
+2996|生肖|shēngxiào|n.|Chinese zodiac sign
+2997|生长|shēngzhǎng|v.|to grow
+2998|省|shěng|v.|to save; economize
+2999|省份|shěngfèn|n.|province
+3000|省会|shěnghuì|n.|provincial capital
+3001|胜|shèng|v.|to win; victory
+3002|胜利|shènglì|v.|victory; to win
+3003|诗|shī|n.|poem; poetry
+3004|湿|shī|adj.|wet; damp
+3005|失恋|shīliàn|v.|to suffer a breakup
+3006|失眠|shīmián|v.|to suffer insomnia
+3007|诗人|shīrén|n.|poet
+3008|失误|shīwù|v. / n.|mistake; error
+3009|失业|shīyè|v.|to be unemployed
+3010|时差|shíchā|n.|time difference; jet lag
+3011|时常|shícháng|adv.|often; frequently
+3012|时代|shídài|n.|era; age
+3013|实践|shíjiàn|v.|to practice; practice
+3014|时刻|shíkè|n. / adv.|moment; at all times
+3015|实力|shílì|n.|strength; actual ability
+3016|时期|shíqī|n.|period; era
+3017|实施|shíshī|v.|to implement; carry out
+3018|石头|shítou|n.|stone
+3019|实习|shíxí|v.|to intern; internship
+3020|实现|shíxiàn|v.|to realize; achieve
+3021|实行|shíxíng|v.|to implement; carry out
+3022|实验|shíyàn|v. / n.|experiment; to experiment
+3023|实验室|shíyànshì|n.|laboratory
+3024|实用|shíyòng|adj.|practical; useful
+3025|食用|shíyòng|v.|to eat; edible use
+3026|使得|shǐde|v.|to make; cause
+3027|始终|shǐzhōng|n. / adv.|from beginning to end; always
+3028|式|shì|suffix|-form; style suffix
+3029|适当|shìdàng|adj.|appropriate; proper
+3030|似的|shìde|part.|like; as if
+3031|事故|shìgù|n.|accident; incident
+3032|事件|shìjiàn|n.|event; incident
+3033|试卷|shìjuàn|n.|exam paper; test paper
+3034|市民|shìmín|n.|city resident; citizen
+3035|事实|shìshí|n.|fact
+3036|视为|shìwéi|v.|to regard as
+3037|事物|shìwù|n.|thing; object
+3038|事先|shìxiān|n.|in advance; beforehand
+3039|试验|shìyàn|v.|to test; trial
+3040|事业|shìyè|n.|career; undertaking
+3041|试用|shìyòng|v.|to try out; trial use
+3042|适用|shìyòng|adj.|applicable; suitable for use
+3043|收获|shōuhuò|v. / n.|to harvest; gain
+3044|收集|shōují|v.|to collect; gather
+3045|收看|shōukàn|v.|to watch; tune in
+3046|守|shǒu|v.|to guard; observe
+3047|首次|shǒucì|num.-mw.|first time; for the first time
+3048|手段|shǒuduàn|n.|means; method
+3049|手工|shǒugōng|n.|handicraft; handmade
+3050|手术|shǒushù|n. / v.|surgery; operation
+3051|手套|shǒutào|n.|glove
+3052|手续|shǒuxù|n.|procedure; formalities
+3053|手指|shǒuzhǐ|n.|finger
+3054|售价|shòujià|n.|selling price
+3055|蔬菜|shūcài|n.|vegetable
+3056|书法|shūfǎ|n.|calligraphy
+3057|书房|shūfáng|n.|study; home office
+3058|书架|shūjià|n.|bookshelf
+3059|输入|shūrù|v.|to input; enter
+3060|舒适|shūshì|adj.|comfortable
+3061|熟练|shúliàn|adj.|skilled; proficient
+3062|熟人|shúrén|n.|acquaintance
+3063|数|shǔ|v.|to count
+3064|鼠标|shǔbiāo|n.|computer mouse
+3065|属于|shǔyú|v.|to belong to
+3066|束|shù|mw.|bundle; bunch
+3067|数据|shùjù|n.|data
+3068|树木|shùmù|n.|trees; woods
+3069|摔|shuāi|v.|to fall; throw down
+3070|双方|shuāngfāng|n.|both sides; both parties
+3071|水分|shuǐfèn|n.|moisture; water content
+3072|税|shuì|n.|tax
+3073|睡眠|shuìmián|n.|sleep; sleep quality
+3074|顺|shùn|v. / prep. / adj.|along; following; smooth
+3075|说不定|shuōbudìng|v. / adv.|maybe; perhaps
+3076|说服|shuōfú|v.|to persuade; convince
+3077|思考|sīkǎo|v.|to think; ponder
+3078|私人|sīrén|n.|private; personal
+3079|思维|sīwéi|n. / v.|thinking; thought process
+3080|思想|sīxiǎng|n.|thought; ideology
+3081|四处|sìchù|n.|everywhere; all around
+3082|似乎|sìhū|adv.|seemingly; it seems
+3083|四周|sìzhōu|n.|surroundings; all around
+3084|搜|sōu|v.|to search
+3085|搜索|sōusuǒ|v.|to search
+3086|宿舍|sùshè|n.|dormitory
+3087|酸甜苦辣|suān-tián-kǔ-là|phr.|sour, sweet, bitter and spicy; life's flavors
+3088|随|suí|v.|to follow; along with
+3089|随后|suíhòu|adv.|afterwards; subsequently
+3090|随时|suíshí|adv.|at any time
+3091|随手|suíshǒu|adv.|casually; conveniently
+3092|随意|suíyì|adj.|as one wishes; casual
+3093|碎|suì|v. / adj.|broken; shattered
+3094|损害|sǔnhài|v.|to harm; damage
+3095|损失|sǔnshī|v. / n.|to lose; loss
+3096|缩短|suōduǎn|v.|to shorten
+3097|缩小|suōxiǎo|v.|to reduce; shrink
+3098|所|suǒ|mw. / n.|place; institution measure word
+3099|锁|suǒ|n. / v.|lock; to lock
+3100|他人|tārén|pron.|other people; others
+3101|台灯|táidēng|n.|desk lamp
+3102|台阶|táijiē|n.|step; stair
+3103|太太|tàitai|n.|wife; Mrs.
+3104|谈话|tánhuà|v.|to talk; conversation
+3105|桃|táo|n.|peach
+3106|套|tào|n. / v. / mw.|set; suit; set of items
+3107|特产|tèchǎn|n.|local specialty
+3108|特色|tèsè|n.|feature; characteristic
+3109|特殊|tèshū|adj.|special; unusual
+3110|特有|tèyǒu|adj.|unique; characteristic
+3111|特征|tèzhēng|n.|feature; characteristic
+3112|疼痛|téngtòng|adj.|painful; pain
+3113|提倡|tíchàng|v.|to advocate; promote
+3114|提交|tíjiāo|v.|to submit
+3115|题目|tímù|n.|question; topic
+3116|提起|tíqǐ|v.|to mention; bring up
+3117|提升|tíshēng|v.|to raise; improve
+3118|提问|tíwèn|v.|to ask a question
+3119|体会|tǐhuì|v. / n.|to understand through experience; insight
+3120|体力|tǐlì|n.|physical strength
+3121|体现|tǐxiàn|v.|to embody; reflect
+3122|体验|tǐyàn|v.|to experience; experience
+3123|替|tì|v. / prep.|to replace; for
+3124|天空|tiānkōng|n.|sky
+3125|天上|tiānshàng|n.|in the sky; above
+3126|填|tián|v.|to fill in
+3127|甜品|tiánpǐn|n.|dessert; sweet food
+3128|挑|tiāo|v.|to choose; carry on a shoulder
+3129|挑选|tiāoxuǎn|v.|to select; choose
+3130|调|tiáo|v.|to adjust; mix
+3131|调皮|tiáopí|adj.|naughty; mischievous
+3132|调整|tiáozhěng|v.|to adjust; adjustment
+3133|挑战|tiǎozhàn|v. / n.|to challenge; challenge
+3134|跳高|tiàogāo|v.|high jump
+3135|跳远|tiàoyuǎn|v.|long jump
+3136|贴|tiē|v.|to stick; paste
+3137|铁路|tiělù|n.|railway
+3138|停留|tíngliú|v.|to stay; remain
+3139|通常|tōngcháng|adj. / adv.|usual; usually
+3140|通行|tōngxíng|v.|to pass; be open to traffic
+3141|同|tóng|adj. / v. / adv. / prep. / conj.|same; together with
+3142|同情|tóngqíng|v.|to sympathize
+3143|同一|tóngyī|adj.|the same; identical
+3144|统计|tǒngjì|v.|to count; statistics
+3145|统一|tǒngyī|v. / adj.|to unify; unified
+3146|痛苦|tòngkǔ|adj.|painful; suffering
+3147|投|tóu|v.|to throw; invest
+3148|投入|tóurù|v. / adj. / n.|to invest; devote;commit
+3149|头|tou|suffix|-head suffix
+3150|突出|tūchū|v. / adj.|to stand out; prominent
+3151|图画|túhuà|n.|picture; drawing
+3152|图书|túshū|n.|books; library materials
+3153|土地|tǔdì|n.|land; soil
+3154|土豆|tǔdòu|n.|potato
+3155|兔子|tùzi|n.|rabbit
+3156|团|tuán|v. / n. / mw.|group; ball; to roll together
+3157|团队|tuánduì|n.|team
+3158|推动|tuīdòng|v.|to promote; drive
+3159|推广|tuīguǎng|v.|to promote; popularize
+3160|推荐|tuījiàn|v.|to recommend
+3161|推进|tuījìn|v.|to advance; promote
+3162|退|tuì|v.|to retreat; return
+3163|退出|tuìchū|v.|to exit; withdraw
+3164|退还|tuìhuán|v.|to return; refund
+3165|退休|tuìxiū|v.|to retire
+3166|拖鞋|tuōxié|n.|slippers
+3167|外部|wàibù|n.|exterior; external
+3168|外公|wàigōng|n.|maternal grandfather
+3169|外观|wàiguān|n.|exterior; appearance
+3170|外婆|wàipó|n.|maternal grandmother
+3171|外形|wàixíng|n.|external shape; appearance
+3172|弯|wān|adj. / v. / n.|curved; bend; turn
+3173|玩具|wánjù|n.|toy
+3174|完美|wánměi|adj.|perfect
+3175|完善|wánshàn|adj. / v.|perfect; improve
+3176|完整|wánzhěng|adj.|complete; intact
+3177|万一|wànyī|n. / conj.|in case; if by any chance
+3178|往返|wǎngfǎn|v.|to go back and forth
+3179|网络|wǎngluò|n.|network; internet
+3180|危害|wēihài|v.|to harm; danger
+3181|微笑|wēixiào|v. / n.|to smile; smile
+3182|威胁|wēixié|v.|to threaten; threat
+3183|围|wéi|v.|to surround
+3184|为|wéi|prep.|by; formal passive marker
+3185|维持|wéichí|v.|to maintain
+3186|违法|wéifǎ|v.|to violate the law
+3187|违反|wéifǎn|v.|to violate; breach
+3188|围巾|wéijīn|n.|scarf
+3189|围绕|wéirào|v.|to revolve around; center on
+3190|维修|wéixiū|v.|to repair; maintain
+3191|唯一|wéiyī|adj.|only; unique
+3192|尾巴|wěiba|n.|tail
+3193|伟大|wěidà|adj.|great; mighty
+3194|胃|wèi|n.|stomach
+3195|喂|wèi|v.|to feed
+3196|未来|wèilái|adj. / n.|future; future time
+3197|位于|wèiyú|v.|to be located at
+3198|位置|wèizhì|n.|position; location
+3199|温暖|wēnnuǎn|adj. / v.|warm; to warm
+3200|文学|wénxué|n.|literature
+3201|稳定|wěndìng|adj. / v.|stable; to stabilize
+3202|问卷|wènjuàn|n.|questionnaire
+3203|握|wò|v.|to hold; grip
+3204|卧室|wòshì|n.|bedroom
+3205|握手|wòshǒu|v.|to shake hands
+3206|无关|wúguān|v.|unrelated; irrelevant
+3207|无奈|wúnài|v. / conj.|helpless; have no choice
+3208|无数|wúshù|adj.|countless
+3209|无限|wúxiàn|adj.|unlimited; infinite
+3210|无效|wúxiào|v.|invalid; ineffective
+3211|舞蹈|wǔdǎo|n.|dance
+3212|武术|wǔshù|n.|martial arts
+3213|舞台|wǔtái|n.|stage
+3214|五颜六色|wǔyán-liùsè|phr.|colorful; multicolored
+3215|雾|wù|n.|fog
+3216|物价|wùjià|n.|commodity prices; cost of living
+3217|物理|wùlǐ|n.|physics
+3218|物品|wùpǐn|n.|item; object
+3219|物业|wùyè|n.|property management
+3220|物质|wùzhì|n.|material; substance
+3221|西餐|xīcān|n.|Western food
+3222|吸管|xīguǎn|n.|straw
+3223|吸收|xīshōu|v.|to absorb
+3224|西装|xīzhuāng|n.|Western suit
+3225|戏|xì|n.|drama; play
+3226|系|xì|n.|department; faculty
+3227|细节|xìjié|n.|detail
+3228|戏剧|xìjù|n.|drama; theater
+3229|系统|xìtǒng|n. / adj.|system; systematic
+3230|下载|xiàzài|v.|to download
+3231|先后|xiānhòu|n. / adv.|before and after; successively
+3232|先进|xiānjìn|adj. / n.|advanced; forefront
+3233|闲|xián|adj.|idle; free
+3234|显得|xiǎnde|v.|to appear; seem
+3235|显然|xiǎnrán|adj.|obvious; evidently
+3236|显示|xiǎnshì|v.|to display; show
+3237|县|xiàn|n.|county
+3238|现场|xiànchǎng|n.|site; scene
+3239|现代|xiàndài|n. / adj.|modern; modern times
+3240|现代化|xiàndàihuà|v.|to modernize; modernization
+3241|线路|xiànlù|n.|route; line
+3242|现实|xiànshí|n. / adj.|reality; realistic
+3243|现象|xiànxiàng|n.|phenomenon
+3244|限制|xiànzhì|v. / n.|to limit; restriction
+3245|现状|xiànzhuàng|n.|current situation; status quo
+3246|乡|xiāng|n.|countryside township
+3247|相处|xiāngchǔ|v.|to get along
+3248|乡村|xiāngcūn|n.|countryside; village
+3249|相当|xiāngdāng|v. / adv.|quite; equivalent to
+3250|相对|xiāngduì|v. / adj.|relative; comparatively
+3251|相关|xiāngguān|v.|related; relevant
+3252|相似|xiāngsì|adj.|similar
+3253|想念|xiǎngniàn|v.|to miss; think of
+3254|响声|xiǎngshēng|n.|sound; noise
+3255|享受|xiǎngshòu|v.|to enjoy
+3256|想象|xiǎngxiàng|v.|to imagine
+3257|相册|xiàngcè|n.|photo album
+3258|项目|xiàngmù|n.|project; item
+3259|橡皮|xiàngpí|n.|eraser
+3260|向上|xiàngshàng|v.|upward; to move up
+3261|象征|xiàngzhēng|v. / n.|to symbolize; symbol
+3262|消费|xiāofèi|v.|to consume; consumption
+3263|消费者|xiāofèizhě|n.|consumer
+3264|消化|xiāohuà|v.|to digest; digestion
+3265|消极|xiāojí|adj.|negative; passive
+3266|销量|xiāoliàng|n.|sales volume
+3267|消失|xiāoshī|v.|to disappear
+3268|销售|xiāoshòu|v.|to sell; sales
+3269|小姐|xiǎojiě|n.|Miss; young lady
+3270|小型|xiǎoxíng|adj.|small-scale; small-sized
+3271|小于|xiǎoyú|v.|to be less than
+3272|效率|xiàolǜ|n.|efficiency
+3273|斜|xié|adj. / v.|slanted; diagonal
+3274|协议|xiéyì|v. / n.|agreement; protocol
+3275|写作|xiězuò|v.|to write; writing
+3276|新郎|xīnláng|n.|bridegroom
+3277|心理|xīnlǐ|n.|psychology; mental state
+3278|新娘|xīnniáng|n.|bride
+3279|新人|xīnrén|n.|newcomer; newlywed
+3280|欣赏|xīnshǎng|v.|to appreciate; admire
+3281|心态|xīntài|n.|mindset; mentality
+3282|新型|xīnxíng|adj.|new type; new model
+3283|信封|xìnfēng|n.|envelope
+3284|信任|xìnrèn|v.|to trust; trust
+3285|信用|xìnyòng|n.|credit; trustworthiness
+3286|行程|xíngchéng|n.|itinerary; journey
+3287|形成|xíngchéng|v.|to form; take shape
+3288|行动|xíngdòng|v. / n.|to act; action
+3289|行人|xíngrén|n.|pedestrian
+3290|形容|xíngróng|v.|to describe
+3291|形式|xíngshì|n.|form; format
+3292|形势|xíngshì|n.|situation; circumstances
+3293|行驶|xíngshǐ|v.|to drive; travel
+3294|行为|xíngwéi|n.|behavior; conduct
+3295|形象|xíngxiàng|n. / adj.|image; appearance
+3296|形状|xíngzhuàng|n.|shape; form
+3297|行走|xíngzǒu|v.|to walk; travel on foot
+3298|幸运|xìngyùn|n. / adj.|lucky; good fortune
+3299|性质|xìngzhì|n.|nature; property
+3300|修改|xiūgǎi|v.|to revise; modify
+3301|修建|xiūjiàn|v.|to build; construct
+3302|休闲|xiūxián|v.|leisure; to relax
+3303|需|xū|v.|to need; require
+3304|需求|xūqiú|n.|demand; need
+3305|虚心|xūxīn|adj.|modest; open-minded
+3306|宣布|xuānbù|v.|to announce
+3307|宣传|xuānchuán|v.|to publicize; promote
+3308|选手|xuǎnshǒu|n.|contestant; athlete
+3309|学分|xuéfēn|n.|academic credit
+3310|学科|xuékē|n.|academic subject; discipline
+3311|学历|xuélì|n.|educational background; qualification
+3312|学年|xuénián|n.|academic year
+3313|学术|xuéshù|n.|academic; scholarship
+3314|学者|xuézhě|n.|scholar
+3315|雪糕|xuěgāo|n.|ice cream; popsicle
+3316|询问|xúnwèn|v.|to inquire; ask
+3317|寻找|xúnzhǎo|v.|to search for
+3318|训练|xùnliàn|v.|to train; training
+3319|迅速|xùnsù|adj.|rapid; swift
+3320|呀|yā|interj.|ah; particle
+3321|押金|yājīn|n.|deposit
+3322|压岁钱|yāsuìqián|n.|New Year's gift money
+3323|鸭子|yāzi|n.|duck
+3324|牙齿|yáchǐ|n.|teeth
+3325|沿|yán|prep. / v. / n.|along; follow
+3326|延长|yáncháng|v.|to extend; lengthen
+3327|研发|yánfā|v.|to research and develop; R&D
+3328|严肃|yánsù|adj. / v.|serious; solemn
+3329|研制|yánzhì|v.|to develop; manufacture through research
+3330|眼|yǎn|n. / mw.|eye; hole; measure word
+3331|演讲|yǎnjiǎng|v.|to give a speech; speech
+3332|眼泪|yǎnlèi|n.|tear; tears
+3333|阳台|yángtái|n.|balcony
+3334|样式|yàngshì|n.|style; pattern
+3335|腰|yāo|n.|waist
+3336|摇|yáo|v.|to shake; sway
+3337|咬|yǎo|v.|to bite
+3338|要不|yàobù|conj.|otherwise; how about
+3339|要不是|yàobúshì|conj.|if it were not for
+3340|药品|yàopǐn|n.|medicine; pharmaceutical product
+3341|药物|yàowù|n.|drug; medicine
+3342|夜间|yèjiān|n.|nighttime
+3343|夜市|yèshì|n.|night market
+3344|业务|yèwù|n.|business; operation
+3345|业余|yèyú|adj.|spare-time; amateur
+3346|依据|yījù|n. / v. / prep.|basis; according to
+3347|依靠|yīkào|v. / n.|to rely on; support
+3348|医疗|yīliáo|v.|medical treatment
+3349|依然|yīrán|adv.|still; as before
+3350|医学|yīxué|n.|medicine; medical science
+3351|移|yí|v.|to move; shift
+3352|一次性|yícìxìng|adj.|disposable; one-time
+3353|一代|yídài|n.|generation
+3354|一旦|yídàn|adv.|once; as soon as
+3355|移动|yídòng|v.|to move; mobile
+3356|遗憾|yíhàn|n. / adj.|regret; regrettable
+3357|一路|yílù|n. / adv.|all the way; route
+3358|一路顺风|yílù-shùnfēng|phr.|have a good trip
+3359|疑问|yíwèn|n.|doubt; question
+3360|一致|yízhì|adj. / adv.|consistent; unanimous
+3361|乙|yǐ|n.|second; B
+3362|以|yǐ|prep.|by means of; according to
+3363|以及|yǐjí|conj.|and; as well as
+3364|以来|yǐlái|n.|since; over the period since
+3365|亿|yì|num.|hundred million
+3366|意识|yìshí|v. / n.|to realize; awareness
+3367|意外|yìwài|adj. / n.|unexpected; accident
+3368|意味着|yìwèizhe|v.|to mean; signify
+3369|义务|yìwù|n. / adj.|duty; obligation
+3370|意义|yìyì|n.|meaning; significance
+3371|因而|yīn'ér|conj.|therefore; consequently
+3372|音量|yīnliàng|n.|volume; sound level
+3373|因素|yīnsù|n.|factor
+3374|引进|yǐnjìn|v.|to introduce; bring in
+3375|饮食|yǐnshí|n.|diet; food and drink
+3376|印刷|yìnshuā|v.|to print; printing
+3377|应当|yīngdāng|v.|should; ought to
+3378|迎|yíng|v.|to welcome; face
+3379|迎接|yíngjiē|v.|to welcome; greet
+3380|营养|yíngyǎng|n.|nutrition
+3381|营业|yíngyè|v.|to do business; be open
+3382|影片|yǐngpiàn|n.|film; movie
+3383|影视|yǐngshì|n.|film and television
+3384|硬|yìng|adj. / adv.|hard; stiff
+3385|应对|yìngduì|v.|to respond to; deal with
+3386|硬件|yìngjiàn|n.|hardware
+3387|应用|yìngyòng|v. / adj.|to apply; application
+3388|拥抱|yōngbào|v.|to hug; embrace
+3389|拥有|yōngyǒu|v.|to own; possess
+3390|勇气|yǒngqì|n.|courage
+3391|用法|yòngfǎ|n.|usage; way of using
+3392|用户|yònghù|n.|user
+3393|用力|yònglì|v.|to exert force
+3394|用品|yòngpǐn|n.|supplies; articles
+3395|用途|yòngtú|n.|use; purpose
+3396|优惠|yōuhuì|adj.|discount; preferential
+3397|悠久|yōujiǔ|adj.|long-standing; long history
+3398|优良|yōuliáng|adj.|fine; excellent
+3399|优美|yōuměi|adj.|beautiful; graceful
+3400|优势|yōushì|n.|advantage; strength
+3401|优质|yōuzhì|adj.|high-quality
+3402|由此|yóu cǐ|phr.|from this; therefore
+3403|邮寄|yóujì|v.|to mail; post
+3404|邮局|yóujú|n.|post office
+3405|游览|yóulǎn|v.|to tour; visit
+3406|邮票|yóupiào|n.|stamp; postage stamp
+3407|油条|yóutiáo|n.|fried dough stick
+3408|犹豫|yóuyù|adj.|hesitant; to hesitate
+3409|有害|yǒu hài|phr.|harmful
+3410|有力|yǒulì|adj.|powerful; forceful
+3411|有利|yǒulì|adj.|beneficial; favorable
+3412|有限|yǒuxiàn|adj.|limited
+3413|有益|yǒuyì|adj.|beneficial
+3414|有助于|yǒuzhùyú|v.|to help; be beneficial to
+3415|幼儿园|yòu'éryuán|n.|kindergarten
+3416|娱乐|yúlè|v. / n.|entertainment; to entertain
+3417|语气|yǔqì|n.|tone; manner of speaking
+3418|雨水|yǔshuǐ|n.|rainwater; rainfall
+3419|语文|yǔwén|n.|Chinese language subject
+3420|语音|yǔyīn|n.|speech sound; pronunciation
+3421|预报|yùbào|v. / n.|to forecast; forecast
+3422|预测|yùcè|v.|to predict
+3423|预订|yùdìng|v.|to reserve; book
+3424|预防|yùfáng|v.|to prevent
+3425|预计|yùjì|v.|to estimate; expect
+3426|玉米|yùmǐ|n.|corn; maize
+3427|预约|yùyuē|v.|to make an appointment; reserve
+3428|原|yuán|adj.|original; former
+3429|圆|yuán|n. / adj.|round; circle
+3430|原有|yuán yǒu|phr.|originally existing; existing
+3431|元旦|Yuándàn|n.|New Year's Day
+3432|员工|yuángōng|n.|employee; staff
+3433|原则|yuánzé|n.|principle
+3434|愿|yuàn|v.|to wish; be willing
+3435|愿望|yuànwàng|n.|wish; desire
+3436|约定|yuēdìng|v.|to agree on; appointment
+3437|运|yùn|v.|to transport; move; luck
+3438|运费|yùnfèi|n.|shipping fee; freight
+3439|运气|yùnqi|n.|luck
+3440|运输|yùnshū|v.|to transport
+3441|运用|yùnyòng|v.|to use; apply
+3442|在场|zàichǎng|v.|to be present
+3443|在乎|zàihu|v.|to care about
+3444|在内|zàinèi|n.|included; within
+3445|在线|zàixiàn|v.|online
+3446|在于|zàiyú|v.|to lie in; depend on
+3447|赞成|zànchéng|v.|to agree; approve
+3448|糟|zāo|adj.|bad; terrible
+3449|糟糕|zāogāo|adj.|terrible; awful
+3450|早期|zǎoqī|n.|early stage; early period
+3451|早晚|zǎowǎn|n. / adv.|sooner or later; morning/evening
+3452|早已|zǎoyǐ|adv.|long ago; already
+3453|造|zào|v.|to make; build
+3454|造成|zàochéng|v.|to cause; create
+3455|增|zēng|v.|to increase
+3456|增进|zēngjìn|v.|to improve; enhance
+3457|增强|zēngqiáng|v.|to strengthen; enhance
+3458|赠|zèng|v.|to give; present
+3459|赠送|zèngsòng|v.|to give as a gift
+3460|炸|zhá|v.|to deep-fry
+3461|摘|zhāi|v.|to pick; pluck
+3462|窄|zhǎi|adj.|narrow
+3463|展出|zhǎnchū|v.|to exhibit; display
+3464|展开|zhǎnkāi|v.|to unfold; launch
+3465|展览|zhǎnlǎn|v.|to exhibit; exhibition
+3466|展示|zhǎnshì|v.|to display; show
+3467|展现|zhǎnxiàn|v.|to display; reveal
+3468|占|zhàn|v.|to occupy; account for
+3469|站台|zhàntái|n.|platform; station platform
+3470|占线|zhànxiàn|v.|line busy; occupy a line
+3471|涨|zhǎng|v.|to rise; swell
+3472|涨价|zhǎngjià|v.|to raise prices
+3473|掌声|zhǎngshēng|n.|applause
+3474|掌握|zhǎngwò|v.|to master; grasp
+3475|账号|zhànghào|n.|account number; username
+3476|账户|zhànghù|n.|account
+3477|着凉|zháoliáng|v.|to catch a chill
+3478|召开|zhàokāi|v.|to convene; hold
+3479|折扣|zhékòu|n.|discount
+3480|哲学|zhéxué|n.|philosophy
+3481|真诚|zhēnchéng|adj.|sincere; genuine
+3482|针对|zhēnduì|v.|to target; aim at
+3483|珍贵|zhēnguì|adj.|precious; valuable
+3484|真实|zhēnshí|adj.|real; true
+3485|珍惜|zhēnxī|v.|to cherish
+3486|诊断|zhěnduàn|v.|to diagnose
+3487|阵|zhèn|mw.|burst; spell; measure word for brief events
+3488|争|zhēng|v.|to fight for; contend
+3489|争取|zhēngqǔ|v.|to strive for; win over
+3490|整齐|zhěngqí|adj.|neat; orderly
+3491|整体|zhěngtǐ|n.|whole; overall
+3492|整整|zhěngzhěng|adv.|a full; exactly
+3493|挣|zhèng|v.|to earn; make money
+3494|政府|zhèngfǔ|n.|government
+3495|证据|zhèngjù|n.|evidence
+3496|正如|zhèngrú|v.|just as; exactly as
+3497|证书|zhèngshū|n.|certificate
+3498|政治|zhèngzhì|n.|politics
+3499|支|zhī|mw.|measure word for sticks/teams
+3500|知名|zhīmíng|adj.|well-known; famous
+3501|直|zhí|adj. / v. / adv.|straight; directly
+3502|直播|zhíbō|v.|live broadcast; livestream
+3503|职场|zhíchǎng|n.|workplace; professional world
+3504|职工|zhígōng|n.|worker; employee
+3505|执行|zhíxíng|v. / adj.|to execute; implement
+3506|止|zhǐ|v.|to stop; cease
+3507|指导|zhǐdǎo|v.|to guide; instruct
+3508|至|zhì|v.|to reach; to
+3509|治|zhì|v.|to treat; govern
+3510|制订|zhìdìng|v.|to formulate; draft
+3511|制定|zhìdìng|v.|to formulate; establish
+3512|制度|zhìdù|n.|system; institution
+3513|智慧|zhìhuì|n.|wisdom; intelligence
+3514|至今|zhìjīn|adv.|until now; to date
+3515|治疗|zhìliáo|v.|to treat; treatment
+3516|智能|zhìnéng|n. / adj.|intelligent; smart technology
+3517|志愿者|zhìyuànzhě|n.|volunteer
+3518|制造|zhìzào|v.|to manufacture
+3519|制作|zhìzuò|v.|to make; produce
+3520|中华|Zhōnghuá|n.|China; Chinese nation
+3521|中华民族|Zhōnghuá Mínzú|phr.|Chinese nation; Chinese people
+3522|中级|zhōngjí|adj.|intermediate; middle level
+3523|中介|zhōngjiè|n.|intermediary; agency
+3524|中期|zhōngqī|n.|middle stage
+3525|中外|zhōngwài|n.|China and foreign countries
+3526|中心|zhōngxīn|n.|center
+3527|中药|zhōngyào|n.|Chinese medicine; herbal medicine
+3528|中医|zhōngyī|n.|traditional Chinese medicine
+3529|种类|zhǒnglèi|n.|kind; category
+3530|种子|zhǒngzi|n.|seed
+3531|重大|zhòngdà|adj.|major; significant
+3532|众多|zhòngduō|adj.|numerous; many
+3533|重量|zhòngliàng|n.|weight
+3534|种植|zhòngzhí|v.|to plant; cultivate
+3535|周年|zhōunián|n.|anniversary
+3536|猪|zhū|n.|pig
+3537|逐步|zhúbù|adv.|step by step
+3538|逐渐|zhújiàn|adv.|gradually
+3539|竹子|zhúzi|n.|bamboo
+3540|煮|zhǔ|v.|to boil; cook
+3541|主持|zhǔchí|v.|to host; preside over
+3542|主动|zhǔdòng|adj.|active; initiative
+3543|主观|zhǔguān|adj.|subjective
+3544|主人|zhǔrén|n.|owner; host
+3545|主任|zhǔrèn|n.|director; head
+3546|主食|zhǔshí|n.|staple food
+3547|主题|zhǔtí|n.|theme; subject
+3548|主席|zhǔxí|n.|chairperson; chairman
+3549|注册|zhùcè|v.|to register
+3550|住房|zhùfáng|n.|housing
+3551|住宿|zhùsù|v.|to stay; lodging
+3552|住址|zhùzhǐ|n.|address; residence address
+3553|注重|zhùzhòng|v.|to emphasize; attach importance to
+3554|抓|zhuā|v.|to grab; catch
+3555|抓紧|zhuājǐn|v.|to hurry; seize the time
+3556|专家|zhuānjiā|n.|expert
+3557|专心|zhuānxīn|adj.|focused; attentive
+3558|转变|zhuǎnbiàn|v.|to transform; change
+3559|转告|zhuǎngào|v.|to pass on a message
+3560|装饰|zhuāngshì|v. / n.|to decorate; decoration
+3561|装修|zhuāngxiū|v.|to renovate; interior decoration
+3562|撞|zhuàng|v.|to collide; bump
+3563|状况|zhuàngkuàng|n.|condition; situation
+3564|状态|zhuàngtài|n.|state; status
+3565|追|zhuī|v.|to chase; pursue
+3566|追求|zhuīqiú|v.|to pursue; seek
+3567|资格|zīgé|n.|qualification; eligibility
+3568|资金|zījīn|n.|funds; capital
+3569|姿势|zīshì|n.|posture; pose
+3570|咨询|zīxún|v.|to consult; consultation
+3571|资源|zīyuán|n.|resource
+3572|紫|zǐ|adj.|purple
+3573|子女|zǐnǚ|n.|children; sons and daughters
+3574|自从|zìcóng|prep.|since
+3575|自动|zìdòng|adv. / adj.|automatic; automatically
+3576|自觉|zìjué|v. / adj.|self-conscious; voluntarily
+3577|字母|zìmǔ|n.|letter; alphabet
+3578|自身|zìshēn|n.|oneself; itself
+3579|自由|zìyóu|adj. / n.|free; freedom
+3580|综合|zōnghé|v.|to synthesize; comprehensive
+3581|总部|zǒngbù|n.|headquarters
+3582|总共|zǒnggòng|adv.|altogether; in total
+3583|总数|zǒngshù|n.|total number
+3584|总体|zǒngtǐ|n.|overall; total
+3585|总统|zǒngtǒng|n.|president
+3586|总之|zǒngzhī|conj.|in short; in a word
+3587|租金|zūjīn|n.|rent; rental payment
+3588|族|zú|suffix|ethnic group; clan suffix
+3589|足够|zúgòu|v.|enough; sufficient
+3590|组成|zǔchéng|v.|to form; make up
+3591|组合|zǔhé|v. / n.|to combine; combination
+3592|阻止|zǔzhǐ|v.|to stop; prevent
+3593|组织|zǔzhī|v. / n.|to organize; organization
+3594|嘴巴|zuǐba|n.|mouth
+3595|醉|zuì|v.|drunk; intoxicated
+3596|最初|zuìchū|n.|at first; initially
+3597|最佳|zuìjiā|adj.|best; optimal
+3598|尊敬|zūnjìng|v. / adj.|to respect; respectful
+3599|遵守|zūnshǒu|v.|to obey; comply with
+3600|作出|zuòchū|v.|to make; produce

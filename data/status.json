@@ -1,17 +1,17 @@
 {
-  "last_run": "2026-11-23T21:37:54+05:00",
-  "ok": false,
+  "last_run": "2026-11-23T21:52:56+05:00",
+  "ok": true,
   "dry_run": false,
   "secrets_ok": true,
   "bot_ok": true,
   "bot_username": "alreadytookbot",
-  "channel_ok": false,
-  "channel_title": null,
+  "channel_ok": true,
+  "channel_title": "Daily Chinese with Doggy 🐶",
   "sent": [],
   "failed": [],
   "expired": [
     "2026-11-21-pm-grammar"
   ],
-  "message": "Kanal topilmadi yoki bot kanalga qo'shilmagan: Tarmoq xatosi: [Errno 104] Connection reset by peer",
+  "message": "",
   "last_sent_at": "2026-11-23T21:22:53+05:00"
 }

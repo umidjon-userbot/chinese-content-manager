@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-23T20:52:04+05:00",
+  "last_run": "2026-11-23T21:17:23+05:00",
   "ok": true,
   "dry_run": false,
   "secrets_ok": true,
@@ -8,10 +8,10 @@
   "channel_ok": true,
   "channel_title": "Daily Chinese with Doggy 🐶",
   "sent": [
-    "2026-11-24-pm-slang"
+    "post-mwtgg01a-6osd3"
   ],
   "failed": [],
   "expired": [],
   "message": "",
-  "last_sent_at": "2026-11-23T20:52:05+05:00"
+  "last_sent_at": "2026-11-23T21:17:25+05:00"
 }

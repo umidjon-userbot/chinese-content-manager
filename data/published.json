@@ -146,6 +146,13 @@
       "type": "hsk",
       "sent_at": "2026-11-23T20:07:56+05:00",
       "message_id": 54
+    },
+    {
+      "id": "2026-11-24-pm-slang",
+      "hanzi": "躺平",
+      "type": "slang",
+      "sent_at": "2026-11-23T20:52:05+05:00",
+      "message_id": 55
     }
   ]
 }

@@ -167,6 +167,13 @@
       "type": "characters",
       "sent_at": "2026-11-23T21:22:53+05:00",
       "message_id": 58
+    },
+    {
+      "id": "hsk1-014",
+      "hanzi": "不客气",
+      "type": "hsk",
+      "sent_at": "2026-11-24T09:07:57+05:00",
+      "message_id": 68
     }
   ]
 }

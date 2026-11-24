@@ -57,6 +57,17 @@ def main():
     cards = json.load(open(cards_path, encoding="utf-8")) if os.path.exists(cards_path) else []
     cards = cards.get("cards", cards) if isinstance(cards, dict) else cards
     posts = {c["id"]: c for c in cards}
+    # HSK 2–6 lug'atlari (data/src/hskN_vocabulary.json) — inglizcha ma'no sahna bo'lmasa ishlatiladi
+    import glob
+    for vf in glob.glob(os.path.join(ROOT, "data", "src", "hsk*_vocabulary.json")):
+        try:
+            vd = json.load(open(vf, encoding="utf-8"))
+            import re as _re
+            lvl = (_re.search(r"\d", str(vd.get("level") or "")) or _re.search(r"\d", os.path.basename(vf))).group(0)
+            for w in vd.get("vocabulary", []):
+                posts.setdefault(f"hsk{lvl}-{int(w['id']):03d}", {"en": w.get("english", "")})
+        except Exception:  # noqa
+            pass
     scenes_path = os.path.join(ROOT, "data", "doggy_scenes.json")
     scenes = json.load(open(scenes_path, encoding="utf-8")) if os.path.exists(scenes_path) else {}
     out = os.path.join(ROOT, "assets", "doggy", "raw"); os.makedirs(out, exist_ok=True)

@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-25T13:52:52+05:00",
+  "last_run": "2026-11-25T14:07:55+05:00",
   "ok": true,
   "dry_run": false,
   "secrets_ok": true,
@@ -7,11 +7,13 @@
   "bot_username": "alreadytookbot",
   "channel_ok": true,
   "channel_title": "Daily Chinese with Doggy 🐶",
-  "sent": [],
+  "sent": [
+    "hsk2-315"
+  ],
   "failed": [],
   "expired": [
     "2026-11-21-pm-grammar"
   ],
   "message": "",
-  "last_sent_at": "2026-11-25T13:07:53+05:00"
+  "last_sent_at": "2026-11-25T14:07:57+05:00"
 }

@@ -1838,9 +1838,12 @@
       "text_override": null,
       "image": "assets/images/hsk2-316.jpg",
       "scheduled_at": "2026-11-25T16:00:00+05:00",
-      "status": "Scheduled",
+      "status": "Published",
       "created_at": "2026-11-23T00:53:08+05:00",
-      "updated_at": "2026-11-23T00:53:08+05:00"
+      "updated_at": "2026-11-23T00:53:08+05:00",
+      "published_at": "2026-11-25T16:07:55+05:00",
+      "message_id": 95,
+      "status_updated_at": "2026-11-25T16:07:53+05:00"
     },
     {
       "id": "hsk1-024",
